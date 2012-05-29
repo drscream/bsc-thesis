@@ -28,7 +28,7 @@
 
 <strong class="pseudo-h1">Eidesstattliche Erklärung</strong>
 
-Hiermit erkläre ich, Thomas Merkel, geboren am 10.10.1985 in Tettnang, dass ich die vorliegende Bachelorthesis mit dem Titel "Entwicklung einer mobilen Anwendung zur Verwaltung von Cloud Infrastruktur" selbständig verfasst habe und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt wurden.
+Hiermit erkläre ich, Thomas Merkel, geboren am 10.10.1985 in Tettnang, dass ich die vorliegende Bachelorthesis mit dem Titel „Entwicklung einer mobilen Anwendung zur Verwaltung von Cloud Infrastruktur“ selbständig verfasst habe und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt wurden.
 
 
 <br /><br /><br /><br />
@@ -38,4 +38,4 @@ Tettnang, den 30. Mai 2012
 
 <strong class="pseudo-h1">Abstract</strong>
 
-
+„Alles muss in die Cloud“, wie oft hört liest man dies in IT Magazinen oder hört die Aussage von Managern.
