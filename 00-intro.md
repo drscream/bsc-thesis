@@ -38,4 +38,3 @@ Tettnang, den 30. Mai 2012
 
 <strong class="pseudo-h1">Abstract</strong>
 
-„Alles muss in die Cloud“, wie oft hört liest man dies in IT Magazinen oder hört die Aussage von Managern.
