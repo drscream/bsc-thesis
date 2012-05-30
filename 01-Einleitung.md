@@ -20,10 +20,19 @@ Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwe
 ## Problemstellung
 
 
+
 ## Zielsetzung
 
+Durch dieses Projekt soll ein Konzept für eine iOS Anwendung erstellt werden mit der die Möglichkeit besteht virtuelle Server innerhalb einer Cloud Infrastruktur zu steuern. Die Zielgruppe für die Anwendung sind IT Mitarbeiter und Administratoren. Die Anwendung kommt häufig im Problemfall zum Einsatz, somit ist auf eine einfache und intuitive Bedienung zu achten. Bei der Anwendung steht die Benutzerfreundlichkeit im Vordergrund.
 
+Als Schnittstelle zwischen iOS Anwendung und den virtuellen Servern soll libVirt<span class="fn"><a href="http://www.libvirt.org">libVirt</a></span>, eine API zur Verwaltung von verschiedenen Virtualisierungstechnologien, zum Einsatz kommen.
 
 ## Abgrenzung
+
+In der Bachelor-Thesis wird keine vollwertige iOS Anwendung entwickelt. Durch ein Konzept und die Erstellung eines Prototyps soll ein gutes Gleichgewicht zwischen Benutzerfreundlichkeit und Anwendungsumfang erstellt werden.
+
 ## Struktur und Aufbau der Arbeit
+
+
+
 ## Formale Hinweise
