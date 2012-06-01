@@ -34,9 +34,12 @@ In der Bachelor-Thesis wird keine vollwertige iOS Anwendung entwickelt. Durch ei
 
 ## Struktur und Aufbau der Arbeit
 
-Die Bachelorarbeit ist in vier Teilbereiche gegliedert. Sie spiegelt dadurch den ungefähren Verlauf des Projekts wieder. <br />
-In der <b>Einleitung</b> wird der Projektträger vorgestellt und die Ziele des Projekts beschrieben. Die für die Arbeit relevanten Begriffe werden in den <b>Grundlagen</b> erklärt. Es erfolgt eine Vorstellung des verwendeten Mobilen Endgeräts und der Cloud Schnittstelle. Die Kriterien für die Usability-Tests werden beschrieben. <br />
-Im Kapitel <b>Analyse</b> erfolgt eine Darstellung der aktuellen Situation. Ein erster Prototyp wird erstellt und beschrieben um Usability-Tests anwenden zu können. Die Zielgruppe wird zum Prototypen befragt. In der <b>Realisierung</b> werden die technischen Aspekte zur Entwicklung der Anwendung angesprochen. Es werden Quelltext zur grafische Benutzeroberfläche und Schnittstelle näher erläutert.<br />
+Die Bachelorarbeit ist in vier Teilbereiche gegliedert. Sie spiegelt dadurch den ungefähren Verlauf des Projekts wieder.
+
+In der <b>Einleitung</b> wird der Projektträger vorgestellt und die Ziele des Projekts beschrieben. Die für die Arbeit relevanten Begriffe werden in den <b>Grundlagen</b> erklärt. Es erfolgt eine Vorstellung des verwendeten Mobilen Endgeräts und der Cloud Schnittstelle. Die Kriterien für die Usability-Tests werden beschrieben.
+
+Im Kapitel <b>Analyse</b> erfolgt eine Darstellung der aktuellen Situation. Ein erster Prototyp wird erstellt und beschrieben um Usability-Tests anwenden zu können. Die Zielgruppe wird zum Prototypen befragt. In der <b>Realisierung</b> werden die technischen Aspekte zur Entwicklung der Anwendung angesprochen. Es werden Quelltext zur grafische Benutzeroberfläche und Schnittstelle näher erläutert.
+
 Zum Abschluss der Thesis erfolgt ein <b>Résumé</b> über das gesamte Projekt und die Arbeit. Ein Ausblick auf den Vorlauf des Projekts außerhalb der Bachelor-Thesis wird gegeben.
 
 
