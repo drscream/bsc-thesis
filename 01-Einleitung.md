@@ -1,13 +1,15 @@
 # Einleitung
 ## Projektträger
 
-Der Auftraggeber und Träger dieses Projekts ist die IT Abteilung der Avira Operations GmbH & Co. KG<span class="fn"><a href="http://www.avira.com">Avira Operations GmbH & Co. KG</a></span>. (im Folgenden Avira genannt).
+Der Auftraggeber und Träger dieses Projekts ist die IT Abteilung der Avira Operations GmbH & Co. KG<span class="fn"><a href="http://www.avira.com">Avira Operations GmbH & Co. KG</a></span>. (im Folgenden Avira genannt). Die IT Abteilung versteht sich als serviceorientierter Dienstleister für Avira, der Kunde und die Verfügbarkeit der Dienste liegen somit im Mittelpunkt.
 
 Die Avira ist mit rund 100 Millionen Kunden und 500 Mitarbeitern ein weltweit führender Anbieter selbst entwickelter Sicherheitslösungen für den professionellen und privaten Einsatz. Das Unternehmen gehört mit mehr als 25-jähriger Erfahrung zu den Pionieren in diesem Bereich.
 
 Als führender deutscher Sicherheitsspezialist verfügt Avira über fundierte Erfahrung im Entwickeln und Supporten ihrer Lösungen. Neben Programmen direkt für den Einzelplatzbetrieb bietet sie hauptsächlich professionelle Lösungen für systemübergreifenden Schutz von Netzwerken auf verschiedenen Ebenen an. Hierzu zählen u. a. Produkte für Workstations, File-, Mail- und Web-Server. Auch Gateway-Rechner können wie Arbeitsplatzrechner über eine zentrale Verwaltungskonsole betriebssystemübergreifend verwaltet werden. Zu den Verwaltungsprodukten der einzelnen Lösungen kommen noch Sicherheitsprogramme für PDAs, Smartphones und Embedded Devices hinzu. Ein signifikanter Sicherheitsbeitrag ist Avira AntiVir Personal, das millionenfach bei Privatanwendern im Einsatz ist.
 
 Avira ist in Tettnang am Bodensee einer der größten regionalen Arbeitgeber. Sie unterhält mehrere Unternehmensstandorte in Deutschland und pflegt Partnerschaften in Europa, Asien und Amerika. Mehrere Dutzend Virus-Researcher in verteilten Virenlabors kümmern sich rund um die Uhr um die lokalen und globalen Bedrohungen der Virenfront. Bestätigt wird diese Arbeit etwa durch mehrfache Testauszeichnungen mit dem VB 100% des Virus Bulletin<span class="fn"><a href="http://www.virusbtn.com">Virus Bulletin</a></span> oder der wiederholten TÜV-Zertifizierung.
+
+Zu den nationalen und internationalen Kunden zählen namhafte börsennotierte Unternehmen aber auch Bildungseinrichtungen und öffentliche Auftraggeber. Neben dem Schutz der virtuellen Umgebung kümmert sich Avira durch Fördern der Auerbach Stiftung<span class="fn"><a href="http://www.auerbach-stiftung.de">Auerbach Stiftung</a></span> um mehr Schutz und Sicherheit in der realen Welt.
 
 ## Motivation
 
@@ -18,6 +20,12 @@ Der Marktanteil für Smartphones mit Google Android oder Apple iOS steigt jedes 
 Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwendung mobiler Anwendungen. Diese stellt andere Anforderungen an den Benutzer und den Entwickler. So ist unsere anderem schon der kleinere Bildschirm und der dadurch resultierende Aufbau der Benutzeroberflächen eine Herausforderung.
 
 ## Problemstellung
+
+<i>„Als Admin fähre ich mit meinem Sportwagen Richtung Süden. Dank meines iPhone bemerkt ich, dass meine Internetseite auf Facebook angekündigt wird. Durch die vielen Zugriffe auf den Webserver wäre meine Seite nicht mehr erreichbar und ich würde Umsatz verlieren.“ (IT Mitarbeiter User Story)</i>
+
+Jeder IT Mitarbeiter der Avira besitzt ein iPhone und soll, falls möglich, schnell genug auf Probleme reagieren können. Da viele Dienste auf virtuellen Servern in der Cloud Infrastruktur zur Verfügung stehen muss er diese schnell und einfach verwalten können.
+
+Erfahrungen der Mitarbeiter zeigen, dass nicht die Dienste selbst das Problem sind, sondern eine Störung am virtuellen Server vorliegt. So muss unter anderem bei hoher Last des Servers mehr Arbeitsspeicher oder mehrere CPUs hinzugeschaltet werden. Da ein Smartphone leichter zu transportieren ist als ein Notebook, bietet sich eine mobile Anwendung für die Steuerung der Cloud Systeme an.
 
 
 
