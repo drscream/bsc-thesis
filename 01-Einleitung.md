@@ -13,13 +13,13 @@ Avira ist in Tettnang am Bodensee einer der größten regionalen Arbeitgeber. Si
 
 „Alles muss in die Cloud“, wie oft liest man dies in IT Magazinen oder hört die Aussage von Managern. Doch diese Infrastruktur muss auch gepflegt und administriert werden. Gerade im Notfall müssen IT Mitarbeiter, auch von unterwegs, schnell Probleme beheben. Eine Bereitschaft der IT Administratoren von 24 Stunden, 7 Tage die Woche können sich viele kleine Firmen nicht leisten und setzen auf das Engagement der Mitarbeiter. Einige der Probleme können bequem per Smartphone gelöst werden.
 
-Der Marktanteil für Smartphones mit Google Android oder Apple iOS steigt jedes Jahr um mehrere Prozent. So sind diese Betriebssyteme schon auf mehr als 50% der Geräte im Umlauf.<span class="fn"><a href="http://www.gartner.com/it/page.jsp?id=1622614">Marktanteile laut Gartner Inc. (April 2011)</a></span>
+Der Marktanteil für Smartphones mit Google Android oder Apple iOS steigt jedes Jahr um mehrere Prozent. So sind diese Betriebssysteme schon auf mehr als 50% der Geräte im Umlauf.<span class="fn"><a href="http://www.gartner.com/it/page.jsp?id=1622614">Marktanteile laut Gartner Inc. (April 2011)</a></span>
 
-Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwendung mobiler Anwendungen. Diese stellt andere Anforderungen an den Benutzer und den Entwickler. So ist unsere anderem schon der kleinere Bildschirm und der dadurch resultierende Aufbau der Benutzeroberflächen eine herausforderung.
+Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwendung mobiler Anwendungen. Diese stellt andere Anforderungen an den Benutzer und den Entwickler. So ist unsere anderem schon der kleinere Bildschirm und der dadurch resultierende Aufbau der Benutzeroberflächen eine Herausforderung.
 
 ## Problemstellung
 
-§
+
 
 ## Zielsetzung
 
@@ -34,6 +34,13 @@ In der Bachelor-Thesis wird keine vollwertige iOS Anwendung entwickelt. Durch ei
 
 ## Struktur und Aufbau der Arbeit
 
+Die Bachelorarbeit ist in vier Teilbereiche gegliedert. Sie spiegelt dadurch den ungefähren Verlauf des Projekts wieder. <br />
+In der <b>Einleitung</b> wird der Projektträger vorgestellt und die Ziele des Projekts beschrieben. Die für die Arbeit relevanten Begriffe werden in den <b>Grundlagen</b> erklärt. Es erfolgt eine Vorstellung des verwendeten Mobilen Endgeräts und der Cloud Schnittstelle. Die Kriterien für die Usability-Tests werden beschrieben. <br />
+Im Kapitel <b>Analyse</b> erfolgt eine Darstellung der aktuellen Situation. Ein erster Prototyp wird erstellt und beschrieben um Usability-Tests anwenden zu können. Die Zielgruppe wird zum Prototypen befragt. In der <b>Realisierung</b> werden die technischen Aspekte zur Entwicklung der Anwendung angesprochen. Es werden Quelltext zur grafische Benutzeroberfläche und Schnittstelle näher erläutert.<br />
+Zum Abschluss der Thesis erfolgt ein <b>Résumé</b> über das gesamte Projekt und die Arbeit. Ein Ausblick auf den Vorlauf des Projekts außerhalb der Bachelor-Thesis wird gegeben.
 
 
 ## Formale Hinweise
+
+Unbekannte Begriffe oder weitere Hinweise zu einem Wort werden per Fußnote erklärt. Meist erfolgt ein weiterführender Link zu einer Internetseite. Zitate oder Quellenverweise sind per Eckiger-Klammer gekennzeichnet und im Quellenverzeichnis beschrieben. <br />
+Wörter oder Begriffe im Fließtext mit <i>kursiver</i> Schrift sind Quelltext. Verweise auf Kapitel oder wichtige Textstellen sind <b>fett</b> geschrieben.
