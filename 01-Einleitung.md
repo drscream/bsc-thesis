@@ -23,11 +23,11 @@ Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwe
 
 <i>„Als Admin fähre ich mit meinem Sportwagen Richtung Süden. Dank meines iPhone bemerkt ich, dass meine Internetseite auf Facebook angekündigt wird. Durch die vielen Zugriffe auf den Webserver wäre meine Seite nicht mehr erreichbar und ich würde Umsatz verlieren.“ (IT Mitarbeiter User Story)</i>
 
-Jeder IT Mitarbeiter der Avira besitzt ein iPhone und soll, falls möglich, schnell genug auf Probleme reagieren können. Da viele Dienste auf virtuellen Servern in der Cloud Infrastruktur zur Verfügung stehen muss er diese schnell und einfach verwalten können.
+Jeder IT Mitarbeiter der Avira besitzt ein iPhone und soll, falls möglich, schnell genug auf Probleme reagieren können. Da viele Dienste auf virtuellen Servern in der Cloud Infrastruktur zur Verfügung stehen müssen diese schnell und einfach verwaltet werden können.
 
 Erfahrungen der Mitarbeiter zeigen, dass nicht die Dienste selbst das Problem sind, sondern eine Störung am virtuellen Server vorliegt. So muss unter anderem bei hoher Last des Servers mehr Arbeitsspeicher oder mehrere CPUs hinzugeschaltet werden. Da ein Smartphone leichter zu transportieren ist als ein Notebook, bietet sich eine mobile Anwendung für die Steuerung der Cloud Systeme an.
 
-
+Zum aktuellen Zeitpunkt steht noch keine mobile Anwendung zur Verfügung das die Verwaltung der Server ermöglicht.
 
 ## Zielsetzung
 
