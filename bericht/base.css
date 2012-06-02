@@ -161,23 +161,24 @@ cite:after {
 
 q {
 	display: block;
-	padding: 1em 2em;
-	margin: 4em 0;
+	padding: 0 1em;
+	margin: 0.2em;
+	margin-top: 1em;
 }
 
 q::before {
 	content: "\201C";
 	font-size: 20pt;
 	font-family: 'Calluna';
-	color: #555;
+	color: #777;
 	margin: 0.2em;
 }
 
 q::after {
 	content: "\201D";
-	font-size: 16pt;
+	font-size: 20pt;
 	font-family: 'Calluna';
-	color: #555;
+	color: #777;
 	margin: 0.2em;
 }
 

@@ -21,7 +21,12 @@ Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwe
 
 ## Problemstellung
 
-<i>„Als Admin fähre ich mit meinem Sportwagen Richtung Süden. Dank meines iPhone bemerkt ich, dass meine Internetseite auf Facebook angekündigt wird. Durch die vielen Zugriffe auf den Webserver wäre meine Seite nicht mehr erreichbar und ich würde Umsatz verlieren.“ (IT Mitarbeiter User Story)</i>
+<q>Als Admin fähre ich mit meinem Sportwagen Richtung Süden. Dank meines iPhone bemerkt ich, dass meine Internetseite auf Facebook angekündigt wird. Durch die vielen Zugriffe auf den Webserver wäre meine Seite nicht mehr erreichbar und ich würde Umsatz verlieren.</q>
+
+<div style="text-align: right; margin-right: 2em; margin-top: 0">
+    User-Story eines IT Mitarbeiters
+</div>
+
 
 Jeder IT Mitarbeiter der Avira besitzt ein iPhone und soll, falls möglich, schnell genug auf Probleme reagieren können. Da viele Dienste auf virtuellen Servern in der Cloud Infrastruktur zur Verfügung stehen müssen diese schnell und einfach verwaltet werden können.
 

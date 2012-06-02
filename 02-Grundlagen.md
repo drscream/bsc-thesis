@@ -4,7 +4,8 @@ In diesem Kapitel werden einige Grundlagen und Grundbegriffe näher erläutert. 
 
 ## Mobile Endgeräte
 
-Der Begriff mobile Endgeräte wird umgangssprachlich mit Mobiltelefone, Smartphones und PDAs gleichgesetzt. Unter diesen Begriff fallen aber alle Geräte die ohne größere körperliche Anstrengung transportiert und mobil eingesetzt werden können. Somit auch MP3-Player, Notebooks oder Tablet-PCs.<br />
+Der Begriff mobile Endgeräte wird umgangssprachlich mit Mobiltelefone, Smartphones und PDAs gleichgesetzt. Unter diesen Begriff fallen aber alle Geräte die ohne größere körperliche Anstrengung transportiert und mobil eingesetzt werden können. Somit auch MP3-Player, Notebooks oder Tablet-PCs.
+
 In der Bachelorarbeit wird der Fokus auf Smartphones und die mobilen Anwendungen gelegt.
 
 ### Smartphones
@@ -20,6 +21,8 @@ Die ersten Mobiltelefone enthielten schon Anwendungen wie Kalender, Taschenrechn
 Im Oktober 2011 befanden sich über 400.000 Anwendungen<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/208599/umfrage/anzahl-der-apps-in-den-top-app-stores/">Statista, Anzahl der Apps in den Top App-Stores im Oktober 2011</a></span> im App Store von Apple. Hinzu kommt im März 2012 würden über 20 Millionen Downloads<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/20149/umfrage/anzahl-der-getaetigten-downloads-aus-dem-apple-app-store/">Statista, Anzahl der heruntergeladenen Anwendungen im Apple App Store</a></span> im gemessen. Diese Zahlen zeigen den wachsenden Markt für mobile Anwendungen.
 
 ## Cloud-Computing
+
+
 
 ### Technische Realisierungen
 
