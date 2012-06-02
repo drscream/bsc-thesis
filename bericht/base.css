@@ -1,42 +1,7 @@
-@font-face {
-	font-family: Tallys;
-	font-weight: normal;
-	font-style: normal;
-	src: url("/Users/tm/Documents/Studie/Semester 6/Praxisphase/Praxisbericht/bericht/Tallys_15.ttf")
-}
-
-@font-face {
-	font-family: "Museo Sans 500";
-	font-weight: normal;
-	font-style: normal;
-	src: url("/Users/tm/Documents/Studie/Semester 6/Praxisphase/Praxisbericht/bericht/MuseoSans_500.ttf")
-}
-@font-face {
-	font-family: "Museo Sans";
-	font-weight: normal;
-	font-style: normal;
-	src: url("/Users/tm/Documents/Studie/Semester 6/Praxisphase/Praxisbericht/bericht/MuseoSans_500.ttf")
-}
-@font-face {
-	font-family: "Museo Sans 500";
-	font-weight: normal;
-	font-style: italic;
-	src: url("/Users/tm/Documents/Studie/Semester 6/Praxisphase/Praxisbericht/bericht/MuseoSans_500_Italic.ttf")
-}
-
-@font-face {
-	font-family: "Museo Sans 900";
-	font-weight: bold;
-	font-style: normal;
-	src: url("/Users/tm/Documents/Studie/Semester 6/Praxisphase/Praxisbericht/bericht/MuseoSans_900.ttf")
-}
-
-
-
 html {
 	margin: 0;
 
-	font: 12pt/1.28 "Tallys";
+	font: 10pt/1.28 "Calluna", serif;
 }
 
 
@@ -62,7 +27,7 @@ html {
 	margin-right: 2.3cm;
 	
 	@top-right {
-		font-family: "Tallys";
+		font-family: "Calluna";
 		text-align: right;
 		font-size: 10pt;
 		vertical-align: bottom;
@@ -74,7 +39,7 @@ html {
 	}
 
 	@bottom-right {
-		font-family: "Tallys";
+		font-family: "Calluna";
 		content: counter(page);
 		padding-top: 2em;
 		vertical-align: top;
@@ -101,12 +66,12 @@ html {
 
 .toc {
 	page: toc;
-	font-family: "Tallys";
+	font-family: "Calluna";
 }
 
 body {
 	margin: 0 0 0 0;
-	font-family: "Tallys";
+	font-family: "Calluna";
 }
 
 title {
@@ -114,7 +79,7 @@ title {
 }
 
 h1, .pseudo-h1 {
-	font-family: "Museo Sans 500";
+	font-family: "Calluna";
 	string-set: header content();
 	display: block;
 	counter-reset: footnote;
@@ -124,17 +89,17 @@ h1, .pseudo-h1 {
 }
 
 h2, .pseudo-h2 {
-	font-family: "Museo Sans 500";
+	font-family: "Calluna";
 	font-size: 14pt;
 }
 
 h3 {
-	font-family: "Museo Sans 500";
+	font-family: "Calluna";
 	font-size: 11pt;
 }
 
 h4 {
-	font-family: "Museo Sans 500";
+	font-family: "Calluna";
 	font-size: 10pt;
 }
 
@@ -178,6 +143,8 @@ a[href^="http:"]::after { content: ": " attr(href); }
 	text-indent: 0;
 	counter-increment: footnote;
 	line-height: 1.4;
+	text-align: left;
+	font-style: normal;
 }
 
 cite {
@@ -200,8 +167,8 @@ q {
 
 q::before {
 	content: "\201C";
-	font-size: 16pt;
-	font-family: 'Tallys';
+	font-size: 20pt;
+	font-family: 'Calluna';
 	color: #555;
 	margin: 0.2em;
 }
@@ -209,14 +176,15 @@ q::before {
 q::after {
 	content: "\201D";
 	font-size: 16pt;
-	font-family: 'Tallys';
+	font-family: 'Calluna';
 	color: #555;
 	margin: 0.2em;
 }
 
 p {
 	/* http://tug.ctan.org/tex-archive/fonts/lm/fonts/opentype/public/lm/ */
-	font: 12pt/1.28 "Tallys", serif;
+	font: 11pt/1.28 "Latin Modern Roman", serif;
+	font: 11pt/1.5 "Latin Modern Roman", serif;
 	display: block;
 	margin-bottom: 2em;
 	text-align: justify;
@@ -228,11 +196,11 @@ p + p {
 }
 
 ul {
-	font: 12pt/1.28 "Tallys", serif;	
+	font: 11pt/1.28 "Latin Modern Roman", serif;
 }
 
 em, strong {
-	font: 12pt/1.28 "Tallys", serif;
+	font: 11pt/1.28 "Calluna", serif;
 }
 
 
@@ -269,7 +237,7 @@ table {
 	border-collapse: collapse;
 	border: 1pt solid #bbb;
 	margin: 0.5cm 0;
-	font: 12pt/1.28 "Tallys", serif;
+	font: 11pt/1.28 "Calluna", serif;
 }
 
 td, th {
@@ -349,7 +317,7 @@ ol.toa a::after {
 
 .bib_author {
 
-	font-family: "Tallys";
+	font-family: "Calluna";
 	font-variant: small-caps;
 }
 
@@ -361,8 +329,9 @@ ol.toa a::after {
 
 
 .bib dd {
-	font-family: "Tallys";
+	font-family: "Latin Modern Roman";
 	padding-left: 5em;
+	page-break-inside: avoid;
 }
 
 /* title page */
@@ -372,7 +341,7 @@ ol.toa a::after {
 
 .intro .title {
 	display: block;
-	font: 22pt "Tallys";
+	font: 22pt "Latin Modern Roman";
 	margin: 0.5em;
 	margin-top: 4em;
 	margin-bottom: 1em;
