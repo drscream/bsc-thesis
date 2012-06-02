@@ -67,11 +67,28 @@ Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öf
 
 Hierbei handelt es sich um eine Mischung aus „Private und Public Cloud“. Eine Organisation verwendet eine „Private Cloud“ und wechselt im Fehlerfall oder bei hoher Belastung zur „Public Cloud“.
 
-## Schnittstelle zur Virtualisierung
+##  Virtualisierung
+
+Für die Virtualisierung gibt es viele verschiedene Methoden, abhängig ob eine Anwendung oder ein gesamtes Betriebssystem virtualisiert werden soll. Die Virtualisierung spielt eine wichtige Rolle für die Cloud Infrastruktur. Für die Bachelorarbeit hat die Hardware Virtualisierung bzw. Paravirtualisierung, somit die Bereitstellung von Rechnerinstanzen, Relevanz.
+
+### Hardware Virtualisierung
+
+Die virtuelle Maschine stellt dem Gastbetriebssystem Teilbereiche der Hardware in Form von virtueller Hardware zur Verfügung. Somit kann ein unverändertes Betriebssystem darauf in einer isolierten Umgebung laufen. Das Gastsystem muss hierbei für den gleichen CPU-Typ ausgelegt sein.
+
+### Paravirtualisierung
+
+Bei Paravirtualisierung wird zwar ein Betriebssystem virtuell gestartet, jedoch wird keine Hardware virtualisiert, sondern die Betriebssysteme verwenden eine abstrakte Verwaltungsschicht, um auf gemeinsame Ressourcen (Netzanbindung, Festplattenspeicher, Benutzerein- bzw. -ausgaben) zuzugreifen. Damit das Betriebssystem auf der virtuellen Maschine ausgeführt werden kann muss es teilweise portiert werden. Durch diese Portierung kann sich die Leistung der virtuellen Maschine erhöhen. <cite><a href="#degelas08">degelas08</a></cite>
+
+### Schnittstelle zur  Virtualisierung
 
 
 
-### Technische Realisierung
+<div class="figure" id="libvirt-schnittstelle">
+	<img src="http://up.frubar.net/1748/libvirtd.svg" alt="libVirt Schnittstelle" width="80%" />
+	<p>Einbindung libVirt Schnittstelle</p>
+</div>
+	
+
 
 
 

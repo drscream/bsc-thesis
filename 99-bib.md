@@ -17,8 +17,13 @@
 	    <a href="ftp://ftp.software.ibm.com/common/ssi/pm/xb/n/cie03069usen/CIE03069USEN.PDF" class="bib_url">ftp://ftp.software.ibm.com/common/ssi/pm/xb/n/cie03069usen/CIE03069USEN.PDF</a>
 	</dd>
 	
-	
-	
+	<dt id="degelas08">[degelas08]</dt>
+	<dd>
+	    <span class="bib_author">Johan De Gelas</span>
+	    <span class="bib_title">Hardware Virtualization: the Nuts and Bolts</span>.<br>
+	    <span class="bib_publisher">AnandTech</span>, <span class="bib_year">2008</span>.<br>
+	    <a href="http://www.anandtech.com/show/2480" class="bib_url">http://www.anandtech.com/show/2480</a>
+	</dd>
 	
 </dl>
 
