@@ -29,7 +29,6 @@ Die Cloud beschreibt die Abstraktion von IT Infrastruktur wie z.B. Rechenkapazit
 	<p>Elemente des Cloud-Computing</p>
 </div>
 
-
 ### Technische Realisierungen
 
 Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jeder Schicht stellt einen Grad der Abstraktion dar. <a href="#bartonb08"><cite>bartonb08</cite></a>
@@ -48,11 +47,29 @@ Da der Benutzer nur seine Anwendung liefert, kann die Cloud die Anzahl der tats�
 
 #### Anwendung
 
-„Software as a Service“
+Der Benutzer verwenden bei „Software as a Service“ eine bereits bestehende Anwendung in der Cloud. Für Ihn sind die Platform und die Infrastruktur nicht sichtbar. 
+
+Beispiele für eine Cloud-Anwendung sind unter anderem Google Drive<span class="fn"><a href="http://drive.google.com">Google Drive</a></span>, DropBox<span class="fn"><a href="http://www.dropbox.com">DropBox</a></span> und Microsoft Office Communications Online<span class="fn"><a href="http://www.microsoft.com/online/de-de/prodComm.aspx">Microsoft Office Communications Online</a></span>.
 
 ### Organisatorische Arten
 
+Die Cloud wird meist, abhängig vom Anwendungsfall, in drei Organisationsformen eingeordnet. <cite><a href="#cloudadop10">cloudadop10</a></cite>
+
+#### Private Cloud
+
+Die Anbieter und Nutzer der „Private Cloud“ stammen aus der selben Organisation oder dem selben Unternehmen. Daten innerhalb dieser Cloud sind nur der Organisation zugänglich und nicht außerhalb erreichbar, dies bietet einen großen Sicherheitsaspekt.
+
+#### Public Cloud
+
+Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öffentlich erreichbar und jeden zugänglich. Eine wichtige Rolle spielt hierbei die Datensicherheit. Jeder Benutzer muss hierbei selbst Entscheiden welche und wie viele Daten er in der Cloud speichert.
+
+#### Hybrid Cloud
+
+Hierbei handelt es sich um eine Mischung aus „Private und Public Cloud“. Eine Organisation verwendet eine „Private Cloud“ und wechselt im Fehlerfall oder bei hoher Belastung zur „Public Cloud“.
+
 ## Schnittstelle zur Virtualisierung
+
+
 
 ### Technische Realisierung
 
