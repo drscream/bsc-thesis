@@ -81,7 +81,7 @@ Bei Paravirtualisierung wird zwar ein Betriebssystem virtuell gestartet, jedoch 
 
 ### Schnittstelle zur Virtualisierung
 
-
+Durch die verschiedenen Virtualisierungstechnologien und Verfahren wird es Entwickler nicht einfach gemacht Anwendungen zu entwerfen die mit allen Schnittstellen umgehen können.
 
 <div class="figure" id="libvirt-schnittstelle">
 	<img src="http://up.frubar.net/1748/libvirtd.svg" alt="libVirt Schnittstelle" width="80%" />
