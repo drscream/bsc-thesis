@@ -12,7 +12,7 @@ In der Bachelorarbeit wird der Fokus auf Smartphones und die mobilen Anwendungen
 
 Smartphones stellen die Computerfunktionalität auf einem Mobiltelefon zur Verfügung. Sie sind durch ihre Konstruktion und Bedienung nicht zum Telefonieren optimiert, stattdessen ermöglichen Sie die Verwendung von einer großen Anzahl an Anwendungen. Daher sind typische Merkmale ein großer Touchscreen und eine alphanumerische Tastatur.
 
-### mobile Anwendungen (Apps)
+### mobile Anwendungen
 
 Eine mobile Anwendung, im allgemeinen Sprachgebraucht „App“ genannt, ist eine Software die für ein Smartphone entwickelt wurde und meist über einen integrierten Onlineshop bezogen werden kann.
 
@@ -22,9 +22,33 @@ Im Oktober 2011 befanden sich über 400.000 Anwendungen<span class="fn"><a href=
 
 ## Cloud-Computing
 
+Die Cloud beschreibt die Abstraktion von IT Infrastruktur wie z.B. Rechenkapazität, Speicherbedarf oder auch Software. Diese können bei Bedarf und zur Verfügung gestellt werden.
+
+<div class="figure" id="cloud-computing-diagram">
+	<img src="http://up.frubar.net/1747/cloud_computing_diagram.jpg" alt="Cloud Computing Diagram" width="80%" />
+	<p>Elemente des Cloud-Computing</p>
+</div>
 
 
 ### Technische Realisierungen
+
+Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jeder Schicht stellt einen Grad der Abstraktion dar. <a href="#bartonb08"><cite>bartonb08</cite></a>
+
+#### Infrastruktur
+
+„Infrastructure as a Service“ befindet sich an der untersten Schicht im Cloud-Stack. Der Benutzer verwaltet seine virtuellen Server (Rechnerinstanzen) selbst. Der Cloud-Dienst selbst ist skalierbar ausgelegt, jedoch nicht zwingend die Programme die der Benutzer auf den Rechnerinstanzen installiert. 
+
+Je nach Anforderung kann der Cloud-Dienst um Rechnerinstanzen erweitert oder verkleinert werden. Der Benutzer ist hierbei ab der Betriebssystemebene für seine Instanz selbst verantwortlich.
+
+#### Plattform
+
+Bei „Platform as a Service“ steht die Anwendung des Entwicklers im Vordergrund. Der Entwickler stellt seine Anwendung über die Cloud zur Verfügung, diese kümmert sich um die Aufteilung auf die Rechnungsinstanzen.
+
+Da der Benutzer nur seine Anwendung liefert, kann die Cloud die Anzahl der tatsächlichen Instanzen jederzeit erhöhen oder reduzieren. In der Cloud werden vom Benutzer gelieferte Daten verarbeitet, das umliegende System ist für ihn nicht einsehbar.
+
+#### Anwendung
+
+„Software as a Service“
 
 ### Organisatorische Arten
 

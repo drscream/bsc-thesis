@@ -419,12 +419,12 @@ h3 {
 }
 
 h4:before {
-  content: counter(chaptercount) '.' counter(subchaptercount) '.' counter(sub2chaptercount) '.'  counter(sub3chaptercount);
+/*  content: counter(chaptercount) '.' counter(subchaptercount) '.' counter(sub2chaptercount) '.'  counter(sub3chaptercount);*/
   padding-right: .5em;
 }
 
 h4 {
-  counter-increment: sub3chaptercount;
+/*  counter-increment: sub3chaptercount; */
 }
 
 /* toc */
@@ -460,14 +460,4 @@ div.toc > ul.toc > li > ul.toc > li > ul.toc > li:before {
 div.toc > ul.toc > li > ul.toc > li > ul.toc > li {
  counter-increment: tocsub2chaptercounter;
  counter-reset: tocsub3chaptercounter;
-}
-
-/* level 4 */
-div.toc > ul.toc > li > ul.toc > li > ul.toc > li > ul.toc > li:before {
- content: counter(tocchaptercounter) '.' counter(tocsubchaptercounter) '.' counter(tocsub2chaptercounter) '.' counter(tocsub3chaptercounter);
- padding: 0 .5em;
-}
-
-div.toc > ul.toc > li > ul.toc > li > ul.toc > li > ul.toc > li {
- counter-increment: tocsub3chaptercounter;
 }
