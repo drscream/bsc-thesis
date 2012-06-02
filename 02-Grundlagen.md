@@ -79,7 +79,7 @@ Die virtuelle Maschine stellt dem Gastbetriebssystem Teilbereiche der Hardware i
 
 Bei Paravirtualisierung wird zwar ein Betriebssystem virtuell gestartet, jedoch wird keine Hardware virtualisiert, sondern die Betriebssysteme verwenden eine abstrakte Verwaltungsschicht, um auf gemeinsame Ressourcen (Netzanbindung, Festplattenspeicher, Benutzerein- bzw. -ausgaben) zuzugreifen. Damit das Betriebssystem auf der virtuellen Maschine ausgeführt werden kann muss es teilweise portiert werden. Durch diese Portierung kann sich die Leistung der virtuellen Maschine erhöhen. <cite><a href="#degelas08">degelas08</a></cite>
 
-### Schnittstelle zur  Virtualisierung
+### Schnittstelle zur Virtualisierung
 
 
 

@@ -38,3 +38,16 @@ Tettnang, den 30. Mai 2012
 
 <strong class="pseudo-h1">Abstract</strong>
 
+---
+
+<strong class="pseudo-h1">Vorwort</strong>
+
+Die vorliegende Bachelorarbeit wurde in der Zeit vom 1. März bis zum 15. Juni erstellt. Sie ist Bestandteil des Bachelor-Studiengangs Angewandte Informatik an der Hochschule Ravensburg-Weingarten und entstand bei der Avira Operations GmbH & Co. KG in Tettnang.
+
+<q></q>
+
+<strong class="pseudo-h1">Danksagung</strong>
+
+An dieser Stelle möchte ich mich bei einigen Personen bedanken, die mich während dieser Arbeit unterstützt haben. Ich danke Karl-Heinz Erdmann, meinem fachlichem Betreuer bei der Avira, für sein Engagement und seine Geduld. Ebenso danke ich Prof. Klemens Ehret, der diese Arbeit auf Seiten der Hochschule Ravensburg-Weingarten betreut hat.
+
+Besonderer Dank gilt den Mitarbeitern der IT Abteilung von Avira für ihre Hilfe, Ideen und guten Ratschläge.
