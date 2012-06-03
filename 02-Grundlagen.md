@@ -186,7 +186,13 @@ Durch den kleineren Bildschirm können weniger Informationen auf einem Ausschnit
 
 Da ein Touchscreen meist mit den Fingern und nicht mit der Maus bedient wird, sind einige Designaspekte zu beachten. 
 
+Die Finger oder der Handrücken überdecken, wie Abbildung 5 zeigt, bei der Navigation zum Teil die Anwendung. Die Hauptnavigation innerhalb einer Anwendung sollte daher am Fuß angezeigt werden.
+
 <div class="figure" id="iphone-daumen">
 	<img src="http://up.frubar.net/1754/iphone-daumen.png" alt="iPhone Daumen" width="30%" />
 	<p>Der Daumen bedeckt einen Großteil des Bildschirms <cite><a href="#tapworthy11">tapworthy11</a></cite></p>
 </div>
+
+Mit der vollwertigen QWERTZ-Tastatur, gegenüber der T9-Tastatur, ist es zwar einfacher Eingaben vorzunehmen aber es ist dennoch mühsam. Für den Benutzer sollte man daher die Eingaben so gering wie möglich halten.
+
+

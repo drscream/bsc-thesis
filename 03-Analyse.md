@@ -4,6 +4,10 @@
 
 ## Ist-Zustand
 
+### Ist-Zustand bei der Zielgruppe
+
+### Alternative Anwendungen
+
 ## Design für Bildschirmgröße und Touchscreen
 
 ## Strukturierung der mobilen Anwendung
