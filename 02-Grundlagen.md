@@ -167,9 +167,26 @@ Durch die Besonderheit des mobilen Geräts gegenüber herkömmlichen Computern m
 
 #### Umgebung
 
+Es sollte immer bedacht werden, dass eine mobile Anwendung gerade Unterwegs zum Einsatz kommt. iPhones werden meist mit einer Hand verwendet und es wird nur mit einem kurzen Blick auf den Bildschirm geschaut. Wie die Abbildung 4 zeigt, ist eine Anwendung überladen und werden zu viele Informationen dargestellt kann ein Benutzer diese nicht aufnehmen.
 
+<div class="figure" id="iphone-umgebung">
+	<img src="http://up.frubar.net/1753/iphone-umgebung.png" alt="iPhone Umgebung" width="70%" />
+	<p>iPhone Anwendung, Nutzung Unterwegs <cite><a href="#tapworthy11">tapworthy11</a></cite></p>
+</div>
+
+Durch die unterschiedlichen Lichtverhältnisse in der Umgebung muss auf ein starkes Kontrastverhältnis geachtet werden. Die Anwendung kannst sonst bei starken Spiegelungen oder Lichteinfall nicht erkennbar sein.
 
 #### Bildschirmgröße
 
+Der Bildschirm bei einem iPhone oder einem anderen Smartphone ist deutlich kleiner gegenüber einem Computer. Es ist daher kein Platz für unnötige Informationen die den Benutzer auf dem aktuellen Bildschirm nur irritieren könnten.
+
+Durch den kleineren Bildschirm können weniger Informationen auf einem Ausschnitt platziert werden, dadurch muss mit einer guten Navigation gearbeitet werden. Diese sollte nicht zu Tief in „verwinkelt“ sondern für den Benutzer intuitiv nutzbar sein.
+
 #### Touchscreen
 
+Da ein Touchscreen meist mit den Fingern und nicht mit der Maus bedient wird, sind einige Designaspekte zu beachten. 
+
+<div class="figure" id="iphone-daumen">
+	<img src="http://up.frubar.net/1754/iphone-daumen.png" alt="iPhone Daumen" width="30%" />
+	<p>Der Daumen bedeckt einen Großteil des Bildschirms <cite><a href="#tapworthy11">tapworthy11</a></cite></p>
+</div>

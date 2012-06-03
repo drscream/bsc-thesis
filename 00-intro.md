@@ -46,6 +46,7 @@ Die vorliegende Bachelorarbeit wurde in der Zeit vom 1. März bis zum 15. Juni e
 
 <q>Keep it simple and self-explanatory.</q>
 
+Mit der Arbeit wird versucht immer einen Kompromiss zwischen Design, Usability und Funktionalität zu finden.
 
 <strong class="pseudo-h1" style="page-break-before: auto!important;">Danksagung</strong>
 
