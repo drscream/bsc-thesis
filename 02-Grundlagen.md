@@ -159,13 +159,15 @@ Wie für jede Gestaltung von neuen Benutzerschnittstellen bieten die Usability-H
 
 Bei dem KISS-Prinzip soll immer eine einfache Lösung für das Problem gewählt werden. Dabei ist KISS ein Apronym, welches auch unter „Keep It Simple and Stupid“ oder „Keep It Short and Simple“ bekannt ist.
 
-Abgeleitet auf die mobile Anwendung bedeutet dies, dass die Benutzerinteraktion und Oberfläche so einfach wie möglich gestaltet werden muss um das Ziel zu erreichen. 
+Abgeleitet auf die mobile Anwendung bedeutet dies, dass die Benutzerinteraktion und Oberfläche so einfach wie möglich gestaltet werden muss um das Ziel zu erreichen. Ein Auswahlmenü sollte somit nicht 20 Funktionen anzeigen, sondern nur die 5 Wichtigen.
 
 ### Relevanz für mobile Anwendungen
 
 Durch die Besonderheit des mobilen Geräts gegenüber herkömmlichen Computern müssen spezielle Usability-Regeln bei der Entwicklung beachtet werden. So bietet ein kleinerer Bildschirm und Touchscreen andere Eingabemöglichkeiten für den Benutzer. Die Umgebung in welcher die Anwendung eingesetzt wird spielt auch eine tragende Rolle für die Usability.
 
 #### Umgebung
+
+
 
 #### Bildschirmgröße
 
