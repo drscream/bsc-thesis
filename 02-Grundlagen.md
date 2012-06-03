@@ -155,7 +155,11 @@ Der Software-Ergonom Jakob Nielsen verfasste 1990 unter dem Titel „Improving a
 
 Wie für jede Gestaltung von neuen Benutzerschnittstellen bieten die Usability-Heuristik von Nielsen auch eine gute Grundlage für die Entwicklung und das Design einer mobilen Anwendung.
 
-#### KISS - Keep it Simple Straightforward
+#### KISS - Keep it Simple and Straightforward
+
+Bei dem KISS-Prinzip soll immer eine einfache Lösung für das Problem gewählt werden. Dabei ist KISS ein Apronym, welches auch unter „Keep It Simple and Stupid“ oder „Keep It Short and Simple“ bekannt ist.
+
+Abgeleitet auf die mobile Anwendung bedeutet dies, dass die Benutzerinteraktion und Oberfläche so einfach wie möglich gestaltet werden muss um das Ziel zu erreichen. 
 
 ### Relevanz für mobile Anwendungen
 
