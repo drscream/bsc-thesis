@@ -198,6 +198,7 @@ p + p {
 
 ul {
 	font: 11pt/1.28 "Latin Modern Roman", serif;
+	padding-left: 1em;
 }
 
 em, strong {

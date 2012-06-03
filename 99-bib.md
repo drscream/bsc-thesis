@@ -49,5 +49,13 @@
 	    <a href="http://www.iso.org/iso/search.htm?qt=9126&published=on&active_tab=standards" class="bib_url">http://www.iso.org/iso/search.htm?qt=9126&published=on&active_tab=standards</a>
 	</dd>
 	
+	<dt id="nie93">[nie93]</dt>
+	<dd>
+		<span class="bib_author">Jakob Nielsen</span>
+		<span class="bib_title">Usability Engineering</span>.<br>
+		<span class="bib_publisher">Morgan Kaufmann</span>, <span class="bib_year">1993</span>.
+		- <span class="bib_isbn">ISBN 978-0125184069</span>
+	</dd>	
+
 </dl>
 

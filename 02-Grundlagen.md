@@ -102,6 +102,15 @@ Gebrauchstauglichkeit = Benutzbarkeit + Zufriedenstellung
 Benutzerfreundlichkeit = Gebrauchstauglichkeit + Zufriedenheit + Nützlichkeit
 </pre>
 
+Zudem lassen sich folgende fünf Attribute für den Begriff Usability definieren <cite><a href="nie93">nie93</a></cite>:
+<ul>
+	<li>**Effektivität**: Das System sollte leicht zu erlernen sein, damit der Benutzer möglichst schnell seine Arbeit erledigen kann.</li>
+	<li>**Effizienz**: Das System sollte effizient genutzt werden können, damit der Benutzer produktiv damit arbeiten kann, nachdem er es erlernt hat.</li>
+	<li>**Einprägsamkeit**: Das System sollte sich dem Benutzer leicht einprägen, damit er auch nach einer längeren Pause, in der der Benutzer das System nicht verwendet hat, es wieder verwenden kann ohne es neu lernen zu müssen.
+	<li>**Fehler**: Das System sollte wenige Fehler vom Benutzer zulassen, Fehler sollten sich leicht beheben lassen und schwerwiegende Fehler sollten gar nicht erscheinen.
+	<li>**Zufriedenheit**: Das System sollte angenehm bei der Verwendung sein, damit der Benutzer mit dem System zufrieden ist und es mag.</li>
+</ul>
+
 In dieser Arbeit bezieht sich der Begriff Usability nur auf die Gebrauchstauglichkeit von mobilen Anwendungen, nicht auf die Usability des Gerätes oder anderer Software.
 
 In diesem Abschnitt werden die bekanntesten Usability Regeln aufgeführt und die Relevanz für mobile Anwendungen dargestellt. Die eigentliche Anwendung der Regeln und Usability Konzepte erfolgt in Kapitel <a href="#analyse"><b>3. Analyse</b></a>.
