@@ -104,24 +104,64 @@ Benutzerfreundlichkeit = Gebrauchstauglichkeit + Zufriedenheit + Nützlichkeit
 
 Zudem lassen sich folgende fünf Attribute für den Begriff Usability definieren <cite><a href="nie93">nie93</a></cite>:
 <ul>
-	<li>**Effektivität**: Das System sollte leicht zu erlernen sein, damit der Benutzer möglichst schnell seine Arbeit erledigen kann.</li>
-	<li>**Effizienz**: Das System sollte effizient genutzt werden können, damit der Benutzer produktiv damit arbeiten kann, nachdem er es erlernt hat.</li>
-	<li>**Einprägsamkeit**: Das System sollte sich dem Benutzer leicht einprägen, damit er auch nach einer längeren Pause, in der der Benutzer das System nicht verwendet hat, es wieder verwenden kann ohne es neu lernen zu müssen.
-	<li>**Fehler**: Das System sollte wenige Fehler vom Benutzer zulassen, Fehler sollten sich leicht beheben lassen und schwerwiegende Fehler sollten gar nicht erscheinen.
-	<li>**Zufriedenheit**: Das System sollte angenehm bei der Verwendung sein, damit der Benutzer mit dem System zufrieden ist und es mag.</li>
+	<li>**Effektivität**<br />Das System sollte leicht zu erlernen sein, damit der Benutzer möglichst schnell seine Arbeit erledigen kann.</li>
+	<li>**Effizienz**<br />Das System sollte effizient genutzt werden können, damit der Benutzer produktiv damit arbeiten kann, nachdem er es erlernt hat.</li>
+	<li>**Einprägsamkeit**<br />Das System sollte sich dem Benutzer leicht einprägen, damit er auch nach einer längeren Pause, in der der Benutzer das System nicht verwendet hat, es wieder verwenden kann ohne es neu lernen zu müssen.
+	<li>**Fehler**<br />Das System sollte wenige Fehler vom Benutzer zulassen, Fehler sollten sich leicht beheben lassen und schwerwiegende Fehler sollten gar nicht erscheinen.
+	<li>**Zufriedenheit**<br />Das System sollte angenehm bei der Verwendung sein, damit der Benutzer mit dem System zufrieden ist und es mag.</li>
 </ul>
 
 In dieser Arbeit bezieht sich der Begriff Usability nur auf die Gebrauchstauglichkeit von mobilen Anwendungen, nicht auf die Usability des Gerätes oder anderer Software.
 
 In diesem Abschnitt werden die bekanntesten Usability Regeln aufgeführt und die Relevanz für mobile Anwendungen dargestellt. Die eigentliche Anwendung der Regeln und Usability Konzepte erfolgt in Kapitel <a href="#analyse"><b>3. Analyse</b></a>.
 
-### Usability Regeln
+### Usability-Regeln
 
+Die große Anzahl an verschiedensten Usability-Regeln erschwert es die relevanten Regeln zu erkennen. Einige der seit Jahren anerkannten Regeln werden kurz erklärt und bewertet.
 
+#### Handlungsschritte nach Norman
+
+Schon 1988 veröffentlichte Donald Norman sein Buch „The Design of Everyday Things“ <cite><a href="#norman88">norman88</a></cite> welches sieben Handlungsschritte zum Erreichen eines Ziels beschreibt.
+
+<div class="figure" id="sieben-handlungss-norman">
+	<img src="http://up.frubar.net/1750/sieben-handlungss-norman.png" alt="Die sieben Handlungsschritte von Norman" width="70%" />
+	<p>Die sieben Handlungsschritte von Norman <cite><a href="dah06">dahm06</a></cite></p>
+</div>
+
+Aus den Handlungsschritten lassen sich zwei Handlungsphasen ableiten, die auftreten, wenn es für den Benutzer zu Problemen kommt das Ziel zu erreichen:
+<ul>
+	<li>Der **Gulf of Execution** beinhaltet Probleme, die während der Formulierung, Planung oder Ausführung auftreten. Diese treten auf wenn der Benutzer nicht weiß, wie er zu der Lösung seines Problems kommt. Zu diesen Problemen gehört ein unverständliches Bedienkonzept oder eine mangelhafte Navigation.</li>
+	<li>Der **Gulf of Evaluation** stellt die Probleme zwischen Anzeige und Interpretation dar. Diese entsteht durch Fehlinterpretation, mangelhafte Darstellung oder Rückmeldung.</li>
+</ul>
+
+Die sieben Handlungsschritte nach Norman sind durchaus wichtig für die Entwicklung einer mobilen Anwendung. So ist zu beachten das der Benutzer stets eine Rückmeldung auf seine Aktion erhält. Ebenso soll ein in sich stimmiges Bedienkonzept existieren, da sonst die Unzufriedenheit des Benutzers erhöht wird. Im schlimmsten Fall würde der Benutzer die Anwendung nicht mehr verwenden.
+
+#### Usability-Heuristik von Nielsen
+
+Der Software-Ergonom Jakob Nielsen verfasste 1990 unter dem Titel „Improving a Human-Computer Dialogue“ zehn Prinzipen, welche als Kategorien für die Usability-Probleme dienten. Heutzutage finden diese Anwendung in der Gestaltung von neuen Benutzerschnittstellen. <cite><a href="#nie93">nie93</a></cite> <cite><a href="#niemo90">niemo90</a></cite> 
+
+<ul>
+	<li><strong>Einfache und natürliche Dialoge</strong><br />Dialoge sollen nur die nötigsten Informationen beinhalten. Alle weiteren Informationen, die nicht relevant sind, verringern die Wichtigkeit der nötigen Informationen. Die Darstellung soll natürlich und logisch sein.</li>
+	<li><strong>Ausdrucksweisen des Anwenders</strong><br />Die Dialoge sollen in einer, dem Benutzer vertrauten, Sprache geschrieben sein. Fachausdrücke sollten, falls möglich, vermieden werden.</li>
+	<li><strong>Minimale mentale Belastung des Benutzers</strong><br />Der Benutzer soll sich keine Informationen über mehrere Dialoge hinweg merken müssen.</li>
+	<li><strong>Konsistenz</strong><br />Die Dialoge sollen immer auf die gleiche Art und Weise dargestellt werden. Der Benutzer soll sich während der Verwendung nicht umgewöhnen müssen.</li>
+	<li><strong>Rückmeldung</strong><br />Die Anwendung sollte dem Benutzer immer, in einer vernünftigen Zeit, informatives Feedback liefern. Siehe auch <a href="#handlungsschritte-nach-norman">Handlungsschritte nach Norman</a>.</li>
+	<li><strong>Kontrolle über die Funktionen</strong><br />Sollte der Benutzer eine falsche Funktion ausgeführt haben, muss er diesen Vorgang jederzeit abbrechen oder einen Schritt zurückgehen können.</li>
+	<li><strong>Abkürzungen</strong><br />Das System soll dem erfahrenen Benutzer Abkürzungen, z.B. durch Tastenkürzel oder Funktionstasten, bieten können. Somit ist gewährleistet, dass erfahrene und unerfahrene Benutzer das System effizient nutzen können.</li>
+	<li><strong>Gute Fehlermeldungen</strong><br />Eine Fehlermeldung soll nie den Benutzer kritisieren, sie sollte defensiv, präzise und konstruktiv sein.</li>
+	<li><strong>Fehlervermeidung</strong><br />Fehler sollten durch das Design und die Benutzereingabe weitestgehend vermieden werden.</li>
+	<li><strong>Hilfe und Dokumentation</strong><br />Auch wenn das System ohne Hilfe und Dokumentation benutzbar ist, sollte eine Dokumentation und Hilfe immer zur Verfügung stehen.</li>
+</ul>
+
+Wie für jede Gestaltung von neuen Benutzerschnittstellen bieten die Usability-Heuristik von Nielsen auch eine gute Grundlage für die Entwicklung und das Design einer mobilen Anwendung.
+
+#### KISS - Keep it Simple Straightforward
 
 ### Relevanz für mobile Anwendungen
 
+Durch die Besonderheit des mobilen Geräts gegenüber herkömmlichen Computern müssen spezielle Usability-Regeln bei der Entwicklung beachtet werden. So bietet ein kleinerer Bildschirm und Touchscreen andere Eingabemöglichkeiten für den Benutzer. Die Umgebung in welcher die Anwendung eingesetzt wird spielt auch eine tragende Rolle für die Usability.
 
+#### Umgebung
 
 #### Bildschirmgröße
 

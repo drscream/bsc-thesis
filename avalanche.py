@@ -47,6 +47,7 @@ class Avalanche(object):
 		    if available.
 		"""
 		html_with_toc = self.generate_toc(html.encode('utf_8', 'xmlcharrefreplace'))
+		print html_with_toc
 
 		try:
 			f = tempfile.NamedTemporaryFile(delete=False, suffix='.html')

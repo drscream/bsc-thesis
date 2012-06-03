@@ -57,5 +57,29 @@
 		- <span class="bib_isbn">ISBN 978-0125184069</span>
 	</dd>	
 
+	<dt id="nie93">[niemo90]</dt>
+	<dd>
+		<span class="bib_author">Jakob Nielsen &amp; Rolf Molich</span>
+		<span class="bib_title">Improving a human-computer dialogue</span>.<br>
+		<span class="bib_publisher">Magazine Communications of the ACM</span>, <span class="bib_year">1990</span>.
+	</dd>	
+
+
+	<dt id="norman88">[norman88]</dt>
+	<dd>
+		<span class="bib_author">Don Norman</span>
+		<span class="bib_title">The Design of Everyday Things</span>.<br>
+		<span class="bib_publisher">Perseus Books</span>, <span class="bib_year">1988</span>.
+		- <span class="bib_isbn">ISBN 978-0465067107</span>
+	</dd>	
+
+	<dt id="dahm06">[dahm06]</dt>
+	<dd>
+		<span class="bib_author">Markus Dahm</span>
+		<span class="bib_title">Grundlagen der Mensch-Computer-Interaktion</span>.<br>
+		<span class="bib_publisher">Pearson Studium</span>, <span class="bib_year">2006</span>.
+		- <span class="bib_isbn">ISBN 978-3827371751</span>
+	</dd>
+	
 </dl>
 
