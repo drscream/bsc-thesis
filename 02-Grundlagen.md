@@ -182,6 +182,8 @@ Der Bildschirm bei einem iPhone oder einem anderen Smartphone ist deutlich klein
 
 Durch den kleineren Bildschirm können weniger Informationen auf einem Ausschnitt platziert werden, dadurch muss mit einer guten Navigation gearbeitet werden. Diese sollte nicht zu Tief in „verwinkelt“ sondern für den Benutzer intuitiv nutzbar sein.
 
+---
+
 #### Touchscreen
 
 Da ein Touchscreen meist mit den Fingern und nicht mit der Maus bedient wird, sind einige Designaspekte zu beachten. 

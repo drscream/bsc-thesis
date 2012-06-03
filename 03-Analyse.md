@@ -2,18 +2,19 @@
 
 ## Zielgruppe
 
-## Ist-Zustand
+## Ist-Zustandsanalyse
 
-### Ist-Zustand bei der Zielgruppe
+## Alternative Anwendungen
 
-### Alternative Anwendungen
-
-## Design für Bildschirmgröße und Touchscreen
-
-## Strukturierung der mobilen Anwendung
-Story Board
+## Konzeption
+Design, Bildschirmgröße, Apple iOS, iPhone
+Navigation innerhalb einer Anwendung
 
 ## Identität
-Introducing your app
+Introducing your app, Logo, Aussehen
+
+## Strukturierung
+Story Board
 
 ## Usability-Tests
+Planung, Ergebnis von Usability Tests
