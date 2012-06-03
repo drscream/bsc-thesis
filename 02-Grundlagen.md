@@ -77,19 +77,44 @@ Die virtuelle Maschine stellt dem Gastbetriebssystem Teilbereiche der Hardware i
 
 ### Paravirtualisierung
 
-Bei Paravirtualisierung wird zwar ein Betriebssystem virtuell gestartet, jedoch wird keine Hardware virtualisiert, sondern die Betriebssysteme verwenden eine abstrakte Verwaltungsschicht, um auf gemeinsame Ressourcen (Netzanbindung, Festplattenspeicher, Benutzerein- bzw. -ausgaben) zuzugreifen. Damit das Betriebssystem auf der virtuellen Maschine ausgeführt werden kann muss es teilweise portiert werden. Durch diese Portierung kann sich die Leistung der virtuellen Maschine erhöhen. <cite><a href="#degelas08">degelas08</a></cite>
+Bei Paravirtualisierung wird zwar ein Betriebssystem virtuell gestartet, jedoch wird keine Hardware virtualisiert, sondern die Betriebssysteme verwenden eine abstrakte Verwaltungsschicht, um auf gemeinsame Ressourcen (Netzanbindung, Festplattenspeicher) zuzugreifen. Damit das Betriebssystem auf der virtuellen Maschine ausgeführt werden kann muss es teilweise portiert werden. Durch diese Portierung kann sich die Leistung der virtuellen Maschine erhöhen. <cite><a href="#degelas08">degelas08</a></cite>
 
 ### Schnittstelle zur Virtualisierung
 
-Durch die verschiedenen Virtualisierungstechnologien und Verfahren wird es Entwickler nicht einfach gemacht Anwendungen zu entwerfen die mit allen Schnittstellen umgehen können.
+Durch die verschiedenen Virtualisierungstechnologien und Verfahren wird es den Entwickler nicht einfach gemacht Anwendungen zu entwerfen die mit allen Schnittstellen umgehen können. Libvirt bietet eine einheitliche Schnittstelle (API) um verschiedene Technologien wie Linux KVM<span class="fn"><a href="http://www.linux-kvm.org">Linux KVM</a></span>, Xen<span class="fn"><a href="http://www.xen.org">Xen</a></span> und VMware ESX<span class="fn"><a href="http://www.vmware.com">VMWare ESX</a></span> zu verwalten.
 
 <div class="figure" id="libvirt-schnittstelle">
 	<img src="http://up.frubar.net/1748/libvirtd.svg" alt="libvirt Schnittstelle" width="80%" />
 	<p>Einbindung libvirt Schnittstelle</p>
 </div>
 	
+## Usability und User friendlyness
+
+<q>People don't want dump from your app; they want simplicity and ease.</q>
+<div style="text-align: right; margin-right: 2em; margin-top: -2em;">
+    Josh Clark - iPhone Designer und Entwickler
+</div>
+
+Usability (Gebrauchstauglichkeit) und User friendlyness (Benutzerfreundlichkeit) sind eng verwandte Begriffe und sollen die Nutzbarkeit und Zufriedenheit für den Kunden erhöhen. So kann durch <cite><a href="#ISO9126">ISO 9126</a></cite> (Benutzbarkeit) und <cite><a href="#ISO9241">ISO 9241</a></cite> (Gebrauchstauglichkeit) folgende Formel abgeleitet werden:
+<pre>
+Benutzbarkeit = Effektivität + Effizienz
+Gebrauchstauglichkeit = Benutzbarkeit + Zufriedenstellung
+Benutzerfreundlichkeit = Gebrauchstauglichkeit + Zufriedenheit + Nützlichkeit
+</pre>
+
+In dieser Arbeit bezieht sich der Begriff Usability nur auf die Gebrauchstauglichkeit von mobilen Anwendungen, nicht auf die Usability des Gerätes oder anderer Software.
+
+In diesem Abschnitt werden die bekanntesten Usability Regeln aufgeführt und die Relevanz für mobile Anwendungen dargestellt. Die eigentliche Anwendung der Regeln und Usability Konzepte erfolgt in Kapitel <a href="#analyse"><b>3. Analyse</b></a>.
+
+### Usability Regeln
 
 
 
+### Relevanz für mobile Anwendungen
 
-## Usability-Kriterien
+
+
+#### Bildschirmgröße
+
+#### Touchscreen
+

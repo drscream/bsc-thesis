@@ -23,7 +23,7 @@ Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwe
 
 <q>Als Admin fähre ich mit meinem Sportwagen Richtung Süden. Dank meines iPhone bemerkt ich, dass meine Internetseite auf Facebook angekündigt wird. Durch die vielen Zugriffe auf den Webserver wäre meine Seite nicht mehr erreichbar und ich würde Umsatz verlieren.</q>
 
-<div style="text-align: right; margin-right: 2em; margin-top: 0">
+<div style="text-align: right; margin-right: 2em; margin-top: -2em;">
     User-Story eines IT Mitarbeiters
 </div>
 

@@ -25,5 +25,29 @@
 	    <a href="http://www.anandtech.com/show/2480" class="bib_url">http://www.anandtech.com/show/2480</a>
 	</dd>
 	
+	<dt id="tapworthy11">[tapworthy11]</dt>
+	<dd>
+		<span class="bib_author">Josh Clark</span>
+		<span class="bib_title">Tapworthy - Designing Great iPhone Apps</span>.<br>
+		<span class="bib_publisher">O'Reilly Media</span>, <span class="bib_year">2011</span>.
+		- <span class="bib_isbn">ISBN 978-1449381653</span>
+	</dd>
+
+	<dt id="iso9241">[iso9241]</dt>
+	<dd>
+	    <span class="bib_author">International Organization for Standardization</span>
+	    <span class="bib_title">Teile der Norm ISO 9241 in Vorbereitung</span>.<br>
+	    <span class="bib_publisher">International Organization for Standardization</span>, <span class="bib_year">2002-2008</span>.<br>
+	    <a href="http://www.iso.org/iso/search.htm?qt=9241&published=on&active_tab=standards" class="bib_url">http://www.iso.org/iso/search.htm?qt=9241&published=on&active_tab=standards</a>
+	</dd>
+
+	<dt id="iso9126">[iso9126]</dt>
+	<dd>
+	    <span class="bib_author">International Organization for Standardization</span>
+	    <span class="bib_title">Norm ISO/IEC 9126</span>.<br>
+	    <span class="bib_publisher">International Organization for Standardization</span>, <span class="bib_year">2004-2007</span>.<br>
+	    <a href="http://www.iso.org/iso/search.htm?qt=9126&published=on&active_tab=standards" class="bib_url">http://www.iso.org/iso/search.htm?qt=9126&published=on&active_tab=standards</a>
+	</dd>
+	
 </dl>
 

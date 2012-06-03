@@ -1,6 +1,6 @@
 <strong class="title">Entwicklung einer mobilen Anwendung zur Verwaltung von Cloud Infrastruktur</strong>
 
-<span class="date">18. Februar 2012</span>
+<span class="date">14. Juni 2012</span>
 
 <div id="fh-title">&nbsp;</div>
 
@@ -32,7 +32,7 @@ Hiermit erkläre ich, Thomas Merkel, geboren am 10.10.1985 in Tettnang, dass ich
 
 
 <br /><br /><br /><br />
-Tettnang, den 30. Mai 2012
+Tettnang, den 14. Juni 2012
 
 ---
 
