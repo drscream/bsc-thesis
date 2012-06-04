@@ -25,7 +25,7 @@ Im Oktober 2011 befanden sich über 400.000 Anwendungen<span class="fn"><a href=
 Die Cloud beschreibt die Abstraktion von IT Infrastruktur wie z.B. Rechenkapazität, Speicherbedarf oder auch Software. Diese können bei Bedarf und zur Verfügung gestellt werden.
 
 <div class="figure" id="cloud-computing-diagram">
-	<img src="http://up.frubar.net/1747/cloud_computing_diagram.jpg" alt="Cloud Computing Diagram" width="80%" />
+	<img src="http://up.frubar.net/1758/cloud_computing_diagram.jpg" alt="Cloud Computing Diagram" width="80%" />
 	<p>Elemente des Cloud-Computing</p>
 </div>
 
@@ -84,7 +84,7 @@ Bei Paravirtualisierung wird zwar ein Betriebssystem virtuell gestartet, jedoch 
 Durch die verschiedenen Virtualisierungstechnologien und Verfahren wird es den Entwickler nicht einfach gemacht Anwendungen zu entwerfen die mit allen Schnittstellen umgehen können. Libvirt bietet eine einheitliche Schnittstelle (API) um verschiedene Technologien wie Linux KVM<span class="fn"><a href="http://www.linux-kvm.org">Linux KVM</a></span>, Xen<span class="fn"><a href="http://www.xen.org">Xen</a></span> und VMware ESX<span class="fn"><a href="http://www.vmware.com">VMWare ESX</a></span> zu verwalten.
 
 <div class="figure" id="libvirt-schnittstelle">
-	<img src="http://up.frubar.net/1748/libvirtd.svg" alt="libvirt Schnittstelle" width="80%" />
+	<img src="http://up.frubar.net/1757/libvirtd.svg" alt="libvirt Schnittstelle" width="80%" />
 	<p>Einbindung libvirt Schnittstelle</p>
 </div>
 	
