@@ -124,7 +124,7 @@ Die große Anzahl an verschiedensten Usability-Regeln erschwert es die relevante
 Schon 1988 veröffentlichte Donald Norman sein Buch „The Design of Everyday Things“ <cite><a href="#norman88">norman88</a></cite> welches sieben Handlungsschritte zum Erreichen eines Ziels beschreibt.
 
 <div class="figure" id="sieben-handlungss-norman">
-	<img src="http://up.frubar.net/1750/sieben-handlungss-norman.png" alt="Die sieben Handlungsschritte von Norman" width="70%" />
+	<img src="http://up.frubar.net/1762/sieben-handlungss-norman.svg" alt="Die sieben Handlungsschritte von Norman" width="70%" />
 	<p>Die sieben Handlungsschritte von Norman <cite><a href="dah06">dahm06</a></cite></p>
 </div>
 
