@@ -38,7 +38,7 @@
 	    <span class="bib_author">International Organization for Standardization</span>
 	    <span class="bib_title">Teile der Norm ISO 9241 in Vorbereitung</span>.<br>
 	    <span class="bib_publisher">International Organization for Standardization</span>, <span class="bib_year">2002-2008</span>.<br>
-	    <a href="http://www.iso.org/iso/search.htm?qt=9241&published=on&active_tab=standards" class="bib_url">http://www.iso.org/iso/search.htm?qt=9241&published=on&active_tab=standards</a>
+	    <a href="http://www.iso.org/iso/search.htm?qt=9241&published=on&active_tab=standards" class="bib_url">http://www.iso.org/iso/search.htm?qt=9241&amp;published=on&amp;active_tab=standards</a>
 	</dd>
 
 	<dt id="iso9126">[iso9126]</dt>
@@ -46,7 +46,7 @@
 	    <span class="bib_author">International Organization for Standardization</span>
 	    <span class="bib_title">Norm ISO/IEC 9126</span>.<br>
 	    <span class="bib_publisher">International Organization for Standardization</span>, <span class="bib_year">2004-2007</span>.<br>
-	    <a href="http://www.iso.org/iso/search.htm?qt=9126&published=on&active_tab=standards" class="bib_url">http://www.iso.org/iso/search.htm?qt=9126&published=on&active_tab=standards</a>
+	    <a href="http://www.iso.org/iso/search.htm?qt=9126&published=on&active_tab=standards" class="bib_url">http://www.iso.org/iso/search.htm?qt=9126&amp;published=on&amp;active_tab=standards</a>
 	</dd>
 	
 	<dt id="nie93">[nie93]</dt>

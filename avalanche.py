@@ -69,8 +69,8 @@ class Avalanche(object):
 			tmp_pdf = tempfile.NamedTemporaryFile(delete=False, suffix='.pdf')
 			tmp_pdf.close()
 			
-			command = ["prince", f.name, tmp_pdf.name]
-			Popen(command, stderr=dummy_fh).communicate()
+			command = ["prince", '--verbose', f.name, tmp_pdf.name]
+			Popen(command).communicate()
 		except Exception, e:
 			raise EnvironmentError(u"Unable to generate PDF file using "
                             	    "prince. Is it installed and available?\n%s" % e)
