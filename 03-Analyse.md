@@ -37,6 +37,16 @@ Den Benutzern ist die Verwendung von virtuellen Servern in einer Cloud-Landschaf
 
 ## Alternative Anwendungen
 
+Da aktuell noch keine Anwendungen für die Verwaltung von virtuellen Rechnerinstanzen existieren werden alternative IT-relevante Anwendungen betrachtet. Ein Teil der Erfahrungen mit diesen Anwendungen wird in der Realisierungsphase nützlich sein.
+
+Die Anwendungen werden kurz Beschrieben und die grafischen Benutzeroberflächen bewertet.
+
+### iSSH
+
+### IPMI Touch
+
+### NagiMon
+
 ## Konzeption
 Design, Bildschirmgröße, Apple iOS, iPhone
 Navigation innerhalb einer Anwendung
