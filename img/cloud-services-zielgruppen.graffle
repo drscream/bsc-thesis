@@ -44,14 +44,14 @@
 	<key>Creator</key>
 	<string>Thomas Merkel</string>
 	<key>DisplayScale</key>
-	<string>1 0/72 in = 1 0/72 in</string>
+	<string>1 0/72 in = 1.0000 in</string>
 	<key>GraphDocumentVersion</key>
 	<integer>8</integer>
 	<key>GraphicsList</key>
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{393, 179.5}, {204, 13}}</string>
+			<string>{{393, 235.75}, {204, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -108,7 +108,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{476.5, 337.5}, {37, 13}}</string>
+			<string>{{476.5, 87.75}, {37, 13}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -177,8 +177,8 @@
 			<integer>16</integer>
 			<key>Points</key>
 			<array>
-				<string>{485, 316}</string>
-				<string>{485, 372}</string>
+				<string>{485, 66.25}</string>
+				<string>{485, 122.25}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -218,8 +218,8 @@
 			<integer>15</integer>
 			<key>Points</key>
 			<array>
-				<string>{485, 64}</string>
-				<string>{485, 316}</string>
+				<string>{485, 120.25}</string>
+				<string>{485, 372.25}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -247,7 +247,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{529, 295}, {92, 56}}</string>
+			<string>{{531, 89.75}, {92, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -366,7 +366,7 @@ Anwendungsintegration}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{529, 103}, {146, 28}}</string>
+			<string>{{530, 308.25}, {146, 28}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -534,7 +534,7 @@ Cloud-Provider}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{69, 96}, {128, 42}}</string>
+			<string>{{70, 301.25}, {128, 42}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -651,7 +651,7 @@ Plattformen als Service}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{68, 316}, {129, 14}}</string>
+			<string>{{70, 110.75}, {129, 14}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -708,7 +708,7 @@ Plattformen als Service}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{222.75, 80}, {252.25, 74}}</string>
+			<string>{{223.75, 285.25}, {252.25, 74}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -769,8 +769,9 @@ Plattformen als Service}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\b\fs24 \cf0 Infrastructure as a Service (IaaS)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\b0 \
+\b0 \cf0 \
 Amazon EC2, AppNexus, Sun Cloud, HP Cloud Enabling Computing}</string>
 			</dict>
 		</dict>
@@ -837,14 +838,15 @@ Amazon EC2, AppNexus, Sun Cloud, HP Cloud Enabling Computing}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\b\fs24 \cf0 Platform as a Service (PaaS)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\b0 \
+\b0 \cf0 \
 Force.com, Google App Engine, Microsoft Azure Service (SQL Azure, .NET Services)}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{222.75, 286}, {252.25, 74}}</string>
+			<string>{{224.75, 80.75}, {252.25, 74}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -905,8 +907,9 @@ Force.com, Google App Engine, Microsoft Azure Service (SQL Azure, .NET Services)
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\b\fs24 \cf0 Software as a Service (SaaS)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\b0 \
+\b0 \cf0 \
 Google Apps for Business, Microsoft Online Service, Salesforce.com, WebEx, etc.}</string>
 			</dict>
 		</dict>
@@ -958,7 +961,7 @@ Google Apps for Business, Microsoft Online Service, Salesforce.com, WebEx, etc.}
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-06-05 07:43:31 +0000</string>
+	<string>2012-06-05 17:34:37 +0000</string>
 	<key>Modifier</key>
 	<string>Thomas Merkel</string>
 	<key>NotesVisible</key>
@@ -1039,7 +1042,7 @@ Google Apps for Business, Microsoft Online Service, Salesforce.com, WebEx, etc.}
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{6, 56}, {1237, 852}}</string>
+		<string>{{28, 4}, {1237, 742}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -1053,7 +1056,7 @@ Google Apps for Business, Microsoft Online Service, Salesforce.com, WebEx, etc.}
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-148, -80}, {1102, 697}}</string>
+		<string>{{-148, -25}, {1102, 587}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>

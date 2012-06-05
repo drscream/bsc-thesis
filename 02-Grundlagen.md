@@ -51,7 +51,7 @@ Aus der Sicht der Informatik, hat der Besitzer einen Online-Shop, dieser läuft 
 Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jeder Schicht stellt einen Grad der Abstraktion dar und werden in diesem Abschnitt näher erläutert. <a href="#bartonb08"><cite>bartonb08</cite></a>
 
 <div class="figure" id="cloud-technische-realisierungen">
-	<img src="http://up.frubar.net/1766/cloud-services-zielgruppen.svg" alt="cloud-technische-realisierungen" width="100%" />
+	<img src="http://up.frubar.net/1776/cloud-services-zielgruppen.svg" alt="cloud-technische-realisierungen" width="100%" />
 	<p>Cloud-Stack, die drei technischen Schichten</p>
 </div>
 
