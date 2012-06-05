@@ -24,7 +24,12 @@ Im Oktober 2011 befanden sich über 400.000 Anwendungen<span class="fn"><a href=
 
 ## Cloud-Computing
 
-Die Cloud beschreibt die Abstraktion von IT Infrastruktur wie z.B. Rechenkapazität, Speicherbedarf oder auch Software. Diese können bei Bedarf und zur Verfügung gestellt werden.
+Die Cloud beschreibt die Abstraktion von IT Infrastruktur wie z.B. Rechenkapazität, Speicherbedarf oder auch Software. Durch die Aufteilung der einzelnen IT Ressourcen können diese je nach Bedarf zur Verfügung gestellt werden. 
+
+Vereinfach kann man sich die Cloud wie folgt vorstellen: Man besitzt ein Online-Kleidergeschäft, mit zwei Mitarbeitern. Diese Mitarbeiter pflegen die Seite, verpacken und versenden die Ware. Während dem Jahr können die zwei Mitarbeiter alle Kunden jederzeit bedienen und es kommt zu keinen Engpässen. Über die Weihnachtszeit ist der Andrang aber so hoch, dass Kunden ihre Kleidung nicht rechtzeitig erhalten, da dass verpacken viel zu lange dauert. <br />
+Nun gibt es für den Besitzer drei Möglichkeiten. Er stellt einen weiteren Mitarbeiter ein, den er aber ein ganzes Jahr beschäftigen müsste und zum Teil nicht ausgelastet ist. Der Besitzer verzichtet auf den Umsatz, was keine zufriedenstellend Lösung ist. Oder der Besitzer wendet sich für diese Zeit an einen Dienstleister der das verpacken und versenden für Ihn übernimmt.
+
+Aus der Sicht der Informatik, hat der Besitzer einen Online-Shop, dieser läuft auf einem Server. Für die üblichen Benutzerzahlen im Jahr ist dieser Server völlig ausreichend, jedoch steigt die Zugriffszahlen über die Weihnachtszeit. Statt einen weiteren Server zu kaufen, der jährlich Geld kostet, mietet sich der Besitzer für eine geringe Zeitspanne weitere Rechnerressourcen in der Cloud.
 
 <div class="figure" id="cloud-computing-diagram">
 	<img src="http://up.frubar.net/1758/cloud_computing_diagram.jpg" alt="Cloud Computing Diagram" width="80%" />
