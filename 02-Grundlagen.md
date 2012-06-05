@@ -36,31 +36,31 @@ Die Cloud beschreibt die Abstraktion von IT Infrastruktur wie z.B. Rechenkapazit
 Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jeder Schicht stellt einen Grad der Abstraktion dar und werden in diesem Abschnitt näher erläutert. <a href="#bartonb08"><cite>bartonb08</cite></a>
 
 <div class="figure" id="cloud-technische-realisierungen">
-	<img src="http://up.frubar.net/1765/8f9c7ccd784b003a.jpg" alt="cloud-technische-realisierungen" width="80%" />
+	<img src="http://up.frubar.net/1766/cloud-services-zielgruppen.svg" alt="cloud-technische-realisierungen" width="80%" />
 	<p>Cloud-Stack, die drei technischen Schichten</p>
 </div>
 
-#### Infrastruktur
+#### Infrastruktur (IaaS)
 
-„Infrastructure as a Service“ befindet sich an der untersten Schicht im Cloud-Stack. Der Benutzer verwaltet seine virtuellen Server (Rechnerinstanzen) selbst. Der Cloud-Dienst selbst ist skalierbar ausgelegt, jedoch nicht zwingend die Programme die der Benutzer auf den Rechnerinstanzen installiert. 
+„Infrastructure as a Service“ befindet sich an der untersten Schicht im Cloud-Stack. Die Cloud-Provider bieten dem Benutzer Rechnerinstanzen, meist in Form von virtuellen Servern, an. Diese kann der Benutzer selbst verwalten. Der Cloud-Dienst ist skalierbar ausgelegt, jedoch nicht zwingend die Programme die der Benutzer auf den Rechnerinstanzen installiert. 
 
-Je nach Anforderung kann der Cloud-Dienst um Rechnerinstanzen erweitert oder verkleinert werden. Der Benutzer ist hierbei ab der Betriebssystemebene für seine Instanz selbst verantwortlich.
+Je nach Anforderung kann der Cloud-Dienst um Rechnerinstanzen erweitert oder verkleinert werden. Der Benutzer ist hierbei ab der Betriebssystemebene für seine Instanz verantwortlich.
 
-#### Plattform
+#### Plattform (PaaS)
 
-Bei „Platform as a Service“ steht die Anwendung des Entwicklers im Vordergrund. Der Entwickler stellt seine Anwendung über die Cloud zur Verfügung, diese kümmert sich um die Aufteilung auf die Rechnungsinstanzen.
+Bei „Platform as a Service“ steht die Anwendung des Entwicklers im Vordergrund. Der Entwickler stellt seine Anwendung über die Cloud zur Verfügung. Die Cloud selbst kümmert sich um die Aufteilung auf die Rechnungsinstanzen.
 
-Da der Benutzer nur seine Anwendung liefert, kann die Cloud die Anzahl der tatsächlichen Instanzen jederzeit erhöhen oder reduzieren. In der Cloud werden vom Benutzer gelieferte Daten verarbeitet, das umliegende System ist für ihn nicht einsehbar.
+Da der Entwickler nur seine Anwendung liefert, kann die Cloud die Anzahl der tatsächlichen Instanzen jederzeit erhöhen oder reduzieren. In der Cloud werden vom Entwickler gelieferte Daten verarbeitet, das umliegende System ist für ihn nicht einsehbar.
 
-#### Anwendung
+#### Anwendung (SaaS)
 
-Der Benutzer verwenden bei „Software as a Service“ eine bereits bestehende Anwendung in der Cloud. Für Ihn sind die Platform und die Infrastruktur nicht sichtbar. 
+Der Benutzer verwendet bei „Software as a Service“ eine bereits bestehende Anwendung in der Cloud. Für ihn sind die Platform und die Infrastruktur nicht sichtbar. 
 
-Beispiele für eine Cloud-Anwendung sind unter anderem Google Drive<span class="fn"><a href="http://drive.google.com">Google Drive</a></span>, DropBox<span class="fn"><a href="http://www.dropbox.com">DropBox</a></span> und Microsoft Office Communications Online<span class="fn"><a href="http://www.microsoft.com/online/de-de/prodComm.aspx">Microsoft Office Communications Online</a></span>.
+Beispiele für Cloud-Anwendung sind unter anderem Google Drive<span class="fn"><a href="http://drive.google.com">Google Drive</a></span>, DropBox<span class="fn"><a href="http://www.dropbox.com">DropBox</a></span> und Microsoft Office Communications Online<span class="fn"><a href="http://www.microsoft.com/online/de-de/prodComm.aspx">Microsoft Office Communications Online</a></span>.
 
 ### Organisatorische Arten
 
-Die Cloud wird meist, abhängig vom Anwendungsfall, in drei Organisationsformen eingeordnet. <cite><a href="#cloudadop10">cloudadop10</a></cite>
+Die Cloud wird meist, abhängig vom Anwendungsfall, in drei Organisationsformen eingeordnet. Eine Beschreibung der Organisationsformen erfolgt in diesem Abschnitt. <cite><a href="#cloudadop10">cloudadop10</a></cite>
 
 #### Private Cloud
 
