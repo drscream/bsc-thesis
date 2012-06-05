@@ -7,17 +7,17 @@ In diesem Kapitel erfolgt die Analyse zur Entwicklung der mobilen Anwendung.
     Vince Lombardi
 </div>
 
-Die ersten Abschnitte beziehen sich auf die Projektplanung, wie die Definition der Zielgruppe und Ist-Zustandsanalyse. In den darauffolgenden Abschnitten wird die Konzeption und Identität anhand Navigationskonzepte, Design eines Logos und Apple Design verdeutlicht. Gefolgt werden diese von der Strukturierung der Anwendung durch ein Story-Board und Usability-Tests Anhand einiger Vorlagen.
+Die ersten Abschnitte beziehen sich auf die Projektplanung, wie die Definition der Zielgruppe und Ist-Zustandsanalyse. In den darauffolgenden Abschnitten wird die Konzeption und Identität anhand von Navigationskonzepte, Design eines Logos und Apple Design verdeutlicht. Gefolgt werden diese von der Strukturierung der Anwendung durch ein Story-Board und Usability-Tests anhand einiger Vorlagen.
 
 ## Zielgruppe
 
-Die Definition der Zielgruppe und die Abfragen der Interessen der Anwender ist entscheiden für die Realisierung einer guten Anwendung.
+Die Definition der Zielgruppe und die Abfragen der Interessen der Anwender ist entscheidet für die Realisierung einer guten Anwendung.
 
 ### Brainstorming
 
 Um die Zielgruppe und deren Anforderungen besser spezifizieren zu können, wurde in einem Meeting aller Mitglieder der Abteilung, ein Brainstorming abgehalten. Durch dieses Verfahren war es einfacher möglich eine genaue Definition zu erstellen.
 
-Mit der in <a href="#zielgruppe-brainstorming">Abbildung 7</a> erstellte Mindmap konnte eine Definition abgeleitet werden. Für eine bessere kreative Arbeit wurde das Brainstorming aber mit Papier und Stift erstellt. Das Original befindet sich in der Anlage.
+Mit der in <a href="#zielgruppe-brainstorming">Abbildung 7</a> erstellten Mindmap konnte eine Definition abgeleitet werden. Für eine bessere kreative Arbeit wurde das Brainstorming aber mit Papier und Stift erstellt. Das Original befindet sich in der Anlage.
 
 <div class="figure" id="zielgruppe-brainstorming">
 	<img src="http://up.frubar.net/1756/zielgruppe-brainstorming.svg" alt="Zielgruppe Brainstorming" width="90%" />
@@ -35,9 +35,9 @@ Den Benutzern ist die Verwendung von virtuellen Servern in einer Cloud-Landschaf
 
 Zum jetzigen Zeitpunkt existiert noch keine mobile Anwendung zur Verwaltung der Cloud Infrastruktur.
 
-Zum Einsatz im Unternehmen kommt Citrix CloudStack <span class="fn"><a href="http://www.citrix.de/produkte/cloudstack/">Citrix CloudStack</a></span>. Hierbei handelt es sich um eine OpenSource Webanwendung zur Verwaltung einer Infrastruktur Cloud. Zwischen der Weboberfläche und der Virtualisierungstechnologie befindet sich die libvirt-Schnittstelle. Nach <a href="#libvirt-schnittstelle">Abbildung 3 Einbindung libvirt Schnittstelle</a>, befindet sich CloudStack in der Anwenderschicht. Durch diese Schnittstelle ist es einfach möglich verschiedene Virtualisierungstechnologien zu nutzen. 
+Zum Einsatz im Unternehmen kommt Citrix CloudStack <span class="fn"><a href="http://www.citrix.de/produkte/cloudstack/">Citrix CloudStack</a></span>. Hierbei handelt es sich um eine OpenSource Webanwendung zur Verwaltung einer Infrastruktur Cloud. Zwischen der Weboberfläche und der Virtualisierungstechnologie befindet sich die libvirt-Schnittstelle. Nach <a href="#libvirt-schnittstelle">Abbildung 3 Einbindung libvirt Schnittstelle</a>, befindet sich CloudStack in der Anwenderschicht. Durch diese Schnittstelle ist es möglich verschiedene Virtualisierungstechnologien zu nutzen. 
 
-Eine gute Verwendung von CloudStack ist nur in einem Browser mit ausreichend großem Bildschirm möglich. Auf einem Smartphone ist die viel Zahl an Funktionen unübersichtlich und im Notfall nicht verwendbar.
+Eine zufriedenstellende Verwendung von CloudStack ist nur in einem Browser mit ausreichend großem Bildschirm möglich. Auf einem Smartphone ist die Vielzahl an Funktionen unübersichtlich und im Notfall nicht verwendbar.
 
 <div class="figure" id="cloudstack-dashboard">
 	<img src="http://up.frubar.net/1773/cloudstack-dashboard.jpg" alt="cloudstack-dashboard" width="90%" />
