@@ -4,13 +4,15 @@ In diesem Kapitel werden einige Grundlagen und Grundbegriffe näher erläutert. 
 
 ## Mobile Endgeräte
 
-Der Begriff mobile Endgeräte wird umgangssprachlich mit Mobiltelefone, Smartphones und PDAs gleichgesetzt. Unter diesen Begriff fallen aber alle Geräte die ohne größere körperliche Anstrengung transportiert und mobil eingesetzt werden können. Somit auch MP3-Player, Notebooks oder Tablet-PCs.
+Der Begriff mobile Endgeräte wird umgangssprachlich mit Mobiltelefone, Smartphones und PDAs gleichgesetzt. Unter diesen Begriff fallen aber alle Geräte die ohne größere körperliche Anstrengung transportiert und mobil eingesetzt werden können. Somit auch MP3-Player, Notebooks oder Tablet-PCs. <cite><a href="#wiki11a">wiki11a</a></cite>
 
 In der Bachelorarbeit wird der Fokus auf Smartphones und die mobilen Anwendungen gelegt.
 
 ### Smartphones
 
-Smartphones stellen die Computerfunktionalität auf einem Mobiltelefon zur Verfügung. Sie sind durch ihre Konstruktion und Bedienung nicht zum Telefonieren optimiert, stattdessen ermöglichen Sie die Verwendung von einer großen Anzahl an Anwendungen. Daher sind typische Merkmale ein großer Touchscreen und eine alphanumerische Tastatur.
+Smartphones stellen die Computerfunktionalität auf einem Mobiltelefon zur Verfügung. Diese Geräte sind über die verschiedensten Telekommunikationsdienste, wie UMTS<span class="fn">Universal Mobile Telecommunications System</span>, HSDPA<span class="fn">High Speed Downlink Packet Access</span> oder Wireless-LAN, internetfähig.
+
+Sie sind durch ihre Konstruktion und Bedienung nicht zum Telefonieren optimiert, stattdessen ermöglichen Sie die Verwendung von einer großen Anzahl an Anwendungen. Daher sind typische Merkmale ein großer Touchscreen und eine alphanumerische Tastatur.
 
 ### mobile Anwendungen
 
@@ -18,7 +20,7 @@ Eine mobile Anwendung, im allgemeinen Sprachgebraucht „App“ genannt, ist ein
 
 Die ersten Mobiltelefone enthielten schon Anwendungen wie Kalender, Taschenrechner oder Spiele. Durch die Entwicklung von Java ME<span class="fn"><a href="http://www.oracle.com/technetwork/java/javame">Java ME</a></span> war es auch Entwicklern möglich weitere mobile Anwendungen zu programmieren und zur Verfügung zu stellen. Aber erst mit der Erscheinung von Apples iPhone und Googles Android Smartphones, wurden die „App“ populär. Dies ist nicht allein dem Marketingkonzept zuzuschreiben, auch wenn dies einen großen Einfluss auf die Popularität hatte. Die vereinfachte Installation und Bereitstellung über integrierte Onlineshops konnte die breite Bevölkerung ansprechen. 
 
-Im Oktober 2011 befanden sich über 400.000 Anwendungen<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/208599/umfrage/anzahl-der-apps-in-den-top-app-stores/">Statista, Anzahl der Apps in den Top App-Stores im Oktober 2011</a></span> im App Store von Apple. Hinzu kommt im März 2012 würden über 20 Millionen Downloads<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/20149/umfrage/anzahl-der-getaetigten-downloads-aus-dem-apple-app-store/">Statista, Anzahl der heruntergeladenen Anwendungen im Apple App Store</a></span> im gemessen. Diese Zahlen zeigen den wachsenden Markt für mobile Anwendungen.
+Im Oktober 2011 befanden sich über 400.000 Anwendungen<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/208599/umfrage/anzahl-der-apps-in-den-top-app-stores/">Statista, Anzahl der Apps in den Top App-Stores im Oktober 2011</a></span> im App Store von Apple. Dazu wurden im März 2012 über 20 Millionen Downloads<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/20149/umfrage/anzahl-der-getaetigten-downloads-aus-dem-apple-app-store/">Statista, Anzahl der heruntergeladenen Anwendungen im Apple App Store</a></span> App Store im gemessen. Durch diese Zahlen ist der Trend für steigende Entwicklung von mobilen Anwendungen klar erkennbar.
 
 ## Cloud-Computing
 
@@ -31,7 +33,12 @@ Die Cloud beschreibt die Abstraktion von IT Infrastruktur wie z.B. Rechenkapazit
 
 ### Technische Realisierungen
 
-Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jeder Schicht stellt einen Grad der Abstraktion dar. <a href="#bartonb08"><cite>bartonb08</cite></a>
+Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jeder Schicht stellt einen Grad der Abstraktion dar und werden in diesem Abschnitt näher erläutert. <a href="#bartonb08"><cite>bartonb08</cite></a>
+
+<div class="figure" id="cloud-technische-realisierungen">
+	<img src="http://up.frubar.net/1765/8f9c7ccd784b003a.jpg" alt="cloud-technische-realisierungen" width="80%" />
+	<p>Cloud-Stack, die drei technischen Schichten</p>
+</div>
 
 #### Infrastruktur
 
@@ -77,11 +84,11 @@ Die virtuelle Maschine stellt dem Gastbetriebssystem Teilbereiche der Hardware i
 
 ### Paravirtualisierung
 
-Bei Paravirtualisierung wird zwar ein Betriebssystem virtuell gestartet, jedoch wird keine Hardware virtualisiert, sondern die Betriebssysteme verwenden eine abstrakte Verwaltungsschicht, um auf gemeinsame Ressourcen (Netzanbindung, Festplattenspeicher) zuzugreifen. Damit das Betriebssystem auf der virtuellen Maschine ausgeführt werden kann muss es teilweise portiert werden. Durch diese Portierung kann sich die Leistung der virtuellen Maschine erhöhen. <cite><a href="#degelas08">degelas08</a></cite>
+Bei Paravirtualisierung wird zwar ein Betriebssystem virtuell gestartet, jedoch wird keine Hardware virtualisiert, sondern die Betriebssysteme verwenden eine abstrakte Verwaltungsschicht, um auf gemeinsame Ressourcen, wie Netzanbindung oder Festplattenspeicher, zuzugreifen. Damit das Betriebssystem auf der virtuellen Maschine ausgeführt werden kann muss es teilweise portiert werden. Durch diese Portierung kann sich die Leistung der virtuellen Maschine erhöhen. <cite><a href="#degelas08">degelas08</a></cite>
 
 ### Schnittstelle zur Virtualisierung
 
-Durch die verschiedenen Virtualisierungstechnologien und Verfahren wird es den Entwickler nicht einfach gemacht Anwendungen zu entwerfen die mit allen Schnittstellen umgehen können. Libvirt bietet eine einheitliche Schnittstelle (API) um verschiedene Technologien wie Linux KVM<span class="fn"><a href="http://www.linux-kvm.org">Linux KVM</a></span>, Xen<span class="fn"><a href="http://www.xen.org">Xen</a></span> und VMware ESX<span class="fn"><a href="http://www.vmware.com">VMWare ESX</a></span> zu verwalten.
+Durch die verschiedenen Virtualisierungstechnologien und Verfahren ist es schwierig für den Entwickler, eine Anwendung zu entwerfen, die mit allen Schnittstellen umgehen kann. Libvirt bietet eine einheitliche Schnittstelle (API) um verschiedene Technologien wie Linux KVM<span class="fn"><a href="http://www.linux-kvm.org">Linux KVM</a></span>, Xen<span class="fn"><a href="http://www.xen.org">Xen</a></span> und VMware ESX<span class="fn"><a href="http://www.vmware.com">VMWare ESX</a></span> zu verwalten.
 
 <div class="figure" id="libvirt-schnittstelle">
 	<img src="http://up.frubar.net/1757/libvirtd.svg" alt="libvirt Schnittstelle" width="80%" />
@@ -130,7 +137,7 @@ Schon 1988 veröffentlichte Donald Norman sein Buch „The Design of Everyday Th
 
 Aus den Handlungsschritten lassen sich zwei Handlungsphasen ableiten, die auftreten, wenn es für den Benutzer zu Problemen kommt das Ziel zu erreichen:
 <ul>
-	<li>Der **Gulf of Execution** beinhaltet Probleme, die während der Formulierung, Planung oder Ausführung auftreten. Diese treten auf wenn der Benutzer nicht weiß, wie er zu der Lösung seines Problems kommt. Zu diesen Problemen gehört ein unverständliches Bedienkonzept oder eine mangelhafte Navigation.</li>
+	<li>Der **Gulf of Execution** beinhaltet Probleme, die während der Formulierung, Planung oder Ausführung auftreten. Diese treten auf, wenn der Benutzer nicht weiß, wie er zu der Lösung seines Problems kommt. Zu diesen Problemen gehört ein unverständliches Bedienkonzept oder eine mangelhafte Navigation.</li>
 	<li>Der **Gulf of Evaluation** stellt die Probleme zwischen Anzeige und Interpretation dar. Diese entsteht durch Fehlinterpretation, mangelhafte Darstellung oder Rückmeldung.</li>
 </ul>
 
@@ -138,7 +145,7 @@ Die sieben Handlungsschritte nach Norman sind durchaus wichtig für die Entwickl
 
 #### Usability-Heuristik von Nielsen
 
-Der Software-Ergonom Jakob Nielsen verfasste 1990 unter dem Titel „Improving a Human-Computer Dialogue“ zehn Prinzipen, welche als Kategorien für die Usability-Probleme dienten. Heutzutage finden diese Anwendung in der Gestaltung von neuen Benutzerschnittstellen. <cite><a href="#nie93">nie93</a></cite> <cite><a href="#niemo90">niemo90</a></cite> 
+Der Software-Ergonom Jakob Nielsen verfasste 1990 unter dem Titel „Improving a Human-Computer Dialogue“ zehn Prinzipen, welche als Kategorien für die Usability-Probleme dienten. Heutzutage findet diese Heuristik Anwendung in der Gestaltung von neuen Benutzerschnittstellen. <cite><a href="#nie93">nie93</a></cite> <cite><a href="#niemo90">niemo90</a></cite> 
 
 <ul>
 	<li><strong>Einfache und natürliche Dialoge</strong><br />Dialoge sollen nur die nötigsten Informationen beinhalten. Alle weiteren Informationen, die nicht relevant sind, verringern die Wichtigkeit der nötigen Informationen. Die Darstellung soll natürlich und logisch sein.</li>
@@ -157,9 +164,9 @@ Wie für jede Gestaltung von neuen Benutzerschnittstellen bieten die Usability-H
 
 #### KISS - Keep it Simple and Straightforward
 
-Bei dem KISS-Prinzip soll immer eine einfache Lösung für das Problem gewählt werden. Dabei ist KISS ein Apronym, welches auch unter „Keep It Simple and Stupid“ oder „Keep It Short and Simple“ bekannt ist.
+Bei dem KISS-Prinzip soll immer eine einfache Lösung für das Problem gewählt werden. Dabei ist KISS ein Akronym, welches auch unter „Keep It Simple and Stupid“ oder „Keep It Short and Simple“ bekannt ist.
 
-Abgeleitet auf die mobile Anwendung bedeutet dies, dass die Benutzerinteraktion und Oberfläche so einfach wie möglich gestaltet werden muss um das Ziel zu erreichen. Ein Auswahlmenü sollte somit nicht 20 Funktionen anzeigen, sondern nur die 5 Wichtigen.
+Abgeleitet auf die mobile Anwendung bedeutet dies, dass die Benutzerinteraktion und Oberfläche so einfach wie möglich gestaltet werden muss, um das Ziel zu erreichen. Ein Auswahlmenü sollte somit nicht 20 Funktionen anzeigen, sondern nur diese die er zur Lösung seiner Aufgabe benötigt.
 
 ### Relevanz für mobile Anwendungen
 
@@ -182,13 +189,11 @@ Der Bildschirm bei einem iPhone oder einem anderen Smartphone ist deutlich klein
 
 Durch den kleineren Bildschirm können weniger Informationen auf einem Ausschnitt platziert werden, dadurch muss mit einer guten Navigation gearbeitet werden. Diese sollte nicht zu Tief in „verwinkelt“ sondern für den Benutzer intuitiv nutzbar sein.
 
----
-
 #### Touchscreen
 
 Da ein Touchscreen meist mit den Fingern und nicht mit der Maus bedient wird, sind einige Designaspekte zu beachten. 
 
-Die Finger oder der Handrücken überdecken, wie Abbildung 5 zeigt, bei der Navigation zum Teil die Anwendung. Die Hauptnavigation innerhalb einer Anwendung sollte daher am Fuß angezeigt werden.
+Die Finger oder der Handrücken überdecken, wie Abbildung 5 zeigt, bei der Navigation zum Teil die Anwendung. Die Hauptnavigation innerhalb einer Anwendung sollte daher am unteren linken Rand des Bildschirms angezeigt werden.
 
 <div class="figure" id="iphone-daumen">
 	<img src="http://up.frubar.net/1754/iphone-daumen.png" alt="iPhone Daumen" width="30%" />

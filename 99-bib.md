@@ -48,7 +48,14 @@
 	    <span class="bib_publisher">International Organization for Standardization</span>, <span class="bib_year">2004-2007</span>.<br>
 	    <a href="http://www.iso.org/iso/search.htm?qt=9126&published=on&active_tab=standards" class="bib_url">http://www.iso.org/iso/search.htm?qt=9126&amp;published=on&amp;active_tab=standards</a>
 	</dd>
-	
+
+	<dt id="wiki11a">[wiki11a]</dt>
+	<dd>
+	    <span class="bib_title">Mobile device</span>.<br>
+	    <span class="bib_publisher">International Organization for Standardization</span>, <span class="bib_year">2011</span>.<br>
+	    <a href="http://en.wikipedia.org/wiki/Mobile_device" class="bib_url">http://en.wikipedia.org/wiki/Mobile_device</a>
+	</dd>
+
 	<dt id="nie93">[nie93]</dt>
 	<dd>
 		<span class="bib_author">Jakob Nielsen</span>
@@ -80,6 +87,8 @@
 		<span class="bib_publisher">Pearson Studium</span>, <span class="bib_year">2006</span>.
 		- <span class="bib_isbn">ISBN 978-3827371751</span>
 	</dd>
+	
+	
 	
 </dl>
 
