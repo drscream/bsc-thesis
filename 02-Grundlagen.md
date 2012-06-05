@@ -72,11 +72,12 @@ Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öf
 
 #### Hybrid Cloud
 
-Hierbei handelt es sich um eine Mischung aus „Private und Public Cloud“. Eine Organisation verwendet eine „Private Cloud“ und wechselt im Fehlerfall oder bei hoher Belastung zur „Public Cloud“.
+Hierbei handelt es sich um eine Mischung aus „Private und Public Cloud“. Eine Organisation verwendet eine „Private Cloud“ und wechselt im Fehlerfall oder bei hoher Belastung zur „Public Cloud“. 
 
 ##  Virtualisierung
 
-Für die Virtualisierung gibt es viele verschiedene Methoden, abhängig ob eine Anwendung oder ein gesamtes Betriebssystem virtualisiert werden soll. Die Virtualisierung spielt eine wichtige Rolle für die Cloud Infrastruktur. Für die Bachelorarbeit hat die Hardware Virtualisierung bzw. Paravirtualisierung, somit die Bereitstellung von Rechnerinstanzen, Relevanz.
+Für die Virtualisierung gibt es viele verschiedene Methoden, abhängig, ob eine Anwendung oder ein gesamtes Betriebssystem virtualisiert werden soll. Die Virtualisierung spielt eine wichtige Rolle für die Cloud Infrastruktur. Für die Bachelorarbeit ist die Bereitstellung ganzer Rechnerinstanzen relevant. Die beste Leistung wird mit der Paravirtualisierung erreicht. <cite><a href="#yaovt10">yaovt10</a></cite> <cite><a href="#yaocpu10">yaocpu10</a></cite> <cite><a href="#yaodisk10">yaodisk10</a></cite>
+
 
 ### Hardware Virtualisierung
 

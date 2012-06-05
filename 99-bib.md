@@ -88,7 +88,30 @@
 		- <span class="bib_isbn">ISBN 978-3827371751</span>
 	</dd>
 	
+	<dt id="yaovt10">[yaovt10]</dt>
+	<dd>
+	    <span class="bib_author">Yushu Yao</span>
+	    <span class="bib_title">Network Performance Test Xen/Kvm (VT-d and Para-virt drivers)</span>.<br>
+	    <span class="bib_publisher">Virtualization Studies</span>, <span class="bib_year">2010</span>.<br>
+	    <a href="http://vmstudy.blogspot.de/2010/04/network-performance-test-xenkvm-vt-d.html" class="bib_url">http://vmstudy.blogspot.de/2010/04/network-performance-test-xenkvm-vt-d.html</a>
+	</dd>
+
+	<dt id="yaocpu10">[yaocpu10]</dt>
+	<dd>
+	    <span class="bib_author">Yushu Yao</span>
+	    <span class="bib_title">CPU Performance Xen/Kvm</span>.<br>
+	    <span class="bib_publisher">Virtualization Studies</span>, <span class="bib_year">2010</span>.<br>
+	    <a href="http://vmstudy.blogspot.de/2010/04/cpu-performance-xenkvm.html" class="bib_url">http://vmstudy.blogspot.de/2010/04/cpu-performance-xenkvm.html</a>
+	</dd>
 	
+	<dt id="yaodisk10">[yaodisk10]</dt>
+	<dd>
+	    <span class="bib_author">Yushu Yao</span>
+	    <span class="bib_title">Disk Performance Xen/Kvm with LVM and Para-virt drivers</span>.<br>
+	    <span class="bib_publisher">Virtualization Studies</span>, <span class="bib_year">2010</span>.<br>
+	    <a href="http://vmstudy.blogspot.de/2010/04/disk-performance-xenkvm-with-lvm-and.html" class="bib_url">http://vmstudy.blogspot.de/2010/04/disk-performance-xenkvm-with-lvm-and.html</a>
+	</dd>
+
 	
 </dl>
 
