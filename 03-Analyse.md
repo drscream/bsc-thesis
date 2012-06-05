@@ -44,8 +44,7 @@ Eine gute Verwendung von CloudStack ist nur in einem Browser mit ausreichend gro
 	<p>CloudStack Dashboard <cite><a href="cstack12">cstack12</a></cite></p>
 </div>
 
-Da durch CloudStack auf die libvirt-Schnittstelle aufgesetzt wird, ist es sinnvoll diese Schnittstelle auch für die Entwicklung der mobile Anwendung zu verwenden.
-
+Da durch CloudStack auf die libvirt-Schnittstelle aufgesetzt wird, ist es sinnvoll diese auch für die Entwicklung der mobilen Anwendung zu verwenden.
 
 ## Alternative Anwendungen
 
@@ -82,6 +81,9 @@ Auf der Übersichtsseite der Anwendung ist durch die farblichen Unterschiede und
 Server lassen sich bei dieser Anwendung nicht in Kategorien oder Ordner einsortieren, dies erschwert bei einer großen Anzahl an System die Übersichtlichkeit.
 
 ## Konzeption
+
+
+
 Design, Bildschirmgröße, Apple iOS, iPhone
 Navigation innerhalb einer Anwendung
 

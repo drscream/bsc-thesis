@@ -8,6 +8,14 @@ Der Begriff mobile Endgeräte wird umgangssprachlich mit Mobiltelefone, Smartpho
 
 In der Bachelorarbeit wird der Fokus auf Smartphones und die mobilen Anwendungen gelegt.
 
+### Klassische Mobiltelefone
+
+TODO
+
+### PDAs
+
+TODO
+
 ### Smartphones
 
 Smartphones stellen die Computerfunktionalität auf einem Mobiltelefon zur Verfügung. Diese Geräte sind über die verschiedensten Telekommunikationsdienste, wie UMTS<span class="fn">Universal Mobile Telecommunications System</span>, HSDPA<span class="fn">High Speed Downlink Packet Access</span> oder Wireless-LAN, internetfähig.
