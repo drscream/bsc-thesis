@@ -1,1 +1,1 @@
-# Résumé und Ausblick
+# Fazit und Ausblick

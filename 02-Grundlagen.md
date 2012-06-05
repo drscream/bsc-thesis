@@ -10,11 +10,13 @@ In der Bachelorarbeit wird der Fokus auf Smartphones und die mobilen Anwendungen
 
 ### Klassische Mobiltelefone
 
-TODO
+Die klassischen Mobiltelefone sind meist mit einem Nummernblock und integriertem T9 Ziffernblock<span class="fn"><a href="http://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=1256871A2&KC=A2&FT=D&ND=3">T9 Ziffernblock Patent</a></span> ausgestattet. Die Größe und Farbtiefe des Bildschirms ist deutlich geringer als bei einem Smartphone.
+
+Bei neueren Modellen besteht zum Teil die Möglichkeiten Anwendungen in der Programmiersprache Java zu entwickeln. Die Schnittstellen zum Betriebssystem des Mobiltelefons erlauben aber nur einen Bruchteil der möglichen Funktionen.
 
 ### PDAs
 
-TODO
+Die persönlich digitalen Assistenten, kurz PDAs, sind eine Kombination aus den klassischen Mobiltelefonen und Computern. Sie bieten zur Telefonfunktion auch persönliche Kalender-, Adress- und Aufgabenverwaltung an. PDAs können zusätzlich Office-Dateien verarbeiten. Sie werden durch die Smartphones langsam vom Markt verdrängt. 
 
 ### Smartphones
 

@@ -52,7 +52,7 @@ In der <b>Einleitung</b> wird der Projektträger vorgestellt und die Ziele des P
 
 Im Kapitel <b>Analyse</b> erfolgt eine Darstellung der aktuellen Situation. Ein erster Prototyp wird erstellt und beschrieben um Usability-Tests anwenden zu können. Die Zielgruppe wird zum Prototypen befragt. In der <b>Realisierung</b> werden die technischen Aspekte zur Entwicklung der Anwendung angesprochen. Es werden Quelltext zur grafische Benutzeroberfläche und Schnittstelle näher erläutert.
 
-Zum Abschluss der Thesis erfolgt ein <b>Résumé</b> über das gesamte Projekt und die Arbeit. Es folgt ein Ausblick auf den Verlauf des Projekts außerhalb der Bachelor-Thesis.
+Zum Abschluss der Thesis erfolgt ein <b>Fazit</b> über das gesamte Projekt und die Arbeit. Es folgt ein Ausblick auf den Verlauf des Projekts außerhalb der Bachelor-Thesis.
 
 
 ## Formale Hinweise
