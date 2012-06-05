@@ -33,6 +33,18 @@ Den Benutzern ist die Verwendung von virtuellen Servern in einer Cloud-Landschaf
 
 ## Ist-Zustandsanalyse
 
+Zum jetzigen Zeitpunkt existiert noch keine mobile Anwendung zur Verwaltung der Cloud Infrastruktur.
+
+Zum Einsatz im Unternehmen kommt Citrix CloudStack <span class="fn"><a href="http://www.citrix.de/produkte/cloudstack/">Citrix CloudStack</a></span>. Hierbei handelt es sich um eine OpenSource Webanwendung zur Verwaltung einer Infrastruktur Cloud. Zwischen der Weboberfläche und der Virtualisierungstechnologie befindet sich die libvirt-Schnittstelle. Nach <a href="#libvirt-schnittstelle">Abbildung 3 Einbindung libvirt Schnittstelle</a>, befindet sich CloudStack in der Anwenderschicht. Durch diese Schnittstelle ist es einfach möglich verschiedene Virtualisierungstechnologien zu nutzen. 
+
+Eine gute Verwendung von CloudStack ist nur in einem Browser mit ausreichend großem Bildschirm möglich. Auf einem Smartphone ist die viel Zahl an Funktionen unübersichtlich und im Notfall nicht verwendbar.
+
+<div class="figure" id="cloudstack-dashboard">
+	<img src="http://up.frubar.net/1773/cloudstack-dashboard.jpg" alt="cloudstack-dashboard" width="90%" />
+	<p>CloudStack Dashboard <cite><a href="cstack12">cstack12</a></cite></p>
+</div>
+
+Da durch CloudStack auf die libvirt-Schnittstelle aufgesetzt wird, ist es sinnvoll diese Schnittstelle auch für die Entwicklung der mobile Anwendung zu verwenden.
 
 
 ## Alternative Anwendungen
@@ -46,7 +58,7 @@ Die Anwendungen werden kurz Beschrieben und die grafischen Benutzeroberflächen 
 Die Anwendung „iSSH - SSH / VNC Console“ bietet IT Administratoren die Möglichkeit sich mit einer Remote Verbindung auf einen Server zu verbinden und diesen zu verwalten. Unterstützt werden viele verschiedenste Protokolle, wie SSH<span class="fn"><a href="http://openssh.org">SSH</a></span> und Windows Remote Desktop<span class="fn"><a href="http://support.microsoft.com/?scid=kb%3Ben-us%3B186607&x=13&y=11">Windows Remote Desktop</a></span>.
 
 <div class="figure" id="issh-overview">
-	<img src="http://up.frubar.net/1768/issh-overview.png" alt="issh-overview" width="35%" />
+	<img src="http://up.frubar.net/1768/issh-overview.png" alt="issh-overview" width="35%" style="padding-right: 1.5em;"/>
 	<img src="http://up.frubar.net/1770/issh-overview-server.png" alt="issh-overview-server" width="35%" />
 	<p>iSSH Kategorisierung und Übersicht der Server</p>
 </div>
@@ -60,7 +72,7 @@ Einige Nachteile bieten die vielen Einstellungsmöglichkeiten auf der Übersicht
 Bei „IPMI Touch“ handelt es sich um ein weiteres IT Verwaltungswerkzeug von Servern. Es liest Hardwareinformationen eines Servers über das IPMI Protokoll<span class="fn"><a href="http://www.intel.com/design/servers/ipmi/">IPMI</a></span> aus. Für diese Informationen werden Temperatursensoren des Gehäuses ausgelesen, die Geschwindigkeit der Lüfter und der aktuelle Stromverbrauch. Über die Anwendung ist es dem Administrator auch möglich den Server auszuschalten.
 
 <div class="figure" id="ipmi-overview">
-	<img src="http://up.frubar.net/1771/ipmi-overview.png" alt="ipmi-overview" width="35%" />
+	<img src="http://up.frubar.net/1771/ipmi-overview.png" alt="ipmi-overview" width="35%" style="padding-right: 1.5em;"/>
 	<img src="http://up.frubar.net/1772/ipmi-server.png" alt="ipmi-server" width="35%" />
 	<p>IPMI Touch Übersicht und Hardwareinformationen</p>
 </div>

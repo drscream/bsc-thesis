@@ -112,6 +112,14 @@
 	    <a href="http://vmstudy.blogspot.de/2010/04/disk-performance-xenkvm-with-lvm-and.html" class="bib_url">http://vmstudy.blogspot.de/2010/04/disk-performance-xenkvm-with-lvm-and.html</a>
 	</dd>
 
+	<dt id="cstack12">[cstack12]</dt>
+	<dd>
+	    <span class="bib_author">CloudStack</span>
+	    <span class="bib_title">CloudStack</span>.<br>
+	    <span class="bib_publisher">Citrix Systems, Inc.</span>, <span class="bib_year">2012</span>.<br>
+	    <a href="http://cloudstack.org/" class="bib_url">http://cloudstack.org/</a>
+	</dd>
+
 	
 </dl>
 
