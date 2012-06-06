@@ -182,6 +182,11 @@ Wie für jede Gestaltung von neuen Benutzerschnittstellen bieten die Usability-H
 
 Bei dem KISS-Prinzip soll immer eine einfache Lösung für das Problem gewählt werden. Dabei ist KISS ein Akronym, welches auch unter „Keep It Simple and Stupid“ oder „Keep It Short and Simple“ bekannt ist.
 
+<div class="figure" id="kiss-iphone">
+	<img src="http://up.frubar.net/1779/kiss-iphone.png" alt="kiss-iphone" width="50%" />
+	<p>KISS Prinzip anhand einer iPhone Anwendung <cite><a href="#tapworthy11">tapworthy11</a></cite></p>
+</div>
+
 Abgeleitet auf die mobile Anwendung bedeutet dies, dass die Benutzerinteraktion und Oberfläche so einfach wie möglich gestaltet werden muss, um das Ziel zu erreichen. Ein Auswahlmenü sollte somit nicht 20 Funktionen anzeigen, sondern nur diese die er zur Lösung seiner Aufgabe benötigt.
 
 ### Relevanz für mobile Anwendungen
