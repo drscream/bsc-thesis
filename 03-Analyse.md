@@ -33,7 +33,7 @@ Den Benutzern ist die Verwendung von virtuellen Servern in einer Cloud-Landschaf
 
 ## Ist-Zustandsanalyse
 
-Zum jetzigen Zeitpunkt existiert noch keine mobile Anwendung zur Verwaltung der Cloud Infrastruktur.
+Zum jetzigen Zeitpunkt existiert noch keine mobile Anwendung (iPhone Anwendung) zur Verwaltung der Cloud Infrastruktur.
 
 Zum Einsatz im Unternehmen kommt Citrix CloudStack <span class="fn"><a href="http://www.citrix.de/produkte/cloudstack/">Citrix CloudStack</a></span>. Hierbei handelt es sich um eine OpenSource Webanwendung zur Verwaltung einer Infrastruktur Cloud. Zwischen der Weboberfläche und der Virtualisierungstechnologie befindet sich die libvirt-Schnittstelle. Nach <a href="#libvirt-schnittstelle">Abbildung 3 Einbindung libvirt Schnittstelle</a>, befindet sich CloudStack in der Anwenderschicht. Durch diese Schnittstelle ist es möglich verschiedene Virtualisierungstechnologien zu nutzen. 
 
@@ -82,10 +82,45 @@ Server lassen sich bei dieser Anwendung nicht in Kategorien oder Ordner einsorti
 
 ## Konzeption
 
+Für die Entwicklung einer iPhone Anwendung sollten grundlegende Punkte, wie die Denkweise und die Benutzerinteraktion, beschrieben werden. Dies erfolgt in dieser Kategorie.
+
+### Situation für mobile Anwendungen
+
+Es gibt viele verschiedene Situationen in denen eine iPhone Anwendung Verwendung findet. Laut Josh Clark, iPhone Designer und Entwickler, können diese in drei Situationen zusammengefasst werden. <cite><a href="#tapworthy11">tapworthy11</a></cite>
+
+#### „Meine minimale Aufgabenverwaltung“
+
+Ein Großteil der Anwendungen in dieser Kategorie sind zur Terminplanung, Aufgabenverwaltung oder Administration. Sie dienen der Produktivitätssteigerung und somit zum effektiven lösen von Problemen.
+
+Die Anwendungen „Kalender“ oder „Things“, die zur Verwaltung von Terminen und Aufgaben dient, sind zum Anlegen von neuen Terminen oder Aufgaben optimiert. Hierfür befindet sich auf jeden Bildschirm ein Plus („+“), wie in der <a href="#microtasking">Abbildung 12</a> zu sehen.
+
+<div class="figure" id="microtasking">
+	<img src="http://up.frubar.net/1780/microtasking-cal.png" alt="microtasking-cal" width="35%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1781/microtasking-things.png" alt="microtasking-things" width="35%" />
+	<p>Screenshot des Kalender und Things „App“</p>
+</div>
+
+Die mobile Anwendung zur Verwaltung der Cloud Infrastruktur fällt in diese Kategorie.
+
+#### „Was ist meiner Umgebung?“
+
+
+
+#### „Mir ist Langweilig“
+
+
+
+### Navigationsmodel
+
+### Formulare
+
+### Tabelle
+
 
 
 Design, Bildschirmgröße, Apple iOS, iPhone
 Navigation innerhalb einer Anwendung
+
 
 ## Identität
 Introducing your app, Logo, Aussehen
