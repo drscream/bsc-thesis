@@ -139,6 +139,7 @@ Der Aufbau der Navigation hängt von der Aufgabe der Anwendung ab, wie der vorhe
 Die einzelnen Ebenen lassen sich am besten mit Spielkarten, die sich auf einem Stapel befinden, vergleichen. Auf allen Ebenen ist der Inhalt meist im selben Stil aufbereitet, somit findet dieses Navigationsmodel meist bei Tools und kleinen Anwendungen Verwendung.
 
 <div class="figure" id="nav-flat">
+	<img src="http://up.frubar.net/1792/nav-flat-first.png" alt="nav-flat-first" width="35%" style="padding-right: 1.5em;"/>
 	<img src="http://up.frubar.net/1790/nav-flat.png" alt="nav-flat" width="35%" />
 	<p>Screenshot der Wetter „App“</p>
 </div>
@@ -169,12 +170,38 @@ Für die Navigation befindet sich ein „Punkt“ am unteren Bildschirmrand. Üb
 
 ### Tab-Navigation
 
-#### Vorteile und Nachteile
+Am unteren Rand des Bildschirms befindet sich eine Tab-Navigation, ähnlich die eines Browsers. Im Gegensatz zu den „Tabs“ im Browser sind diese fest in der Anwendung verankert. Sie bietet auch maximal Platz für fünf Symbole.
 
+<div class="figure" id="nav-flat">
+	<img src="http://up.frubar.net/1791/nav-tap.png" alt="nav-tap" width="35%" style="padding-right: 1.5em;" />
+	<img src="http://up.frubar.net/1793/nav-tap-instagram.png" alt="nav-flat-first" width="35%" />
+	<p>Screenshot des App Stores und der Instagram „App“</p>
+</div>
+
+In der Tab-Navigation befinden sich meist Menüpunkte auf die der Anwender sehr schnell oder häufig zugreifen muss. So bietet sie bei der Anwendung „App Store“ die Suchfunktion, Kategorien oder verfügbare Updates an.
+
+<table>
+	<thead>
+		<tr><th style="width: 50%;">Vorteile</th><th>Nachteile</th></tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td valign="top"><ul>
+					<li>Sofortigen Zugriff auf die Hauptfunktionen der Anwendung</li>
+					<li>Klar erkennbare Menüpunkte anhand Symbol und Beschreibung</li>
+				</ul>
+			</td>
+			<td valign="top"><ul>
+					<li>Nur fünf Menüpunkte können gleichzeitig angezeigt werden</li>
+					<li>Navigation verbraucht sehr viel Platz</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Baum-Struktur
 
-#### Vorteile und Nachteile
 
 
 ## Formulare
