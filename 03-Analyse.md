@@ -80,15 +80,11 @@ Auf der Übersichtsseite der Anwendung ist durch die farblichen Unterschiede und
 
 Server lassen sich bei dieser Anwendung nicht in Kategorien oder Ordner einsortieren, dies erschwert bei einer großen Anzahl an System die Übersichtlichkeit.
 
-## Konzeption
-
-Für die Entwicklung einer iPhone Anwendung sollten grundlegende Punkte, wie die Denkweise und die Benutzerinteraktion, beschrieben werden. Dies erfolgt in dieser Kategorie.
-
-### Situation für mobile Anwendungen
+## Situationen für mobile Anwendungen
 
 Es gibt viele verschiedene Situationen in denen eine iPhone Anwendung Verwendung findet. Laut Josh Clark, iPhone Designer und Entwickler, können diese in drei Situationen zusammengefasst werden. <cite><a href="#tapworthy11">tapworthy11</a></cite>
 
-#### „Meine minimale Aufgabenverwaltung“
+### „Meine minimale Aufgabenverwaltung“
 
 Ein Großteil der Anwendungen in dieser Kategorie sind zur Terminplanung, Aufgabenverwaltung oder Administration. Sie dienen der Produktivitätssteigerung und somit zum effektiven lösen von Problemen.
 
@@ -102,7 +98,7 @@ Die Anwendungen „Kalender“ oder „Things“, die zur Verwaltung von Termine
 
 Die mobile Anwendung zur Verwaltung der Cloud Infrastruktur fällt in diese Kategorie.
 
-#### „Was ist meiner Umgebung?“
+### „Was ist meiner Umgebung?“
 
 Hierbei handelt es sich Hauptsächlich um Anwendungen die auf Kartenmaterial, beziehungsweise auf Sensoren des iPhones, zugreifen. Im Vordergrund der Anwendungen steht die Navigation und das Mitteilungsbedürfnis des Benutzers. 
 
@@ -112,7 +108,7 @@ Hierbei handelt es sich Hauptsächlich um Anwendungen die auf Kartenmaterial, be
 	<p>Screenshot der Karten und der Foursquare Anwendung</p>
 </div>
 
-#### „Mir ist Langweilig“
+### „Mir ist Langweilig“
 
 In diese Kategorie fallen sowohl Spiele als auch Tools wie das Wetter „App“ oder der Wecker. Diese sind auch die beliebteste Kategorie<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/166976/umfrage/beliebteste-kategorien-im-app-store/">Statista, Top 15 Kategorien im App Store (2012)</a></span> im App Store. Die Beliebtheit wird nach den Anteil aller verfügbaren „Apps“ im App Store gemessen.
 
@@ -123,19 +119,28 @@ Wie auf dem darauffolgenden Screenshot zu erkennen ist, hat das Spiel „Angry B
 	<p>Screenshot des Spiels Angry Birds</p>
 </div>
 
-### Navigationsmodel
+
+# Konzeption
+
+Für die Entwicklung einer iPhone Anwendung sollten grundlegende Punkte, wie die Denkweise und die Benutzerinteraktion, beschrieben werden. Dies erfolgt in dieser Kategorie.
+
+
+## Navigationsmodel
 
 Der Aufbau der Navigation hängt von der Aufgabe der Anwendung ab, wie der vorherige Abschnitt <b>Situation für mobile Anwendungen</b> zeigt. Apple bietet hierzu drei verschiedene Navigationsmodelle an. Diese können sich innerhalb einer Anwendung nicht ändern, daher sollte man sich, vor der Entwicklung, für eines der folgenden Modelle entscheiden. 
 
-#### Ebenen
+### Ebenen
 
-#### Tab-Navigation
 
-#### Baum-Struktur
 
-### Formulare
+### Tab-Navigation
 
-### Tabelle
+### Baum-Struktur
+
+
+## Formulare
+
+## Tabelle
 
 
 
