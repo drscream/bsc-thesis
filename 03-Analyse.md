@@ -122,10 +122,14 @@ Wie auf dem darauffolgenden Screenshot zu erkennen ist, hat das Spiel „Angry B
 
 # Konzeption
 
+<q>Structuring your app the Apple way.</q>
+<div style="text-align: right; margin-right: 2em; margin-top: -2em;">
+    Josh Clark
+</div>
+
 Für die Entwicklung einer iPhone Anwendung sollten grundlegende Punkte, wie die Struktur und die Benutzerinteraktion, beschrieben werden. Dies erfolgt in diesem Kapitel.
 
-
-## Navigationsmodel
+## Navigationsmodelle
 
 Der Aufbau der Navigation hängt von der Aufgabe der Anwendung ab, wie der vorherige Abschnitt <b>Situation für mobile Anwendungen</b> zeigt. Apple bietet hierzu drei verschiedene Navigationsmodelle an. Diese können sich innerhalb einer Anwendung nicht ändern, daher sollte man sich, vor der Entwicklung, für eines der folgenden Modelle entscheiden. 
 

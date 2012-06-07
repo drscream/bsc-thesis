@@ -45,6 +45,9 @@ Tettnang, den 14. Juni 2012
 Die vorliegende Bachelorarbeit wurde in der Zeit vom 1. März bis zum 15. Juni erstellt. Sie ist Bestandteil des Bachelor-Studiengangs Angewandte Informatik an der Hochschule Ravensburg-Weingarten und entstand bei der Avira Operations GmbH & Co. KG in Tettnang.
 
 <q>Keep it simple and self-explanatory.</q>
+<div style="text-align: right; margin-right: 2em; margin-top: -2em;">
+	Original von Clarence "Kelly" Johnson
+</div>
 
 Mit der Arbeit wird versucht immer einen Kompromiss zwischen Design, Usability und Funktionalität zu finden.
 
