@@ -232,6 +232,12 @@ Bei diesen Anwendungen ist meist die erste Ebene eine Übersichtsebene in Tabell
 	</tbody>
 </table>
 
+### Kombination der Navigationsmodelle
+
+Meist findet eine Kombination aus zwei Navigationsmodellen statt, wie die Abbildung 18 von Apple Mail zeigt. Durch dies können mehrere Vorteile der unterschiedlichen Modelle genutzt werden.
+
+Bei der Apple Mail Anwendung wird die „Tab-Navigation“ verkleinert, so das nur Symbole angezeigt werden. Dem Benutzer ist es dadurch möglich schnell auf seine wichtigsten Funktionen zuzugreifen ohne einen Großteil seines Bildschirms einzuschränken.
+
 ## Tabellen
 
 
