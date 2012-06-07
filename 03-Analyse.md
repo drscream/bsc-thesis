@@ -202,11 +202,41 @@ In der Tab-Navigation befinden sich meist Menüpunkte auf die der Anwender sehr 
 
 ### Baum-Struktur
 
+Die Baum-Struktur ist eine der häufig benutzten Navigationsmodelle. Gerade wenn viele Menüpunkte oder Ebenen benötigt werden kommt diese Struktur zum Einsatz. Eine sorgfältige Planung, welche Ebene nach welchem Menüpunkt kommt, ist zwingend erforderlich. Sonst kann es schnell sein, dass sich ein Benutzer nicht mehr in der Struktur zurecht findet.
+
+<div class="figure" id="nav-tree">
+	<img src="http://up.frubar.net/1794/nav-tree.png" alt="nav-tree" width="100%" />
+	<p>Screenshot Baum-Struktur von Apple Mail</p>
+</div>
+
+Bei diesen Anwendungen ist meist die erste Ebene eine Übersichtsebene in Tabellenform, wodurch dann zu weiteren Ebenen navigiert werden kann. Im obersten Teil des Bildschirms befindet sich die Navigation um zur vorherigen Ebene zurückzukehren. 
+
+<table>
+	<thead>
+		<tr><th style="width: 50%;">Vorteile</th><th>Nachteile</th></tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td valign="top"><ul>
+					<li>Übersichtlich bei vielen Kategorien, Ebenen oder Menüpunkten</li>
+					<li>Organisationsstruktur ist gut verständlich</li>
+					<li>Direkte Interaktion mit dem Inhalt</li>
+				</ul>
+			</td>
+			<td valign="top"><ul>
+					<li>Übersichtsebene befindet sich nur am Anfang der Ebenen</li>
+					<li>Ineffiziente Navigation bei vielen Ebenen</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Tabellen
 
 
 ## Formulare
 
-## Tabellen
 
 
 ## Identität
