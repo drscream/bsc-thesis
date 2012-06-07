@@ -104,13 +104,19 @@ Die mobile Anwendung zur Verwaltung der Cloud Infrastruktur fällt in diese Kate
 
 #### „Was ist meiner Umgebung?“
 
+Hierbei handelt es sich Hauptsächlich um Anwendungen die auf Kartenmaterial, beziehungsweise auf Sensoren des iPhones, zugreifen. Im Vordergrund der Anwendungen steht die Navigation und das Mitteilungsbedürfnis des Benutzers. 
 
+<div class="figure" id="local">
+	<img src="http://up.frubar.net/1787/local-map.png" alt="local-map" width="35%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1788/local-foursquare.png" alt="local-foursquare" width="35%" />
+	<p>Screenshot der Karten und der Foursquare Anwendung</p>
+</div>
 
 #### „Mir ist Langweilig“
 
 In diese Kategorie fallen sowohl Spiele als auch Tools wie das Wetter „App“ oder der Wecker. Diese sind auch die beliebteste Kategorie<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/166976/umfrage/beliebteste-kategorien-im-app-store/">Statista, Top 15 Kategorien im App Store (2012)</a></span> im App Store. Die Beliebtheit wird nach den Anteil aller verfügbaren „Apps“ im App Store gemessen.
 
-Wie auf dem darauffolgenden Screenshot zu erkennen ist, hat das Spiel „Angry Birds“ keine iPhone Navigationselemente. Spiele nehmen meist den gesamten Bildschirm ein und verwenden ihre eigenen Symbole für die Navigation.
+Wie auf dem darauffolgenden Screenshot zu erkennen ist, hat das Spiel „Angry Birds“ keine iPhone Navigationselemente. Spiele nehmen meist den gesamten Bildschirm ein und verwenden ihre eigenen Symbole für die Navigation. Sogar die Statusbar mit der Empfangsanzeige, Uhrzeit und der Batterieanzeige werden ausgeblendet.
 
 <div class="figure" id="bored">
 	<img src="http://up.frubar.net/1786/bored-angrybirds.png" alt="bored-angrybirds" width="60%" />
