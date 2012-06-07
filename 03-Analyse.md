@@ -108,9 +108,24 @@ Die mobile Anwendung zur Verwaltung der Cloud Infrastruktur fällt in diese Kate
 
 #### „Mir ist Langweilig“
 
+In diese Kategorie fallen sowohl Spiele als auch Tools wie das Wetter „App“ oder der Wecker. Diese sind auch die beliebteste Kategorie<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/166976/umfrage/beliebteste-kategorien-im-app-store/">Statista, Top 15 Kategorien im App Store (2012)</a></span> im App Store. Die Beliebtheit wird nach den Anteil aller verfügbaren „Apps“ im App Store gemessen.
 
+Wie auf dem darauffolgenden Screenshot zu erkennen ist, hat das Spiel „Angry Birds“ keine iPhone Navigationselemente. Spiele nehmen meist den gesamten Bildschirm ein und verwenden ihre eigenen Symbole für die Navigation.
+
+<div class="figure" id="bored">
+	<img src="http://up.frubar.net/1786/bored-angrybirds.png" alt="bored-angrybirds" width="60%" />
+	<p>Screenshot des Spiels Angry Birds</p>
+</div>
 
 ### Navigationsmodel
+
+Der Aufbau der Navigation hängt von der Aufgabe der Anwendung ab, wie der vorherige Abschnitt <b>Situation für mobile Anwendungen</b> zeigt. Apple bietet hierzu drei verschiedene Navigationsmodelle an. Diese können sich innerhalb einer Anwendung nicht ändern, daher sollte man sich, vor der Entwicklung, für eines der folgenden Modelle entscheiden. 
+
+#### Ebenen
+
+#### Tab-Navigation
+
+#### Baum-Struktur
 
 ### Formulare
 
