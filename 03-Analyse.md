@@ -122,30 +122,64 @@ Wie auf dem darauffolgenden Screenshot zu erkennen ist, hat das Spiel „Angry B
 
 # Konzeption
 
-Für die Entwicklung einer iPhone Anwendung sollten grundlegende Punkte, wie die Denkweise und die Benutzerinteraktion, beschrieben werden. Dies erfolgt in dieser Kategorie.
+Für die Entwicklung einer iPhone Anwendung sollten grundlegende Punkte, wie die Struktur und die Benutzerinteraktion, beschrieben werden. Dies erfolgt in diesem Kapitel.
 
 
 ## Navigationsmodel
 
 Der Aufbau der Navigation hängt von der Aufgabe der Anwendung ab, wie der vorherige Abschnitt <b>Situation für mobile Anwendungen</b> zeigt. Apple bietet hierzu drei verschiedene Navigationsmodelle an. Diese können sich innerhalb einer Anwendung nicht ändern, daher sollte man sich, vor der Entwicklung, für eines der folgenden Modelle entscheiden. 
 
+<div class="figure" id="navigation-mode">
+	<img src="http://up.frubar.net/1789/navigation-models.png" alt="navigation-model" width="80%" />
+	<p>Navigationsmodelle (von links) - Ebenen, Tab-Navigation, Baum-Struktur</p>
+</div>
+
 ### Ebenen
 
+Die einzelnen Ebenen lassen sich am besten mit Spielkarten, die sich auf einem Stapel befinden, vergleichen. Auf allen Ebenen ist der Inhalt meist im selben Stil aufbereitet, somit findet dieses Navigationsmodel meist bei Tools und kleinen Anwendungen Verwendung.
 
+<div class="figure" id="nav-flat">
+	<img src="http://up.frubar.net/1790/nav-flat.png" alt="nav-flat" width="35%" />
+	<p>Screenshot der Wetter „App“</p>
+</div>
+
+Für die Navigation befindet sich ein „Punkt“ am unteren Bildschirmrand. Über diesen ist ersichtlich auf welcher Ebene man sich gerade befindet. Die Navigation erfolgt durch das verschieben der Ebenen von links nach rechts mit einem Finger.
+
+<table>
+	<thead>
+		<tr><th style="width: 50%;">Vorteile</th><th>Nachteile</th></tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td valign="top"><ul>
+					<li>Ideal für zielgerichtet Inhalt; geeignet für gelegentliches verwenden der „App“</li>
+					<li>Einfache Navigation; Gestengesteuert</li>
+					<li>Viel Platz für den Inhalt; Navigation nimmt wenig Platz im Bildschirm ein</li>
+				</ul>
+			</td>
+			<td valign="top"><ul>
+					<li>Man muss durch alle Ebenen durchblättern; der Sprung zu einer speziellen Ebene ist nicht möglich</li>
+					<li>Mehr als 20 Ebenen können nicht angezeigt bzw. erstellt werden</li>
+					<li>Kein Scrollen möglich; somit keine langen Inhalte darstellbar</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Tab-Navigation
 
+#### Vorteile und Nachteile
+
+
 ### Baum-Struktur
+
+#### Vorteile und Nachteile
 
 
 ## Formulare
 
-## Tabelle
-
-
-
-Design, Bildschirmgröße, Apple iOS, iPhone
-Navigation innerhalb einer Anwendung
+## Tabellen
 
 
 ## Identität
