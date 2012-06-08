@@ -110,7 +110,7 @@ Hierbei handelt es sich Hauptsächlich um Anwendungen die auf Kartenmaterial, be
 
 ### „Mir ist Langweilig“
 
-In diese Kategorie fallen sowohl Spiele als auch Tools wie das Wetter „App“ oder der Wecker. Diese sind auch die beliebteste Kategorie<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/166976/umfrage/beliebteste-kategorien-im-app-store/">Statista, Top 15 Kategorien im App Store (2012)</a></span> im App Store. Die Beliebtheit wird nach den Anteil aller verfügbaren „Apps“ im App Store gemessen.
+In diese Kategorie fallen sowohl Spiele als auch Tools wie das Musik „App“. Diese sind auch die beliebteste Kategorie<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/166976/umfrage/beliebteste-kategorien-im-app-store/">Statista, Top 15 Kategorien im App Store (2012)</a></span> im App Store. Die Beliebtheit wird nach den Anteil aller verfügbaren „Apps“ im App Store gemessen.
 
 Wie auf dem darauffolgenden Screenshot zu erkennen ist, hat das Spiel „Angry Birds“ keine iPhone Navigationselemente. Spiele nehmen meist den gesamten Bildschirm ein und verwenden ihre eigenen Symbole für die Navigation. Sogar die Statusbar mit der Empfangsanzeige, Uhrzeit und der Batterieanzeige werden ausgeblendet.
 
@@ -242,10 +242,15 @@ Meist findet eine Kombination aus zwei Navigationsmodellen statt, wie die Abbild
 
 Bei der Apple Mail Anwendung wird die „Tab-Navigation“ verkleinert, so das nur Symbole angezeigt werden. Dem Benutzer ist es dadurch möglich schnell auf seine wichtigsten Funktionen zuzugreifen ohne einen Großteil seines Bildschirms einzuschränken.
 
-## Tabellen
+## Darstellung des Inhalts
 
+Ein klar strukturierter Inhalt erlaubt dem Benutzer auf die benötigten Informationen zuzugreifen. Ist die Darstellung unübersichtlich oder überladen beendet der Anwender die „App“ im schlimmsten Fall. Es sollte daher immer ein Kompromiss zwischen der Masse an Informationen und der Bildschirmgröße gefunden werden.
 
-## Formulare
+In vielen Fällen findet eine Kombination aus der Tabellendarstellung und der Benutzereingabe durch Formulare statt.
+
+### Tabellen
+
+### Formulare
 
 
 
