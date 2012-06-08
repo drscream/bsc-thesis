@@ -250,6 +250,41 @@ In vielen Fällen findet eine Kombination aus der Tabellendarstellung und der Be
 
 ### Tabellen
 
+Die Tabellen Darstellung beim iPhone kann nicht zu 100% mit klassischen Tabellen verglichen werden. Die Informationen werden meist zeilenweise gruppiert und es wird nur eine Spalte angezeigt. 
+
+Aus folgenden Gründen kommt die Darstellung in Tabellenform zum Einsatz:
+<ul>
+	<li>Navigation durch die Baum-Struktur</li>
+	<li>Liste an Optionen oder Einstellungen</li>
+	<li>Lange Listen durch die schnell navigiert werden soll</li>
+	<li>Detaillierter oder gruppierter Inhalt</li>
+</ul>
+
+<div class="figure" id="content-table">
+	<img src="http://up.frubar.net/1802/view-table.png" alt="content-table" width="100%" />
+	<p>Screenshot verschiedener Anwendungen mit Tabellen Darstellung</p>
+</div>
+
+Durch bestimmte Symbole an der rechten Seite ist erkennbar ob es sich um ein Navigationselement handelt. Die Schriftfarbe blau zeigt an, ob sich der Inhalt des Elements ändern lässt oder ggf. dynamisch ändert.
+
+Drei der Standart Symbole sind wie folgt erklärt:
+<table>
+	<tr>
+		<td valign="middle" align="center"><img src="http://up.frubar.net/1803/view-table-icon_disclosure.png" /></td>
+		<td>Weitere Informationen Symbol; durch das Tippen auf das Element wird eine neuer Bildschirm mit weiteren Informationen für den Benutzer sichtbar.</td>
+	</tr>
+	<tr>
+		<td valign="middle" align="center"><img src="http://up.frubar.net/1804/view-table-icon_detail.png" /></td>
+		<td>Details Symbol; ähnlich dem „Weitere Informationen Symbol“, beim direkten Tippen auf das Symbol sollen weitere Details zu diesem Element angezeigt werden.</td>
+	</tr>
+	<tr>
+		<td valign="middle" align="center"><img src="http://up.frubar.net/1805/view-table-icon_check.png" /></td>
+		<td>Check-Box Symbol; durch Tippen auf das Element wird die Check-Box aktiviert oder deaktiviert.</td>
+	</tr>
+</table>
+
+Die Gruppierung der Elemente geschieht entweder durch ein Register (wie bei Abbildung 19, links) oder durch farblich, zum Hintergrund abgehobene, Boxen (Abbildung 19, mitte und rechts).
+
 ### Formulare
 
 
