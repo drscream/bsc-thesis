@@ -287,7 +287,15 @@ Die Gruppierung der Elemente geschieht entweder durch ein Register (wie bei Abbi
 
 ### Formulare
 
+Die Formulare dienen dem Benutzer zur Eingabe von neuem Inhalt in die Anwendung. In dem meisten Fällen wir die Benutzereingabe durch die Auto-Korrektur unterstützt. 
 
+Es ist Abhängig vom Eingabefeld welches Tastaturlayout für den Benutzer angezeigt wird. So wird bei üblicher Texteingabe die QWERTY-Tastatur angezeigt, beim Wählvorgang in der „Telefon-App“ jedoch nur der Nummernblock.
+
+<div class="figure" id="form">
+	<img src="http://up.frubar.net/1806/form-input-ipmi.png" alt="form-ipmi" width="35%" style="padding-right: 1.5em;" />
+	<img src="http://up.frubar.net/1807/form-input-twitter.png" alt="form-twitter" width="35%" />
+	<p>Screenshot von IPMI Touch und Twitter „App“ mit Eingabeformular</p>
+</div>
 
 ## Identität
 Introducing your app, Logo, Aussehen
