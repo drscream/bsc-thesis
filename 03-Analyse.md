@@ -318,13 +318,32 @@ Folgende Kurznamen standen während der Identitätsbildung zur Auswahl:
 	<li>**virtCloud**<br />Die Worte „Cloud“ und „virt“ für Virtuell können fast gleich gesetzt werden. Daher ist die Beschreibung quasi doppelt.</li>
 </ul>
 
-Nach Absprache und Analyse wurde der Name „Cloud Control“ als aussagekräftigster Name ausgewählt. Die verwendete Technologie kann in der Beschreibung oder im Namen für den App Store angezeigt werden.
+Nach Absprache und Analyse wurde der Name „Cloud Control“ als aussagekräftigster Name ausgewählt. Die verwendete Technologie kann in der Beschreibung oder im Namen für den App Store angezeigt werden. Als Name für den App Store wird daher „Cloud Control &ndash; manage your libvirt infrastructure“ verwendet.
 
-### Beschreibung
+---
 
 ### Logo
 
+Das Logo ist ein weiteres Identitätsmerkmal für die Anwendung, wenn nicht sogar das wichtigste. Der erste Blick des Benutzers fällt meist auf das Logo anstatt auf den Namen. Es sollte entweder die Funktion oder den Namen im Logo wiedererkennbar sein. Bekannte Anwendungen oder Unternehmen greifen meist auf ihr Logo in abgeänderter Form oder ihren Initialen zurück. 
+
+<div class="figure" id="ident-logo">
+	<img src="http://up.frubar.net/1808/ident-logo-things.tiff" alt="ident-logo-things" width="15%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1809/ident-logo-insta.tiff" alt="ident-logo-instagram" width="15%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1810/ident-logo-cellarrat.tiff" alt="ident-logo-cellarrat" width="15%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1811/ident-logo-twitter.tiff" alt="ident-logo-twitter" width="15%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1812/ident-logo-facebook.tiff" alt="ident-logo-facebook" width="15%" />
+	<p>„App“-Logos (von links). Things, Instagram, Cellar Rat, Twitter, Facebook</p>
+</div>
+
+Wie gut ein Logo erkennbar ist, hängt meist von der Auflösung und der Detailgenauigkeit ab. Ein „App“-Logo muss mindestens für drei verschiedene Auflösungen erstellt werden. So verwendet das iPhone für kleine Logos eine Auflösung von 29x29 Pixel und für mittlere Logos 57x57 Pixel. Ein großes Logo mit 512x512 Pixel wird für den App Store benötigt.
+
+Für die eigene Anwendung soll das Logo die Funktion widerspiegeln und Begriffe wie „Cloud“, „Computer“, „Netzwerk“ und „libvirt“ sollen erkennbar sein.
+
+TODO: Entwürfe - Ergebnis
+
 ### Design
+
+
 
 ## Strukturierung
 Story Board
