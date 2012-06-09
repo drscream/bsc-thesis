@@ -4,5 +4,12 @@ In diesem Kapitel werden technische Details zur Realisierung erklärt und einige
 
 ## libvirt Schnittstelle
 
-## PhoneGap
+### node.js
 
+### JSON
+
+## Prototyp
+
+### Objective-C
+
+### PhoneGap 
