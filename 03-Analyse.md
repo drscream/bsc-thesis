@@ -341,9 +341,13 @@ Für die eigene Anwendung soll das Logo die Funktion widerspiegeln und Begriffe 
 
 TODO: Entwürfe - Ergebnis
 
+---
+
 ### Design
 
+Design und äußerliche Erscheinung sind meistens Geschmacksfragen, doch spielt der Erkennungswert und die Benutzerfreundlichkeit auch eine Rolle. Die Navigation und die Anordnung bzw. Strukturierung von Inhalt kann nur teilweise bei iPhone „Apps“ verändert werden. 
 
+Einige Anbieter von „Apps“ setzen daher auf das Standart iPhone Design und passen lediglich Farbgebung und Symbole an. Um die Benutzer der „Cloud Control App“ nicht zu unsichern, Übersichtlichkeit und Einfachheit zu gewährleisten wird ebenfalls das Standart iPhone Design verwendet.
 
 ## Strukturierung
 Story Board
