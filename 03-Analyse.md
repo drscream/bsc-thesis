@@ -358,7 +358,17 @@ Design und äußerliche Erscheinung sind meistens Geschmacksfragen, doch spielt 
 Einige Anbieter von „Apps“ setzen daher auf das Standart iPhone Design und passen lediglich Farbgebung und Symbole an. Um die Benutzer der „Cloud Control App“ nicht zu unsichern, Übersichtlichkeit und Einfachheit zu gewährleisten wird ebenfalls das Standart iPhone Design verwendet.
 
 ## Strukturierung
-Story Board
+
+Eine gute Struktur der Anwendung ist vergleichbar mit dem „roten Faden“ in einem Manuskript. Ohne diesen ist es dem Benutzer nicht möglich zu erkennen welches Ergebnis auf ein Navigationselement erfolgt.
+
+Abhängig vom verwendeten Navigationsmodel muss die Anwendung anders strukturiert werden. So bietet die Baum-Struktur mehr Möglichkeiten der „Verzweigung“ im Gegensatz zu den flachen Ebenen. Eine Strukturierung erfolgt am besten durch die Skizzen auf Papier oder durch Mockups mit einer Anwendung am Computer. 
+
+<div class="figure" id="storyboard">
+	<img src="http://up.frubar.net/1815/storyboard-part.jpg" alt="storyboard" width="100%" />
+	<p>Ausschnitt Cloud Control Story-Board</p>
+</div>
+
+Für diesen Zweck wurde ein „Story-Board“ auf Papier entworfen, dieses befindet sich im Anhang. Mit diesem war es möglich erste Prototypen zu entwerfen und in den Usability-Tests anzuwenden. Das Story-Board wurde während den Tests verändert und erweitert.
 
 ## Usability-Tests
 Planung, Ergebnis von Usability Tests
