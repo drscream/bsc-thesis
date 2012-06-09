@@ -206,7 +206,7 @@ In der Tab-Navigation befinden sich meist Menüpunkte auf die der Anwender sehr 
 
 ### Baum-Struktur
 
-Die Baum-Struktur ist eine der häufig benutzten Navigationsmodelle. Gerade wenn viele Menüpunkte oder Ebenen benötigt werden kommt diese Struktur zum Einsatz. Eine sorgfältige Planung, welche Ebene nach welchem Menüpunkt kommt, ist zwingend erforderlich. Sonst kann es schnell sein, dass sich ein Benutzer nicht mehr in der Struktur zurecht findet.
+Die Baum-Struktur ist eines der häufig benutzten Navigationsmodelle. Gerade wenn viele Menüpunkte oder Ebenen benötigt werden kommt diese Struktur zum Einsatz. Eine sorgfältige Planung, welche Ebene nach welchem Menüpunkt kommt, ist zwingend erforderlich. Sonst kann es schnell sein, dass sich ein Benutzer nicht mehr in der Struktur zurecht findet.
 
 <div class="figure" id="nav-tree">
 	<img src="http://up.frubar.net/1794/nav-tree.png" alt="nav-tree" width="100%" />
@@ -355,7 +355,7 @@ Im größten Logo wird sich der Begriff „libvirt“ als Zusatz befinden. In de
 
 Design und äußerliche Erscheinung sind meistens Geschmacksfragen, doch spielt der Erkennungswert und die Benutzerfreundlichkeit auch eine Rolle. Die Navigation und die Anordnung bzw. Strukturierung von Inhalt kann nur teilweise bei iPhone „Apps“ verändert werden. 
 
-Einige Anbieter von „Apps“ setzen daher auf das Standart iPhone Design und passen lediglich Farbgebung und Symbole an. Um die Benutzer der „Cloud Control App“ nicht zu unsichern, Übersichtlichkeit und Einfachheit zu gewährleisten wird ebenfalls das Standart iPhone Design verwendet.
+Einige Anbieter von „Apps“ setzen daher auf das Standart iPhone Design und passen lediglich Farbgebung und Symbole an. Um die Benutzer der „Cloud Control App“ nicht zu verunsichern, sowie Übersichtlichkeit und Einfachheit zu gewährleisten wird ebenfalls das Standart iPhone Design verwendet.
 
 ## Strukturierung
 

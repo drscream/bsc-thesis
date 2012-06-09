@@ -49,9 +49,9 @@ Die Bachelorarbeit ist in vier Teilbereiche gegliedert. Sie spiegelt dadurch den
 
 In der <b>Einleitung</b> wird der Projektträger vorgestellt und die Ziele des Projekts beschrieben. Die für die Arbeit relevanten Begriffe werden in den <b>Grundlagen</b> erklärt. Es erfolgt eine Vorstellung des verwendeten Mobilen Endgeräts und der Cloud Schnittstelle. Außerdem werden die Kriterien für die Usability-Tests beschrieben.
 
-Im Kapitel <b>Analyse</b> erfolgt eine Darstellung der aktuellen Situation. Ein erster Prototyp wird erstellt und beschrieben um Usability-Tests anwenden zu können. Anschließend wird die Zielgruppe zum Prototypen befragt. In der <b>Realisierung</b> werden die technischen Aspekte zur Entwicklung der Anwendung angesprochen. Es werden Quelltext zur grafische Benutzeroberfläche und Schnittstelle näher erläutert.
+In den Kapiteln <b>Analyse</b> und <b>Konzeption</b>erfolgt eine Darstellung der aktuellen Situation. Ein erster Prototyp wird erstellt und beschrieben um Usability-Tests anwenden zu können. Anschließend wird die Zielgruppe zum Prototypen befragt. In der <b>Realisierung</b> werden die technischen Aspekte zur Entwicklung der Anwendung angesprochen. Es werden Quelltexte zur grafischen Benutzeroberfläche und Schnittstellen näher erläutert.
 
-Der Abschluss der Thesis bildet das <b>Fazit</b> über das gesamte Projekt und die Arbeit. Es folgt ein Ausblick auf den Verlauf des Projekts außerhalb der Bachelor-Thesis.
+Den Abschluss der Thesis bildet das <b>Fazit</b> über das gesamte Projekt und die Arbeit. Es folgt ein Ausblick auf den Verlauf des Projekts außerhalb der Bachelor-Thesis.
 
 
 ## Formale Hinweise
