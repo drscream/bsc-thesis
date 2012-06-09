@@ -298,7 +298,33 @@ Es ist Abhängig vom Eingabefeld welches Tastaturlayout für den Benutzer angeze
 </div>
 
 ## Identität
-Introducing your app, Logo, Aussehen
+
+Die Identität einer Anwendung ist enorm wichtig für den Benutzer und dessen Wiedererkennungswert. Diese werden durch den Namen, eine klare Beschreibung, das Logo und Aussehen bewirkt.
+
+Dieser Abschnitt bezieht sich explizit auf die Umsetzung der mobilen Anwendung zur Verwaltung der Cloud Infrastruktur.
+
+### Name
+
+Bei der Wahl des Namens ist zu beachten, dass nur begrenzt Platz auf dem Bildschirm und unterhalb des Logos ist. Da Apple zwischen dem Namen auf dem iPhone und dem im App Store unterscheidet, können zwei unterschiedliche Namen gewählt werden. So sollte der Name für das iPhone kurz und prägnant sein der Name für den App Store aber mehr Beschreiben.
+
+Namen die auf dem iPhone zu lang sind, werden automatisch in der Mitte gekürzt. Dadurch wird aus „Cloud infrastructure control via libvirt“,  „Cloud...bvirt“, was für den Benutzer nicht aussagekräftig ist. Von vielen Anwendungen wird daher ein allgemeiner Name auf dem iPhone verwendet, so wird aus „Dragon Dictation“ nur „Dictation“ oder aus „Al Jazeera English“, „AJE Live“.
+
+Folgende Kurznamen standen während der Identitätsbildung zur Auswahl:
+<ul>
+	<li>**Cloud Control**<br />Aussagekräftiger Namen für die Verwaltung der Cloud. Die verwendete Technologie ist aber nicht erkennbar.</li>
+	<li>**libvirt Control**<br />Verwaltung der verwendeten Technologie ist erkennbar.</li>
+	<li>**libvirt Cloud**<br />Verwaltung der verwendeten Technologie ist erkennbar. Aber nicht das es sich um eine Anwendung zur Verwaltung dieser handelt.</li>
+	<li>**InfraCloud**<br />Durch „Infra“ ist teilweise die Infrastruktur Cloud ersichtlich.</li>
+	<li>**virtCloud**<br />Die Worte „Cloud“ und „virt“ für Virtuell können fast gleich gesetzt werden. Daher ist die Beschreibung quasi doppelt.</li>
+</ul>
+
+Nach Absprache und Analyse wurde der Name „Cloud Control“ als aussagekräftigster Name ausgewählt. Die verwendete Technologie kann in der Beschreibung oder im Namen für den App Store angezeigt werden.
+
+### Beschreibung
+
+### Logo
+
+### Design
 
 ## Strukturierung
 Story Board
