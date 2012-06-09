@@ -337,9 +337,17 @@ Das Logo ist ein weiteres Identitätsmerkmal für die Anwendung, wenn nicht soga
 
 Wie gut ein Logo erkennbar ist, hängt meist von der Auflösung und der Detailgenauigkeit ab. Ein „App“-Logo muss mindestens für drei verschiedene Auflösungen erstellt werden. So verwendet das iPhone für kleine Logos eine Auflösung von 29x29 Pixel und für mittlere Logos 57x57 Pixel. Ein großes Logo mit 512x512 Pixel wird für den App Store benötigt.
 
-Für die eigene Anwendung soll das Logo die Funktion widerspiegeln und Begriffe wie „Cloud“, „Computer“, „Netzwerk“ und „libvirt“ sollen erkennbar sein.
+Für die eigene Anwendung soll das Logo die Funktion widerspiegeln und Begriffe wie „Cloud“, „Computer“, „Netzwerk“ und „libvirt“ sollen erkennbar sein. Nach Skizzen, die sich im Anhang befinden, wurde ein Logo entworfen.
 
-TODO: Entwürfe - Ergebnis
+<div class="figure" id="cloud-control">
+	<img src="http://up.frubar.net/1814/logo-cc-libvirt.png" alt="logo-cc-libvirt" width="20%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1813/logo-cc.png" alt="logo-cc" width="20%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1813/logo-cc.png" alt="logo-cc" width="12%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1813/logo-cc.png" alt="logo-cc" width="5%" style="padding-right: 1.5em;"/>
+	<p>Logos des Cloud Control „Apps“</p>
+</div>
+
+Im größten Logo wird sich der Begriff „libvirt“ als Zusatz befinden. In den kleineren ist dies nicht mehr lesbar, daher wurde er entfernt.
 
 ---
 
