@@ -68,6 +68,10 @@ Alle Daten die über die REST Node.js API angefragt werden, sollen als JSON zur�
 
 ## Prototyp
 
+Das Ziel eines Prototyps ist in erster Linie einen Teil der Funktionsfähigkeit der Anwendung dem Benutzer bereitzustellen. Da der Fokus auf der Benutzerfreundlichkeit liegt, wurde ein erster Prototyp ohne Verbindung zur API entworfen. Die angezeigten Daten sind daher fest im Programm verankert. Die erste Erstellung des Prototyps erfolgte nach Fertigstellung des Story-Boards. 
+
+In diesem Abschnitt erfolgt eine Beschreibung zur technischen Realisierung der verschiedenen Prototypen.
+
 ### Objective-C
 
 ### PhoneGap 
