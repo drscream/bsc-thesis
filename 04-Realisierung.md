@@ -87,5 +87,40 @@ Balsamiq Mockups bietet zwar viele gestalterische Möglichkeiten eine iPhone Anw
 
 Die Entwicklung einer iPhone Anwendung erfolgt mit XCode und in der Programmiersprache Objective-C<span class="fn"><a href="http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html">Objective-C</a></span>. Bei XCode handelt es sich um die Entwicklungsumgebung von Apple und bietet auch Simulatoren für iPhone oder iPad an. Bei Objective-C handelt es sich um eine Erweiterung der Programmiersprache C um Sprachmittel zur objektorientierten Programmierung.
 
+Durch die komplexe Programmiersprache dauert es sehr lang einen Prototypen zu entwickelt. Auch nur die Verwendung der graphischen Elemente von XCode ist für einen Prototyp nicht ausreichend.
 
+Als Alternative zur Realisierung wird PhoneGap verwendet, einem OpenSource Framework zur Entwicklung von mobilen Anwendungen. Durch PhoneGap erfolgt die Entwicklung mit den Programmiersprachen bzw. Beschreibungssprachen HTML5, JavaScript und CSS3. Dem Framework liegen CSS- und JavaScript-Dateien für das iPhone Design bei. 
 
+Es wird weiterhin XCode eingesetzt und die Anwendung ist als „App“ auf dem iPhone ausführbar. 
+
+<div class="figure" id="phonegap-versions">
+	<img src="http://up.frubar.net/1826/cc-phonegap-first.png" alt="-phonegap-first" width="35%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1827/cc-phonegap-add-new.png" alt="cc-phonegap-add-new" width="35%"/>
+	<p>Erste Versionen entwickelt mit PhoneGap</p>
+</div>
+
+Da PhoneGap JavaScript verwendet, ist es möglich direkt auf die Node.js API zuzugreifen. Die API liefert die Daten als JSON zurück, was direkt von JavaScript interpretiert werden kann. 
+
+<div class="listing" id="html-example">
+<code><pre>
+	&lt;div id="home" class="current"&gt;
+        &lt;div class="toolbar"&gt;
+			&lt;a class="button back" id="backButton" href="#back">Back&lt;/a&gt;
+            &lt;h1&gt;New Cloud&lt;/h1&gt;
+            &lt;a class="button save" id="saveButton" href="#save">Save&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;form class="scroll"&gt;
+			&lt;h2&gt;Connection Settings&lt;/h2&gt;
+			&lt;ul class="edit rounded"&gt;
+                &lt;li&gt;
+					Name
+					&lt;span class="right"&gt;
+						&lt;input type="text" name="name" placeholder="Required" /&gt;
+					&lt;/span&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+</pre></code>
+<p>Quelltext Ausschnitt für den Bildschirm zum hinzufügen einer neuen Cloud</p>
+</div>
