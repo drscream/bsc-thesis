@@ -70,8 +70,19 @@ Alle Daten die über die REST Node.js API angefragt werden, sollen als JSON zur�
 
 Das Ziel eines Prototyps ist in erster Linie einen Teil der Funktionsfähigkeit der Anwendung dem Benutzer bereitzustellen. Da der Fokus auf der Benutzerfreundlichkeit liegt, wurde ein erster Prototyp ohne Verbindung zur API entworfen. Die angezeigten Daten sind daher fest im Programm verankert. Die erste Erstellung des Prototyps erfolgte nach Fertigstellung des Story-Boards. 
 
-In diesem Abschnitt erfolgt eine Beschreibung zur technischen Realisierung der verschiedenen Prototypen.
+In diesem Abschnitt erfolgt eine Beschreibung zur Realisierung der verschiedenen Prototypen.
 
-### Objective-C
+### Mock-up
 
-### PhoneGap 
+Nach der Konzeptionsphase durch das Story-Board wird ein erstes Mock-up mit der Anwendung Balsamiq Mockups<span class="fn"><a href="http://www.balsamiq.com/products/mockups">Balsamiq Mockups</a></span> erstellt. Dies soll dem Benutzer einen ersten Eindruck der Cloud Control „Apps“ vermitteln.
+	
+<div class="figure" id="mockup">
+	<img src="http://up.frubar.net/1825/mockup-cloud-control.png" alt="mockup" width="80%" />
+	<p>Erstes Mock-up von Cloud Control</p>
+</div>
+
+Balsamiq Mockups bietet zwar viele gestalterische Möglichkeiten eine iPhone Anwendung darzustellen, jedoch ist es für den Benutzer nicht einfach sich dies vorzustellen. 
+
+### XCode und PhoneGap
+
+
