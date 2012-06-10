@@ -136,7 +136,7 @@ Zudem lassen sich folgende fünf Attribute für den Begriff Usability definieren
 
 In dieser Arbeit bezieht sich der Begriff Usability nur auf die Gebrauchstauglichkeit von mobilen Anwendungen, nicht auf die Usability des Gerätes oder anderer Software.
 
-In diesem Abschnitt werden die bekanntesten Usability Regeln aufgeführt und die Relevanz für mobile Anwendungen dargestellt. Die eigentliche Anwendung der Regeln und Usability Konzepte erfolgt in Kapitel <a href="#analyse"><b>3. Analyse</b></a>.
+In diesem Abschnitt werden die bekanntesten Usability Regeln aufgeführt und die Relevanz für mobile Anwendungen dargestellt. Die eigentliche Anwendung der Regeln und Usability Konzepte erfolgt in Kapitel <a href="#analyse"><i>Analyse</i></a>.
 
 ### Usability-Regeln
 
@@ -195,7 +195,7 @@ Durch die Besonderheit des mobilen Geräts gegenüber herkömmlichen Computern m
 
 #### Umgebung
 
-Es sollte immer bedacht werden, dass eine mobile Anwendung gerade Unterwegs zum Einsatz kommt. iPhones werden meist mit einer Hand verwendet und es wird nur mit einem kurzen Blick auf den Bildschirm geschaut. Wie die Abbildung 4 zeigt, ist eine Anwendung überladen und werden zu viele Informationen dargestellt kann ein Benutzer diese nicht aufnehmen.
+Es sollte immer bedacht werden, dass eine mobile Anwendung gerade Unterwegs zum Einsatz kommt. iPhones werden meist mit einer Hand verwendet und es wird nur mit einem kurzen Blick auf den Bildschirm geschaut. Wie die <a href="#iphone-umgebung"><i>Abbildung 6</i></a> zeigt, ist eine Anwendung überladen und werden zu viele Informationen dargestellt kann ein Benutzer diese nicht aufnehmen.
 
 <div class="figure" id="iphone-umgebung">
 	<img src="http://up.frubar.net/1753/iphone-umgebung.png" alt="iPhone Umgebung" width="70%" />
@@ -214,7 +214,7 @@ Durch den kleineren Bildschirm können weniger Informationen auf einem Ausschnit
 
 Da ein Touchscreen meist mit den Fingern und nicht mit der Maus bedient wird, sind einige Designaspekte zu beachten. 
 
-Die Finger oder der Handrücken überdecken, wie Abbildung 5 zeigt, bei der Navigation zum Teil die Anwendung. Die Hauptnavigation innerhalb einer Anwendung sollte daher am unteren linken Rand des Bildschirms angezeigt werden.
+Die Finger oder der Handrücken überdecken, wie <a href="#iphone-daumen"><i>Abbildung 7</i></a> zeigt, bei der Navigation zum Teil die Anwendung. Die Hauptnavigation innerhalb einer Anwendung sollte daher am unteren linken Rand des Bildschirms angezeigt werden.
 
 <div class="figure" id="iphone-daumen">
 	<img src="http://up.frubar.net/1754/iphone-daumen.png" alt="iPhone Daumen" width="30%" />

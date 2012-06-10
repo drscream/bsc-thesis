@@ -17,7 +17,7 @@ Die Definition der Zielgruppe und die Abfragen der Interessen der Anwender ist e
 
 Um die Zielgruppe und deren Anforderungen besser spezifizieren zu können, wurde in einem Meeting aller Mitglieder der Abteilung, ein Brainstorming abgehalten. Durch dieses Verfahren war es einfacher möglich eine genaue Definition zu erstellen.
 
-Mit der in <a href="#zielgruppe-brainstorming">Abbildung 7</a> erstellten Mindmap konnte eine Definition abgeleitet werden. Für eine bessere kreative Arbeit wurde das Brainstorming aber mit Papier und Stift erstellt. Das Original befindet sich in der Anlage.
+Mit der in <a href="#zielgruppe-brainstorming"><i>Abbildung 8</i></a> erstellten Mindmap konnte eine Definition abgeleitet werden. Für eine bessere kreative Arbeit wurde das Brainstorming aber mit Papier und Stift erstellt. Das Original befindet sich in der Anlage.
 
 <div class="figure" id="zielgruppe-brainstorming">
 	<img src="http://up.frubar.net/1756/zielgruppe-brainstorming.svg" alt="Zielgruppe Brainstorming" width="90%" />
@@ -35,7 +35,7 @@ Den Benutzern ist die Verwendung von virtuellen Servern in einer Cloud-Landschaf
 
 Zum jetzigen Zeitpunkt existiert noch keine mobile Anwendung (iPhone Anwendung) zur Verwaltung der Cloud Infrastruktur.
 
-Zum Einsatz im Unternehmen kommt Citrix CloudStack <span class="fn"><a href="http://www.citrix.de/produkte/cloudstack/">Citrix CloudStack</a></span>. Hierbei handelt es sich um eine OpenSource Webanwendung zur Verwaltung einer Infrastruktur Cloud. Zwischen der Weboberfläche und der Virtualisierungstechnologie befindet sich die libvirt-Schnittstelle. Nach <a href="#libvirt-schnittstelle">Abbildung 3 Einbindung libvirt Schnittstelle</a>, befindet sich CloudStack in der Anwenderschicht. Durch diese Schnittstelle ist es möglich verschiedene Virtualisierungstechnologien zu nutzen. 
+Zum Einsatz im Unternehmen kommt Citrix CloudStack <span class="fn"><a href="http://www.citrix.de/produkte/cloudstack/">Citrix CloudStack</a></span>. Hierbei handelt es sich um eine OpenSource Webanwendung zur Verwaltung einer Infrastruktur Cloud. Zwischen der Weboberfläche und der Virtualisierungstechnologie befindet sich die libvirt-Schnittstelle. Nach <a href="#libvirt-schnittstelle"><i>Abbildung 3 Einbindung libvirt Schnittstelle</i></a>, befindet sich CloudStack in der Anwenderschicht. Durch diese Schnittstelle ist es möglich verschiedene Virtualisierungstechnologien zu nutzen. 
 
 Eine zufriedenstellende Verwendung von CloudStack ist nur in einem Browser mit ausreichend großem Bildschirm möglich. Auf einem Smartphone ist die Vielzahl an Funktionen unübersichtlich und im Notfall nicht verwendbar.
 
@@ -64,7 +64,7 @@ Die Anwendung „iSSH - SSH / VNC Console“ bietet IT Administratoren die Mögl
 
 Das sortieren von Servern in verschiedene Kategorien bzw. Ordner bietet eine hohe Übersichtlichkeit. Durch grüne oder rote Punkte wird Angezeigt ob ein Server erreichbar ist. Somit hat der Benutzer eine direkte Rückmeldung ob er sich zum Server verbinden kann.
 
-Einige Nachteile bieten die vielen Einstellungsmöglichkeiten auf der Übersichtsseite (Abbildung 8, linkes Bild). Die „General Settings“, „Add Configuration“ und „Add Grouping“ wären an der Unterseite des Bildschirms oder in den iPhone Einstellungen besser aufgehoben.
+Einige Nachteile bieten die vielen Einstellungsmöglichkeiten auf der Übersichtsseite (<a href="#issh-overview"><i>Abbildung 10</i></a>, linkes Bild). Die „General Settings“, „Add Configuration“ und „Add Grouping“ wären an der Unterseite des Bildschirms oder in den iPhone Einstellungen besser aufgehoben.
 
 ### IPMI Touch
 
@@ -88,7 +88,7 @@ Es gibt viele verschiedene Situationen in denen eine iPhone Anwendung Verwendung
 
 Ein Großteil der Anwendungen in dieser Kategorie sind zur Terminplanung, Aufgabenverwaltung oder Administration. Sie dienen der Produktivitätssteigerung und somit zum effektiven lösen von Problemen.
 
-Die Anwendungen „Kalender“ oder „Things“, die zur Verwaltung von Terminen und Aufgaben dient, sind zum Anlegen von neuen Terminen oder Aufgaben optimiert. Hierfür befindet sich auf jeden Bildschirm ein Plus („+“), wie in der <a href="#microtasking">Abbildung 12</a> zu sehen.
+Die Anwendungen „Kalender“ oder „Things“, die zur Verwaltung von Terminen und Aufgaben dient, sind zum Anlegen von neuen Terminen oder Aufgaben optimiert. Hierfür befindet sich auf jeden Bildschirm ein Plus („+“), wie in der <a href="#microtasking"><i>Abbildung 12</i></a> zu sehen.
 
 <div class="figure" id="microtasking">
 	<img src="http://up.frubar.net/1780/microtasking-cal.png" alt="microtasking-cal" width="35%" style="padding-right: 1.5em;"/>
@@ -131,7 +131,7 @@ Für die Entwicklung einer iPhone Anwendung sollten grundlegende Punkte, wie die
 
 ## Navigationsmodelle
 
-Der Aufbau der Navigation hängt von der Aufgabe der Anwendung ab, wie der vorherige Abschnitt <b>Situation für mobile Anwendungen</b> zeigt. Apple bietet hierzu drei verschiedene Navigationsmodelle an. Diese können sich innerhalb einer Anwendung nicht ändern, daher sollte man sich, vor der Entwicklung, für eines der folgenden Modelle entscheiden. 
+Der Aufbau der Navigation hängt von der Aufgabe der Anwendung ab, wie der vorherige Abschnitt <a href="#situation-fur-mobile-anwendungen"><i>Situation für mobile Anwendungen</i></a> zeigt. Apple bietet hierzu drei verschiedene Navigationsmodelle an. Diese können sich innerhalb einer Anwendung nicht ändern, daher sollte man sich, vor der Entwicklung, für eines der folgenden Modelle entscheiden. 
 
 <div class="figure" id="navigation-mode">
 	<img src="http://up.frubar.net/1789/navigation-models.png" alt="navigation-model" width="80%" />
@@ -283,7 +283,7 @@ Drei der Standart Symbole sind wie folgt erklärt:
 	</tr>
 </table>
 
-Die Gruppierung der Elemente geschieht entweder durch ein Register (wie bei Abbildung 19, links) oder durch farblich, zum Hintergrund abgehobene, Boxen (Abbildung 19, mitte und rechts).
+Die Gruppierung der Elemente geschieht entweder durch ein Register (wie bei <a href="#content-table"><i>Abbildung 19</i></a>, links) oder durch farblich, zum Hintergrund abgehobene, Boxen (<a href="#content-table"><i>Abbildung 19</i></a>, mitte und rechts).
 
 ### Formulare
 
@@ -377,4 +377,52 @@ Abhängig vom verwendeten Navigationsmodel muss die Anwendung anders strukturier
 Für diesen Zweck wurde ein „Story-Board“ auf Papier entworfen, dieses befindet sich im Anhang. Mit diesem war es möglich erste Prototypen zu entwerfen und in den Usability-Tests anzuwenden. Das Story-Board wurde während den Tests verändert und erweitert.
 
 ## Usability-Tests
-Planung, Ergebnis von Usability Tests
+
+Die Usability-Tests dienen dem Entwickler seine Anwendung mehr aus der Sicht des Nutzers zu betrachten. Die Sichtweisen sind meist Unterschiedlich, da der Entwickler seine Anwendung entworfen hat und das Navigationskonzept kennt.
+
+Ziel des Tests ist es Unstimmigkeiten in der Navigation und Handhabung der Anwendung aufzudecken um diese im Anschluss optimieren zu können.
+
+### Durchführung
+
+Für den Zweck des Usability-Tests wurde mit drei Mitarbeitern (männlich, Alter 20-30) ein Thinking-Aloud Test<span class="fn"><a href="http://www.useit.com/alertbox/thinking-aloud-tests.html">Thinking Aloud Test</a></span> durchgeführt. Die Mitarbeiter haben Vorkenntnisse über Smartphones, mobile Anwendungen und kennen das Bedienkonzept des iPhones.
+
+Jeder Mitarbeiter wird einzeln befragt und erhält während der Testphase Aufgaben die er an Prototypen durchführen soll. Es wurden zwei Prototypen betrachtet:
+<ul>
+	<li>**Prototyp 1**: Mock-up auf Papier</ul>
+	<li>**Prototyp 2**: Anwendung auf dem iPhone</ul>
+</ul>
+
+Die Ergebnisse werden schriftlich fixiert um daraus eine Optimierung ableiten zu können. Es wird expliziert gebeten Ideen und Veränderungsvorschläge einzubringen. Der Test dauert pro Person zwischen 20-40 Minuten.
+
+### Szenarien
+
+In diesem Abschnitt werden die Aufgaben der Mitarbeiter beschrieben. Zwischen den Prototypen sind die Aufgaben ähnlich, beim Prototyp 1 können einige Aufgaben nicht vorgenommen werden.
+
+<ul>
+	<li><strong>Start der Anwendung</strong> <br/>Betrachten Sie die Anwendung und die Navigationselemente. Was ist Ihr erster Eindruck? Ist Ihnen das Ziel der Anwendung klar?</li>
+	<li><strong>Cloud Server hinzufügen</strong> <br />Fügen Sie einen neuen Cloud Server hinzu. Wie gehen Sie vor?</li>
+	<li><strong>Cloud Server bearbeiten</strong> <br />Ändern Sie den Namen oder ein anderes Attribut des Cloud Servers. Wie gehen Sie vor?</li>
+	<li><strong>Status Abfrage</strong> <br />Wie erkennen Sie den aktuellen Status Ihrer Server? Wo würden Sie nachsehen?</li>
+	<li><strong>Virtual Server hinzufügen</strong> <br />Fügen Sie einen virtuellen Server zu einem bestehenden Cloud Server hinzu. Wie gehen Sie vor?</li>
+	<li><strong>Virtual Server Details</strong> <br />Lassen Sie sich Details zu einem virtuellen Server anzeigen. Wie viel Speicherplatz wird verwendet?</li>
+	<li><strong>Virtual Server bearbeiten</strong> <br />Ändern Sie ein Attribut eines virtuellen Servers. Fügen Sie z.B. mehr Arbeitsspeicher hinzu. Wo würden Sie dies tun?</li>
+	<li><strong>Virtual Server Neustarten</strong> <br />Starten Sie einen virtuellen Server neu. Wie gehen Sie vor?</li>
+	<li><strong>Virtual Server löschen</strong> <br />Löschen Sie einen virtuellen Server von einem Cloud Server. Wie würden Sie vorgehen?</li>
+</ul>
+
+### Ergebnisse
+
+Es wurde festgestellt, dass der Prototyp 1, das Mock-up auf Papier, für den Test ungeeignet war. Somit wurde lediglich Prototyp 2, die iPhone Anwendung, bewertet.
+
+#### Erster Start
+
+
+
+#### Navigation
+
+
+
+#### Status Abfrage
+
+#### Sonstige Anmerkungen
+

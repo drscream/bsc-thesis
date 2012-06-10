@@ -47,14 +47,13 @@ In der Bachelor-Thesis wird keine vollwertige iOS Anwendung entwickelt. Durch ei
 
 Die Bachelorarbeit ist in vier Teilbereiche gegliedert. Sie spiegelt dadurch den ungefähren Verlauf des Projekts wieder.
 
-In der <b>Einleitung</b> wird der Projektträger vorgestellt und die Ziele des Projekts beschrieben. Die für die Arbeit relevanten Begriffe werden in den <b>Grundlagen</b> erklärt. Es erfolgt eine Vorstellung des verwendeten Mobilen Endgeräts und der Cloud Schnittstelle. Außerdem werden die Kriterien für die Usability-Tests beschrieben.
+In der <a href="#einleitung"><i>Einleitung</i> wird der Projektträger vorgestellt und die Ziele des Projekts beschrieben. Die für die Arbeit relevanten Begriffe werden in den <a href="#grundlagen"><i>Grundlagen</i> erklärt. Es erfolgt eine Vorstellung des verwendeten Mobilen Endgeräts und der Cloud Schnittstelle. Außerdem werden die Kriterien für die Usability-Tests beschrieben.
 
-In den Kapiteln <b>Analyse</b> und <b>Konzeption</b>erfolgt eine Darstellung der aktuellen Situation. Ein erster Prototyp wird erstellt und beschrieben um Usability-Tests anwenden zu können. Anschließend wird die Zielgruppe zum Prototypen befragt. In der <b>Realisierung</b> werden die technischen Aspekte zur Entwicklung der Anwendung angesprochen. Es werden Quelltexte zur grafischen Benutzeroberfläche und Schnittstellen näher erläutert.
+In den Kapiteln <a href="#analyse"><i>Analyse</i></a> und <a href="#konzeption"><i>Konzeption</i></a> erfolgt eine Darstellung der aktuellen Situation. Ein erster Prototyp wird erstellt und beschrieben um Usability-Tests anwenden zu können. Anschließend wird die Zielgruppe zum Prototypen befragt. In der <a href="#realisierung"><i>Realisierung</i></a> werden die technischen Aspekte zur Entwicklung der Anwendung angesprochen. Es werden Quelltexte zur grafischen Benutzeroberfläche und Schnittstellen näher erläutert.
 
-Den Abschluss der Thesis bildet das <b>Fazit</b> über das gesamte Projekt und die Arbeit. Es folgt ein Ausblick auf den Verlauf des Projekts außerhalb der Bachelor-Thesis.
+Den Abschluss der Thesis bildet das <a href="#fazit"><i>Fazit</i></a> über das gesamte Projekt und die Arbeit. Es folgt ein Ausblick auf den Verlauf des Projekts außerhalb der Bachelor-Thesis.
 
 
 ## Formale Hinweise
 
-Unbekannte Begriffe oder weitere Hinweise zu einem Wort werden per Fußnote erklärt. Meist erfolgt ein weiterführender Link zu einer Internetseite. Zitate oder Quellenverweise sind per Eckiger-Klammer gekennzeichnet und im Quellenverzeichnis beschrieben. <br />
-Wörter oder Begriffe im Fließtext mit <i>kursiver</i> Schrift sind Quelltext. Verweise auf Kapitel oder wichtige Textstellen sind <b>fett</b> geschrieben.
+Unbekannte Begriffe oder weitere Hinweise zu einem Wort werden per Fußnote erklärt. Meist erfolgt ein weiterführender Link zu einer Internetseite. Zitate oder Quellenverweise sind per Eckiger-Klammer gekennzeichnet und im Quellenverzeichnis beschrieben. Verweise auf Kapitel oder wichtige Textstellen sind <i>kursiv</i> geschrieben.

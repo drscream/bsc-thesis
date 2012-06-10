@@ -9,7 +9,7 @@ In diesem Kapitel werden technische Details zur Realisierung erklärt und einige
 
 ## libvirt Schnittstelle
 
-Wie in Kapitel 2.3 beschrieben handelt es sich bei libvirt um eine Schnittstelle zwischen Anwendungen und verschiedenen Virtualisierungstechnologien. Bei libvirt handelt es sich um eine C-Bibliothek, auf diese kann aber durch eine weitere Abstraktionsschichten auch mit anderen Programmiersprachen<span class="fn"><a href="http://libvirt.org/bindings.html">libvirt Bibliothek und weitere Programmiersprachen</a></span> zugegriffen werden. Dadurch werden Programmiersprachen wie Python, Perl, Ruby, Java und PHP unterstützt.
+Wie in <a href="#virtualisierung"><i>Kapitel 2.3</i></a> beschrieben handelt es sich bei libvirt um eine Schnittstelle zwischen Anwendungen und verschiedenen Virtualisierungstechnologien. Bei libvirt handelt es sich um eine C-Bibliothek, auf diese kann aber durch eine weitere Abstraktionsschichten auch mit anderen Programmiersprachen<span class="fn"><a href="http://libvirt.org/bindings.html">libvirt Bibliothek und weitere Programmiersprachen</a></span> zugegriffen werden. Dadurch werden Programmiersprachen wie Python, Perl, Ruby, Java und PHP unterstützt.
 
 <div class="figure" id="build-api-interfaces">
 	<img src="http://up.frubar.net/1824/build-api-interfaces.svg" alt="build-api-interfaces" width="80%" />
