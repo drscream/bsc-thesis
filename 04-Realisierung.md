@@ -41,12 +41,19 @@ app.get('/domain/:uuid', function(req, res) {
 
 Mit dem Node.js Web-Framework express<span class="fn"><a href="http://expressjs.com/">Node.js Web-Framework express</a></span> kann mir wenigen Codezeilen eine REST (Representational State Transfer) API<span class="fn"><a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Dissertation von Roy Fielding, zu REST</a></span> entwickelt werden. REST vereinfacht die Schnittstelle zwischen Systemen auf eine standardisierte Menge an Aktionen. Für die Umsetzung wird in diesem Fall das HTTP-Protokoll verwendet.
 
-Wie im Quelltext Auszug zu erkennen ist wird die HTTP-Funktion GET aufgerufen, dieser wird die eindeutige ID (UUID) der virtuellen Maschine übergeben. Über die libvirt-Funktionen werden zusätzliche Informationen abgefragt und an den Benutzer zurückgeliefert. Die Rückgabe erfolgt in JSON, einer JavaScript-Objekt Notation.
-
 <div class="listing" id="url-example">
-	<code><pre>http://example.com/domain/b84f1d60-cbc4-4cff-704e-96fc768f0922
-		
-{
+	<code><pre>http://example.com/domain/b84f1d60-cbc4-4cff-704e-96fc768f0922</pre></code>	
+	<p>Beispiel URL</p>
+</div>
+
+Wie im Quelltext Auszug zu erkennen ist wird die HTTP-Funktion GET aufgerufen, dieser wird die eindeutige ID (UUID) der virtuellen Maschine übergeben. Über die libvirt-Funktionen werden zusätzliche Informationen abgefragt und an den Benutzer zurückgeliefert. Die Rückgabe erfolgt in JSON<span class="fn"><a href="http://json.org/">JSON</a></span>, einer JavaScript-Objekt Notation.
+
+### JSON
+
+Bei JSON handelt es sich um eine JavaScript-Objekt Notation, die zum kompakten Datenaustausch zwischen Anwendungen dient. Ein großer Vorteil ist die kompakte aber dennoch für den Menschen lesbare Struktur. Jedes JSON-Dokument ist auch ein gültiges JavaScript und kann daher von dieses Programmiersprache einfach interpretiert werden. Es existieren aber auch Parser für andere Programmiersprachen.
+
+<div class="listing" id="return-example">
+	<code><pre>{
 	"state":1,
 	"max_memory":524288,
 	"memory":524288,
@@ -54,10 +61,10 @@ Wie im Quelltext Auszug zu erkennen ist wird die HTTP-Funktion GET aufgerufen, d
 	"cpu_time":3434280000000,
 	"name":"example"
 }</pre></code>	
-	<p>Beispiel URL mit Rückgabeinformationen</p>
+	<p>Beispiel Rückgabeinformationen</p>
 </div>
 
-### JSON
+Alle Daten die über die REST Node.js API angefragt werden, sollen als JSON zurückgeliefert werden. Der Prototyp für die iPhone Anwendung muss somit JSON interpretieren und anzeigen.
 
 ## Prototyp
 
