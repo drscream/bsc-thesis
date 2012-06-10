@@ -412,17 +412,36 @@ In diesem Abschnitt werden die Aufgaben der Mitarbeiter beschrieben. Zwischen de
 
 ### Ergebnisse
 
-Es wurde festgestellt, dass der Prototyp 1, das Mock-up auf Papier, für den Test ungeeignet war. Somit wurde lediglich Prototyp 2, die iPhone Anwendung, bewertet.
+Es wurde festgestellt, dass der Prototyp 1, das Mock-up auf Papier, für den Test ungeeignet war. Somit wurde lediglich Prototyp 2, die iPhone Anwendung, bewertet. Zur Konzeptionsphase und für Erweiterungen wird aber weiterhin das Mock-up verwendet.
 
 #### Erster Start
 
+Die Anwendung wirkt beim ersten Start leer, da noch keine Cloud Server vorhanden sind. Der Benutzer findet sich daher nur schwer zu recht und fühlt sich mit der neuen Anwendung „allein gelassen“.
 
+Es wurden Tooltips hinzugefügt die beim erster Start und falls noch keine Server vorhanden sind, angezeigt werden.
+
+<div class="figure" id="cc-intro">
+	<img src="http://up.frubar.net/1831/cloud-control-intro.png" alt="cc-intro" width="50%" />
+	<p>Erster Start der Anwendung, Erweiterung durch Tooltips</p>
+</div>
 
 #### Navigation
 
+Die Navigation wurde von den Benutzern gut angenommen, sie fanden sich in der Baum-Struktur gut zu recht.
 
+Es stellte sich aber heraus, dass für das Löschen eines virtuellen Servers keine Funktion im Story-Board vorgesehen war. Somit war es dem Benutzer nicht möglich einen virtuellen Server zu löschen. Dies wurde mit einen Editieren-Button bei der Übersichtsseite der virtuellen Server gelöst.
+
+Des Weiteren fiel auf, dass virtuelle Server die Ausgeschalten sind nicht auf der Übersichtsseite erkennbar waren. Nach eine Änderung werden diese nun grau in der Liste angezeigt und an die unterster Stelle sortiert.
 
 #### Status Abfrage
 
+In der ersten Version wurde der Cloud Status nur an der unteren rechten Seite angezeigt. Somit war es für den Benutzer nicht zu erkennen welcher Server ein Problem aufweist. Es wird daher bei jedem Cloud und virtuellen Server der Status an der rechten Seite angezeigt.
+
+<div class="figure" id="cc-status">
+	<img src="http://up.frubar.net/1832/cloud-control-status.png" alt="cc-status" width="50%" />
+	<p>Cloud Status, rechts bei jedem Cloud Server</p>
+</div>
+
 #### Sonstige Anmerkungen
 
+Beim Neustart des virtuellen Servers erfolgte keine Abfrage ob der Benutzer wirklich den Server Neustarten möchte. Hierzu erscheint nun eine Dialogbox die vom Benutzer bestätigt oder abgebrochen werden kann.
