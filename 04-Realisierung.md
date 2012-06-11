@@ -39,7 +39,7 @@ app.get('/domain/:uuid', function(req, res) {
 	<p>Quelltext Auszug der REST Node.js Schnittstelle</p>
 </div>
 
-Mit dem Node.js Web-Framework express<span class="fn"><a href="http://expressjs.com/">Node.js Web-Framework express</a></span> kann mir wenigen Codezeilen eine REST (Representational State Transfer) API<span class="fn"><a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Dissertation von Roy Fielding, zu REST</a></span> entwickelt werden. REST vereinfacht die Schnittstelle zwischen Systemen auf eine standardisierte Menge an Aktionen. Für die Umsetzung wird in diesem Fall das HTTP-Protokoll verwendet.
+Mit dem Node.js Web-Framework express<span class="fn"><a href="http://expressjs.com/">Node.js Web-Framework express</a></span> kann durch wenigen Codezeilen eine REST (Representational State Transfer) API<span class="fn"><a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Dissertation von Roy Fielding, zu REST</a></span> entwickelt werden. REST vereinfacht die Schnittstelle zwischen Systemen auf eine standardisierte Menge an Aktionen. Für die Umsetzung wird in diesem Fall das HTTP-Protokoll verwendet.
 
 <div class="listing" id="url-example">
 	<code><pre>http://example.com/domain/b84f1d60-cbc4-4cff-704e-96fc768f0922</pre></code>	
@@ -81,17 +81,17 @@ Nach der Konzeptionsphase durch das Story-Board wird ein erstes Mock-up mit der 
 	<p>Erstes Mock-up von Cloud Control</p>
 </div>
 
-Balsamiq Mockups bietet zwar viele gestalterische Möglichkeiten eine iPhone Anwendung darzustellen, jedoch ist es für den Benutzer nicht einfach sich dies vorzustellen. 
+Balsamiq Mockups bietet viele gestalterische Möglichkeiten eine iPhone Anwendung darzustellen. Für Usability-Tests ist eine native iPhone Anwendung für den Benutzer aber besser zugänglich.
 
 ### XCode und PhoneGap
 
 Die Entwicklung einer iPhone Anwendung erfolgt mit XCode und in der Programmiersprache Objective-C<span class="fn"><a href="http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html">Objective-C</a></span>. Bei XCode handelt es sich um die Entwicklungsumgebung von Apple und bietet auch Simulatoren für iPhone oder iPad an. Bei Objective-C handelt es sich um eine Erweiterung der Programmiersprache C um Sprachmittel zur objektorientierten Programmierung.
 
-Durch die komplexe Programmiersprache dauert es sehr lang einen Prototypen zu entwickelt. Auch nur die Verwendung der graphischen Elemente von XCode ist für einen Prototyp nicht ausreichend.
+Durch die komplexe Programmiersprache dauert es sehr lang einen Prototypen zu entwickelt. Der von XCode verwendete Designer, zur Gestaltung der Benutzeroberfläche, ist für einen Prototyp nicht ausreichend, da weiterhin Objective-C auch für kleine Anpassungen benötigt wird.
 
 Als Alternative zur Realisierung wird PhoneGap verwendet, einem OpenSource Framework zur Entwicklung von mobilen Anwendungen. Durch PhoneGap erfolgt die Entwicklung mit den Programmiersprachen bzw. Beschreibungssprachen HTML5, JavaScript und CSS3. Dem Framework liegen CSS- und JavaScript-Dateien für das iPhone Design bei. 
 
-Es wird weiterhin XCode eingesetzt und die Anwendung ist als „App“ auf dem iPhone ausführbar. 
+Bei PhoneGap handelt es sich um ein Erweiterung für XCode. Die entwickelte Anwendung bleibt somit eine native iPhone „App“. 
 
 <div class="figure" id="phonegap-versions">
 	<img src="http://up.frubar.net/1826/cc-phonegap-first.png" alt="-phonegap-first" width="35%" style="padding-right: 1.5em;"/>

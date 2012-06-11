@@ -22,7 +22,7 @@ Die persönlich digitalen Assistenten, kurz PDAs, sind eine Kombination aus den 
 
 Smartphones stellen die Computerfunktionalität auf einem Mobiltelefon zur Verfügung. Diese Geräte sind über die verschiedensten Telekommunikationsdienste, wie UMTS<span class="fn">Universal Mobile Telecommunications System</span>, HSDPA<span class="fn">High Speed Downlink Packet Access</span> oder Wireless-LAN, internetfähig.
 
-Sie sind durch ihre Konstruktion und Bedienung nicht zum Telefonieren optimiert, stattdessen ermöglichen sie die Verwendung von einer großen Anzahl an Anwendungen. Daher sind typische Merkmale ein großer Touchscreen und eine alphanumerische Tastatur. Die Tastatur befindet sich bei den meisten Modellen im Touchscreen, was die Eingabe erschweren kann.
+Sie sind durch ihre Konstruktion und Bedienung nicht zum Telefonieren optimiert, stattdessen ermöglichen sie die Verwendung von einer großen Anzahl an Anwendungen. Daher sind typische Merkmale ein großer Touchscreen und eine alphanumerische Tastatur. Die Tastatur befindet sich bei den meisten Modellen im Touchscreen. Der Benutzer hat daher bei der Eingabe, keine oder nur eine akustische Rückmeldung, was die Eingabe erschweren kann. 
 
 ### mobile Anwendungen
 
@@ -83,15 +83,15 @@ Die Anbieter und Nutzer der „Private Cloud“ stammen aus der selben Organisat
 
 #### Public Cloud
 
-Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öffentlich erreichbar und jeden zugänglich. Eine wichtige Rolle spielt hierbei die Datensicherheit. Jeder Benutzer muss hierbei selbst Entscheiden welche und wie viele Daten er in der Cloud speichert.
+Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öffentlich erreichbar und für jeden zugänglich. Eine wichtige Rolle spielt hierbei die Datensicherheit. Jeder Benutzer muss selbst Entscheiden welche und wie viele Daten er in der Cloud speichert.
 
 #### Hybrid Cloud
 
-Hierbei handelt es sich um eine Mischung aus „Private und Public Cloud“. Eine Organisation verwendet eine „Private Cloud“ und wechselt im Fehlerfall oder bei hoher Belastung zur „Public Cloud“. 
+Bei der „Hybrid Cloud“ handelt es sich um eine Mischung aus „Private und Public Cloud“. Eine Organisation verwendet eine „Private Cloud“ und wechselt im Fehlerfall oder bei hoher Belastung zur „Public Cloud“. 
 
 ##  Virtualisierung
 
-Für die Virtualisierung gibt es viele verschiedene Methoden, abhängig davon eine Anwendung oder ein gesamtes Betriebssystem virtualisiert werden soll. Die Virtualisierung spielt eine wichtige Rolle für die Cloud Infrastruktur. Für die Bachelorarbeit ist die Bereitstellung ganzer Rechnerinstanzen relevant. Die beste Leistung wird mit der Paravirtualisierung erreicht. <cite><a href="#yaovt10">yaovt10</a></cite> <cite><a href="#yaocpu10">yaocpu10</a></cite> <cite><a href="#yaodisk10">yaodisk10</a></cite>
+Für die Virtualisierung gibt es viele verschiedene Methoden, abhängig davon ob eine Anwendung oder ein gesamtes Betriebssystem virtualisiert werden soll. Die Virtualisierung spielt eine wichtige Rolle für die Cloud Infrastruktur. Für die Bachelorarbeit ist die Bereitstellung ganzer Rechnerinstanzen relevant. Die beste Leistung wird mit der Paravirtualisierung erreicht. <cite><a href="#yaovt10">yaovt10</a></cite> <cite><a href="#yaocpu10">yaocpu10</a></cite> <cite><a href="#yaodisk10">yaodisk10</a></cite>
 
 
 ### Hardware Virtualisierung

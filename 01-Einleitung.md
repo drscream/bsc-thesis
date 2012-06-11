@@ -17,7 +17,7 @@ Zu den nationalen und internationalen Kunden zählen namhafte, börsennotierte U
 
 Der Marktanteil für Smartphones mit Google Android oder Apple iOS<span class="fn"><a href="http://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/iPhoneOSTechOverview.pdf">iOS Technology Overview</a></span> steigt jedes Jahr um mehrere Prozent. So sind diese Betriebssysteme schon auf mehr als 50% der Geräte im Umlauf.<span class="fn"><a href="http://www.gartner.com/it/page.jsp?id=1622614">Marktanteile laut Gartner Inc. (April 2011)</a></span>
 
-Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwendung mobiler Anwendungen. Herausstechendstes Merkmal ist der kleinere Bildschirm sowie die Bedienung mittels Touchscreen. Hierauf muss beim Aufbau der Benutzeroberfläche besonders geachtet werden.
+Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwendung mobiler Anwendungen. Diese Anwendungen haben jedoch völlig andere Anforderungen als Programme für Desktop Computer oder Laptops. Herausstechendstes Merkmal ist der kleinere Bildschirm sowie die Bedienung mittels Touchscreen. Hierauf muss beim Aufbau der Benutzeroberfläche besonders geachtet werden.
 
 ## Problemstellung
 

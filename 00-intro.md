@@ -42,7 +42,7 @@ Smartphones sind aus unserem Alltag nicht mehr wegzudenken, ob beim Einkaufen, i
 
 Daher soll mit dieser Bachelor-Thesis versucht werden eine mobile Anwendung zur Verwaltung der Cloud Infrastruktur zu entwickelt. Im Vordergrund steht die Usability für eine iPhone Anwendung. Während der Thesis wird ein Prototyp entwickelt und an den gängigen Usability-Regeln gemessen.
 
-Das Kapitel der Grundlagen umfasst die Definition der verschiedenen „Cloud“-Arten bis zu den Usability-Regeln und die Relevanz für mobile Anwendungen. In der Analyse-Phase wird der IST-Zustand aufgenommen und alternative Anwendungen betrachtet. Darauf folgt die Konzeption Anhand der iPhone Navigationsmodelle und Usability-Tests. Im letzten Kapitel, der Realisierung, wird die Eingesetzte Technologie näher erläutert.
+Das Kapitel der Grundlagen umfasst die Definition der verschiedenen „Cloud“-Arten bis zu den Usability-Regeln und die Relevanz für mobile Anwendungen. In der Analyse-Phase wird der IST-Zustand aufgenommen und alternative Anwendungen betrachtet. Darauf folgt die Konzeption anhand der iPhone Navigationsmodelle und Usability-Tests. Im letzten Kapitel, der Realisierung, wird die eingesetzte Technologie näher erläutert.
 
 ---
 

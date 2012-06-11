@@ -46,6 +46,13 @@ Eine zufriedenstellende Verwendung von CloudStack ist nur in einem Browser mit a
 
 Da durch CloudStack auf die libvirt-Schnittstelle aufgesetzt wird, ist es sinnvoll diese auch für die Entwicklung der mobilen Anwendung zu verwenden.
 
+## Anwendungsfälle
+
+TODO:
+"in die konzeption würde ich auch workflows und use cases mit reinnehmen. also welche aufgaben können im detail mit der app erledigt werden. wie läuft der workflow der use cases ab.  welche schritte müssen getan werden, wieviele klicks sind es um das ziel zu erreichen. minmal und maximal
+
+vielleicht wäre auch ein IST-SOll zustandvergleich gut."
+
 ## Alternative Anwendungen
 
 Da aktuell noch keine Anwendungen für die Verwaltung von virtuellen Rechnerinstanzen existieren werden alternative IT-relevante Anwendungen betrachtet. Ein Teil der Erfahrungen mit diesen Anwendungen wird in der Realisierungsphase nützlich sein.
@@ -88,7 +95,7 @@ Es gibt viele verschiedene Situationen in denen eine iPhone Anwendung Verwendung
 
 Ein Großteil der Anwendungen in dieser Kategorie sind zur Terminplanung, Aufgabenverwaltung oder Administration. Sie dienen der Produktivitätssteigerung und somit zum effektiven lösen von Problemen.
 
-Die Anwendungen „Kalender“ oder „Things“, die zur Verwaltung von Terminen und Aufgaben dient, sind zum Anlegen von neuen Terminen oder Aufgaben optimiert. Hierfür befindet sich auf jeden Bildschirm ein Plus („+“), wie in der <a href="#microtasking"><i>Abbildung 12</i></a> zu sehen.
+Die Anwendungen „Kalender“ oder „Things“, die zur Verwaltung von Terminen und Aufgaben dienen, sind zum Anlegen von neuen Terminen oder Aufgaben optimiert. Hierfür befindet sich auf jedem Bildschirm ein Plus („+“), wie in der <a href="#microtasking"><i>Abbildung 12</i></a> zu sehen.
 
 <div class="figure" id="microtasking">
 	<img src="http://up.frubar.net/1780/microtasking-cal.png" alt="microtasking-cal" width="35%" style="padding-right: 1.5em;"/>
@@ -98,7 +105,7 @@ Die Anwendungen „Kalender“ oder „Things“, die zur Verwaltung von Termine
 
 Die mobile Anwendung zur Verwaltung der Cloud Infrastruktur fällt in diese Kategorie.
 
-### „Was ist meiner Umgebung?“
+### „Was ist in meiner Umgebung?“
 
 Hierbei handelt es sich Hauptsächlich um Anwendungen die auf Kartenmaterial, beziehungsweise auf Sensoren des iPhones, zugreifen. Im Vordergrund der Anwendungen steht die Navigation und das Mitteilungsbedürfnis des Benutzers. 
 
@@ -112,7 +119,7 @@ Hierbei handelt es sich Hauptsächlich um Anwendungen die auf Kartenmaterial, be
 
 In diese Kategorie fallen sowohl Spiele als auch Tools wie das Musik „App“. Diese sind auch die beliebteste Kategorie<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/166976/umfrage/beliebteste-kategorien-im-app-store/">Statista, Top 15 Kategorien im App Store (2012)</a></span> im App Store. Die Beliebtheit wird nach den Anteil aller verfügbaren „Apps“ im App Store gemessen.
 
-Wie auf dem darauffolgenden Screenshot zu erkennen ist, hat das Spiel „Angry Birds“ keine iPhone Navigationselemente. Spiele nehmen meist den gesamten Bildschirm ein und verwenden ihre eigenen Symbole für die Navigation. Sogar die Statusbar mit der Empfangsanzeige, Uhrzeit und der Batterieanzeige werden ausgeblendet.
+Wie auf dem Screenshot <a href="#bored"><i>Abbildung 14</i></a> zu erkennen ist, hat das Spiel „Angry Birds“ keine iPhone Navigationselemente. Spiele nehmen meist den gesamten Bildschirm ein und verwenden ihre eigenen Symbole für die Navigation. Sogar die Statusbar mit der Empfangsanzeige, Uhrzeit und der Batterieanzeige werden ausgeblendet.
 
 <div class="figure" id="bored">
 	<img src="http://up.frubar.net/1786/bored-angrybirds.png" alt="bored-angrybirds" width="60%" />
