@@ -48,7 +48,7 @@ Aus der Sicht der Informatik, hat der Besitzer einen Online-Shop, dieser läuft 
 
 ### Technische Realisierungen
 
-Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jeder Schicht stellt einen Grad der Abstraktion dar und wird in diesem Abschnitt näher erläutert. <a href="#bartonb08"><cite>bartonb08</cite></a>
+Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jede Schicht stellt einen Grad der Abstraktion dar und wird in diesem Abschnitt näher erläutert. <a href="#bartonb08"><cite>bartonb08</cite></a>
 
 <div class="figure" id="cloud-technische-realisierungen">
 	<img src="http://up.frubar.net/1776/cloud-services-zielgruppen.svg" alt="cloud-technische-realisierungen" width="100%" />
@@ -79,11 +79,11 @@ Die Cloud wird meist, abhängig vom Anwendungsfall, in drei Organisationsformen 
 
 #### Private Cloud
 
-Die Anbieter und Nutzer der „Private Cloud“ stammen aus der selben Organisation oder dem selben Unternehmen. Daten innerhalb dieser Cloud sind nur der Organisation zugänglich und nicht außerhalb erreichbar, dies bietet einen großen Sicherheitsaspekt. Ein bekanntes Beispiel für die „Private Cloud“ sind die Amazon Web Services<span class="fn"><a href="http://aws.amazon.com">Amazon Web Services</a></span>.
+Die Anbieter und Nutzer der „Private Cloud“ stammen aus der selben Organisation oder dem selben Unternehmen. Daten innerhalb dieser Cloud sind nur der Organisation zugänglich und nicht außerhalb erreichbar, dies bietet einen großen Sicherheitsaspekt.
 
 #### Public Cloud
 
-Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öffentlich erreichbar und für jeden zugänglich. Eine wichtige Rolle spielt hierbei die Datensicherheit. Jeder Benutzer muss selbst Entscheiden welche und wie viele Daten er in der Cloud speichert.
+Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öffentlich erreichbar und für jeden zugänglich. Eine wichtige Rolle spielt hierbei die Datensicherheit. Jeder Benutzer muss selbst Entscheiden welche und wie viele Daten er in der Cloud speichert. Ein bekanntes Beispiel für die „Private Cloud“ sind die Amazon Web Services<span class="fn"><a href="http://aws.amazon.com">Amazon Web Services</a></span>.
 
 #### Hybrid Cloud
 
@@ -180,7 +180,7 @@ Der Software-Ergonom Jakob Nielsen verfasste 1990 unter dem Titel „Improving a
 	<li><strong>Hilfe und Dokumentation</strong><br />Auch wenn das System ohne Hilfe und Dokumentation benutzbar ist, sollte eine Dokumentation und Hilfe immer zur Verfügung stehen.</li>
 </ul>
 
-Für die Gestaltung von neuen Benutzerschnittstellen bieten die Usability-Heuristik von Nielsen eine gute Grundlage. Sie unterstützten die Entwicklung und das Design einer mobilen Anwendung.
+Für die Gestaltung von neuen Benutzerschnittstellen bieten die Usability-Heuristiken von Nielsen eine gute Grundlage. Sie unterstützten die Entwicklung und das Design einer mobilen Anwendung.
 
 
 #### KISS - Keep it Simple and Straightforward

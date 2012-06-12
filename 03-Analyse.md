@@ -46,7 +46,7 @@ Eine zufriedenstellende Verwendung von CloudStack ist nur in einem Browser mit a
 
 Da durch CloudStack auf die libvirt-Schnittstelle aufgesetzt wird, ist es sinnvoll diese auch für die Entwicklung der mobilen Anwendung zu verwenden.
 
-## Anwendungsfälle
+## Anwendungsfunktionen
 
 Um die Aufgabe der Anwendung besser definieren zu können folgt ein Aufstellung der Funktionen die geboten werden sollen. Die genauen Schritte für den Benutzer werden in der Konzeptionsphase und im Story-Board beschrieben.
 
@@ -73,6 +73,17 @@ Um die Aufgabe der Anwendung besser definieren zu können folgt ein Aufstellung 
 		</ul>		
 	</li>
 </ul>
+
+Die veränderbaren Rechnerressourcen werden wie folgt definiert:
+
+<ul>
+	<li>Anzahl der CPUs</li>
+	<li>Verwendbarer Arbeitsspeicher</li>
+	<li>Angebotener Festplattenspeicher</li>
+	<li>Aktivierung oder Deaktivierung von Remote Verbindungen</li>
+</ul>
+
+Beispielsweise, befindet sich der Administrator gerade nicht an seinem Arbeitsplatz, hat aber sein iPhone dabei. Durch die weitere Anwendung „Nagios“, für das Überwachen der virtuellen Server, erhält er den Hinweis, dass kein Arbeitsspeicher auf einem Server verfügbar ist. Mit der zu entwickelnden Anwendung kann der Administrator zum Beispiel per Schieberegler den Arbeitsspeicher eines virtuellen Server erhöhen.
 
 ## Alternative Anwendungen
 

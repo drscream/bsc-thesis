@@ -9,7 +9,7 @@ Das Ziel der Thesis, einen Prototypen einer mobilen Anwendung zur Verwaltung von
 
 Die Analyse der Zielgruppe und Anforderungen konnte im Team, mit den Benutzern, erstellt werden. Dies bildete eine gute Grundlage und stärkte das vertrauen zwischen Benutzer und der neuen Anwendung. Durch das Darstellen der Navigationswege über das Story-Board konnte ein „roter Faden“ in der Anwendung hergestellt werden. Mit den Usability-Tests wurden Fehler schon während der Entwicklungsphase aufgedeckt und verbessert. 
 
-Während der Realisierung musste festgestellt werden, dass Objective-C, für mich als Entwickler eine sehr komplexe Programmiersprache ist. Es wurde daher entschieden für die Prototypen auf das alternative Framework PhoneGap zu wechseln, was sich als Vorteil herausstellte.
+Die Programmiersprache Objective-C bringt durch ihre Komplexität längere Entwicklungszyklen mit sich, welches für schnelles entwickeln eines Prototyps und experimentieren von Usability Konzepten ungeeignet ist.Es wurde daher entschieden für die Prototypen auf das alternative Framework PhoneGap zu wechseln, was sich als Vorteil herausstellte.
 
 Als persönliche Anmerkung zum Ende des Fazits, kann gesagt werden, dass sich eine gute und intensive Planungsphase und das frühzeitige einbeziehen der Anwender steht positiv auf die Entwicklung auswirkt.
 
