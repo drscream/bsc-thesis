@@ -9,7 +9,7 @@ In diesem Kapitel werden technische Details zur Realisierung erklärt und einige
 
 ## libvirt Schnittstelle
 
-Wie in <a href="#virtualisierung"><i>Kapitel 2.3</i></a> beschrieben handelt es sich bei libvirt um eine Schnittstelle zwischen Anwendungen und verschiedenen Virtualisierungstechnologien. Bei libvirt handelt es sich um eine C-Bibliothek, auf diese kann aber durch eine weitere Abstraktionsschichten auch mit anderen Programmiersprachen<span class="fn"><a href="http://libvirt.org/bindings.html">libvirt Bibliothek und weitere Programmiersprachen</a></span> zugegriffen werden. Dadurch werden Programmiersprachen wie Python, Perl, Ruby, Java und PHP unterstützt.
+Wie in <a href="#virtualisierung"><i>Kapitel 2.3</i></a> beschrieben handelt es sich bei libvirt um eine Schnittstelle zwischen Anwendungen und verschiedenen Virtualisierungstechnologien. Libvirt ist eine C-Bibliothek, auf diese kann aber durch eine weitere Abstraktionsschichten auch mit anderen Programmiersprachen<span class="fn"><a href="http://libvirt.org/bindings.html">libvirt Bibliothek und weitere Programmiersprachen</a></span> zugegriffen werden. Dadurch werden Programmiersprachen wie Python, Perl, Ruby, Java und PHP unterstützt.
 
 <div class="figure" id="build-api-interfaces">
 	<img src="http://up.frubar.net/1824/build-api-interfaces.svg" alt="build-api-interfaces" width="80%" />
@@ -50,7 +50,7 @@ Wie im Quelltext Auszug zu erkennen ist wird die HTTP-Funktion GET aufgerufen, d
 
 ### JSON
 
-Bei JSON handelt es sich um eine JavaScript-Objekt Notation, die zum kompakten Datenaustausch zwischen Anwendungen dient. Ein großer Vorteil ist die kompakte aber dennoch für den Menschen lesbare Struktur. Jedes JSON-Dokument ist auch ein gültiges JavaScript und kann daher von dieses Programmiersprache einfach interpretiert werden. Es existieren aber auch Parser für andere Programmiersprachen.
+Bei JSON handelt es sich um eine JavaScript-Objekt Notation, die zum kompakten Datenaustausch zwischen Anwendungen dient. Ein großer Vorteil ist die kompakte aber dennoch für den Menschen lesbare Struktur. Jedes JSON-Dokument ist auch ein gültiges JavaScript und kann daher von dieser Programmiersprache einfach interpretiert werden. Es existieren aber auch Parser für andere Programmiersprachen.
 
 <div class="listing" id="return-example">
 	<code><pre>{
@@ -74,7 +74,7 @@ In diesem Abschnitt erfolgt eine Beschreibung zur Realisierung der verschiedenen
 
 ### Mock-up
 
-Nach der Konzeptionsphase durch das Story-Board wird ein erstes Mock-up mit der Anwendung Balsamiq Mockups<span class="fn"><a href="http://www.balsamiq.com/products/mockups">Balsamiq Mockups</a></span> erstellt. Dies soll dem Benutzer einen ersten Eindruck der Cloud Control „Apps“ vermitteln.
+Nach der Konzeptionsphase durch das Story-Board wurde ein erstes Mock-up mit der Anwendung Balsamiq Mockups<span class="fn"><a href="http://www.balsamiq.com/products/mockups">Balsamiq Mockups</a></span> erstellt. Dies soll dem Benutzer einen ersten Eindruck der Cloud Control „Apps“ vermitteln.
 	
 <div class="figure" id="mockup">
 	<img src="http://up.frubar.net/1825/mockup-cloud-control.png" alt="mockup" width="80%" />
@@ -85,9 +85,9 @@ Balsamiq Mockups bietet viele gestalterische Möglichkeiten eine iPhone Anwendun
 
 ### XCode und PhoneGap
 
-Die Entwicklung einer iPhone Anwendung erfolgt mit XCode und in der Programmiersprache Objective-C<span class="fn"><a href="http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html">Objective-C</a></span>. Bei XCode handelt es sich um die Entwicklungsumgebung von Apple und bietet auch Simulatoren für iPhone oder iPad an. Bei Objective-C handelt es sich um eine Erweiterung der Programmiersprache C um Sprachmittel zur objektorientierten Programmierung.
+Die Entwicklung einer iPhone Anwendung erfolgt mit XCode und in der Programmiersprache Objective-C<span class="fn"><a href="http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html">Objective-C</a></span>. Bei XCode handelt es sich um die Entwicklungsumgebung von Apple und diese bietet auch Simulatoren für iPhone oder iPad an. Bei Objective-C handelt es sich um eine Erweiterung der Programmiersprache C um Sprachmittel zur objektorientierten Programmierung.
 
-Durch die komplexe Programmiersprache dauert es sehr lang einen Prototypen zu entwickelt. Der von XCode verwendete Designer, zur Gestaltung der Benutzeroberfläche, ist für einen Prototyp nicht ausreichend, da weiterhin Objective-C auch für kleine Anpassungen benötigt wird.
+Durch die komplexe Programmiersprache dauert es sehr lange einen Prototypen zu entwickelt. Der von XCode verwendete Designer, zur Gestaltung der Benutzeroberfläche, ist für einen Prototyp nicht ausreichend, da weiterhin Objective-C auch für kleine Anpassungen benötigt wird.
 
 Als Alternative zur Realisierung wird PhoneGap verwendet, einem OpenSource Framework zur Entwicklung von mobilen Anwendungen. Durch PhoneGap erfolgt die Entwicklung mit den Programmiersprachen bzw. Beschreibungssprachen HTML5, JavaScript und CSS3. Dem Framework liegen CSS- und JavaScript-Dateien für das iPhone Design bei. 
 

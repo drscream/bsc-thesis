@@ -16,13 +16,13 @@ Bei neueren Modellen besteht zum Teil die Möglichkeiten Anwendungen in der Prog
 
 ### PDAs
 
-Die persönlich digitalen Assistenten, kurz PDAs, sind eine Kombination aus den klassischen Mobiltelefonen und Computern. Sie bieten zur Telefonfunktion auch persönliche Kalender-, Adress- und Aufgabenverwaltung an. PDAs können zusätzlich Office-Dateien verarbeiten. Sie werden durch die Smartphones langsam vom Markt verdrängt. 
+Die persönlich digitalen Assistenten, kurz PDAs, sind eine Kombination aus den klassischen Mobiltelefonen und Computern. Sie bieten zur Telefonfunktion auch persönliche Kalender-, Adress-, und Aufgabenverwaltung an. PDAs können zusätzlich Office-Dateien verarbeiten. Sie werden durch die Smartphones langsam vom Markt verdrängt. 
 
 ### Smartphones
 
 Smartphones stellen die Computerfunktionalität auf einem Mobiltelefon zur Verfügung. Diese Geräte sind über die verschiedensten Telekommunikationsdienste, wie UMTS<span class="fn">Universal Mobile Telecommunications System</span>, HSDPA<span class="fn">High Speed Downlink Packet Access</span> oder Wireless-LAN, internetfähig.
 
-Sie sind durch ihre Konstruktion und Bedienung nicht zum Telefonieren optimiert, stattdessen ermöglichen sie die Verwendung von einer großen Anzahl an Anwendungen. Daher sind typische Merkmale ein großer Touchscreen und eine alphanumerische Tastatur. Die Tastatur befindet sich bei den meisten Modellen im Touchscreen. Der Benutzer hat daher bei der Eingabe, keine oder nur eine akustische Rückmeldung, was die Eingabe erschweren kann. 
+Sie sind durch ihre Konstruktion und Bedienung nicht primär zum Telefonieren optimiert, stattdessen ermöglichen sie die Verwendung von einer großen Anzahl an Anwendungen. Daher sind typische Merkmale ein großer Touchscreen und eine alphanumerische Tastatur. Die Tastatur befindet sich bei den meisten Modellen im Touchscreen. Der Benutzer hat daher bei der Eingabe, keine oder nur eine akustische Rückmeldung, was die Eingabe erschweren kann. 
 
 ### mobile Anwendungen
 
@@ -48,7 +48,7 @@ Aus der Sicht der Informatik, hat der Besitzer einen Online-Shop, dieser läuft 
 
 ### Technische Realisierungen
 
-Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jeder Schicht stellt einen Grad der Abstraktion dar und werden in diesem Abschnitt näher erläutert. <a href="#bartonb08"><cite>bartonb08</cite></a>
+Cloud-Computing wird in drei technische Schichten, in einen so genannten Cloud-Stack, aufgeteilt. Jeder Schicht stellt einen Grad der Abstraktion dar und wird in diesem Abschnitt näher erläutert. <a href="#bartonb08"><cite>bartonb08</cite></a>
 
 <div class="figure" id="cloud-technische-realisierungen">
 	<img src="http://up.frubar.net/1776/cloud-services-zielgruppen.svg" alt="cloud-technische-realisierungen" width="100%" />
@@ -79,7 +79,7 @@ Die Cloud wird meist, abhängig vom Anwendungsfall, in drei Organisationsformen 
 
 #### Private Cloud
 
-Die Anbieter und Nutzer der „Private Cloud“ stammen aus der selben Organisation oder dem selben Unternehmen. Daten innerhalb dieser Cloud sind nur der Organisation zugänglich und nicht außerhalb erreichbar, dies bietet einen großen Sicherheitsaspekt.
+Die Anbieter und Nutzer der „Private Cloud“ stammen aus der selben Organisation oder dem selben Unternehmen. Daten innerhalb dieser Cloud sind nur der Organisation zugänglich und nicht außerhalb erreichbar, dies bietet einen großen Sicherheitsaspekt. Ein bekanntes Beispiel für die „Private Cloud“ sind die Amazon Web Services<span class="fn"><a href="http://aws.amazon.com">Amazon Web Services</a></span>.
 
 #### Public Cloud
 
@@ -87,7 +87,7 @@ Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öf
 
 #### Hybrid Cloud
 
-Bei der „Hybrid Cloud“ handelt es sich um eine Mischung aus „Private und Public Cloud“. Eine Organisation verwendet eine „Private Cloud“ und wechselt im Fehlerfall oder bei hoher Belastung zur „Public Cloud“. 
+Bei der „Hybrid Cloud“ handelt es sich um eine Mischung aus „Private und Public Cloud“. Eine Organisation verwendet eine „Private Cloud“ und wechselt im Fehlerfall oder bei hoher Belastung zur „Public Cloud“, dies wird auch „Cloud-Bursting“<span class="fn"><a href="http://aws.typepad.com/aws/2008/08/cloudbursting-.html">Cloud-Bursting</a></span> genannt.
 
 ##  Virtualisierung
 
@@ -97,6 +97,10 @@ Für die Virtualisierung gibt es viele verschiedene Methoden, abhängig davon ob
 ### Hardware Virtualisierung
 
 Die virtuelle Maschine stellt dem Gastbetriebssystem Teilbereiche der Hardware in Form von virtueller Hardware zur Verfügung. Somit kann ein unverändertes Betriebssystem darauf in einer isolierten Umgebung laufen. Das Gastsystem muss hierbei für den gleichen CPU-Typ ausgelegt sein.
+
+### Emulation
+
+Im Gegensatz zur Hardware Virtualisierung wird dem Gastbetriebssystem die komplette Hardware simuliert. Es ist damit möglich beinahe jedes Betriebssystem in virtuellen Umgebung zu starten. Der CPU-Typ muss nicht dem des Hostsystems entsprechen.
 
 ### Paravirtualisierung
 
@@ -131,7 +135,7 @@ Zudem lassen sich folgende fünf Attribute für den Begriff Usability definieren
 	<li>**Effizienz**<br />Das System sollte effizient genutzt werden können, damit der Benutzer produktiv damit arbeiten kann, nachdem er es erlernt hat.</li>
 	<li>**Einprägsamkeit**<br />Das System sollte sich dem Benutzer leicht einprägen, damit er auch nach einer längeren Pause, in der der Benutzer das System nicht verwendet hat, es wieder verwenden kann ohne es neu lernen zu müssen.
 	<li>**Fehler**<br />Das System sollte wenige Fehler vom Benutzer zulassen, Fehler sollten sich leicht beheben lassen und schwerwiegende Fehler sollten gar nicht erscheinen.
-	<li>**Zufriedenheit**<br />Das System sollte angenehm bei der Verwendung sein, damit der Benutzer mit dem System zufrieden ist und es mag.</li>
+	<li>**Zufriedenheit**<br />Das System sollte angenehm bei der Verwendung sein, damit der Benutzer mit dem System zufrieden ist.</li>
 </ul>
 
 In dieser Arbeit bezieht sich der Begriff Usability nur auf die Gebrauchstauglichkeit von mobilen Anwendungen, nicht auf die Usability des Gerätes oder anderer Software.
@@ -144,7 +148,7 @@ Die große Anzahl an verschiedensten Usability-Regeln erschwert es die relevante
 
 #### Handlungsschritte nach Norman
 
-Schon 1988 veröffentlichte Donald Norman sein Buch „The Design of Everyday Things“ <cite><a href="#norman88">norman88</a></cite> welches sieben Handlungsschritte zum Erreichen eines Ziels beschreibt.
+Schon 1988 veröffentlichte Donald Norman sein Buch „The Design of Everyday Things“, <cite><a href="#norman88">norman88</a></cite> welches sieben Handlungsschritte zum Erreichen eines Ziels beschreibt.
 
 <div class="figure" id="sieben-handlungss-norman">
 	<img src="http://up.frubar.net/1762/sieben-handlungss-norman.svg" alt="Die sieben Handlungsschritte von Norman" width="70%" />
@@ -157,7 +161,7 @@ Aus den Handlungsschritten lassen sich zwei Handlungsphasen ableiten, die auftre
 	<li>Der **Gulf of Evaluation** stellt die Probleme zwischen Anzeige und Interpretation dar. Diese entsteht durch Fehlinterpretation, mangelhafte Darstellung oder Rückmeldung.</li>
 </ul>
 
-Die sieben Handlungsschritte nach Norman sind durchaus wichtig für die Entwicklung einer mobilen Anwendung. So ist zu beachten das der Benutzer stets eine Rückmeldung auf seine Aktion erhält. Ebenso soll ein, in sich stimmiges, Bedienkonzept existieren, da sonst die Unzufriedenheit des Benutzers erhöht wird. Im schlimmsten Fall würde der Benutzer die Anwendung nicht mehr verwenden.
+Die sieben Handlungsschritte nach Norman sind durchaus wichtig für die Entwicklung einer mobilen Anwendung. So ist zu beachten das der Benutzer stets eine Rückmeldung auf seine Aktion erhält. Ebenso soll ein, in sich stimmiges, Bedienkonzept existieren, da sonst die Unzufriedenheit des Benutzers erhöht wird. Im schlimmsten Fall würde der Benutzer die Anwendung nicht mehr verwenden oder neue Benutzer vom Kauf der Anwendung abhalten.
 
 #### Usability-Heuristik von Nielsen
 
@@ -176,7 +180,8 @@ Der Software-Ergonom Jakob Nielsen verfasste 1990 unter dem Titel „Improving a
 	<li><strong>Hilfe und Dokumentation</strong><br />Auch wenn das System ohne Hilfe und Dokumentation benutzbar ist, sollte eine Dokumentation und Hilfe immer zur Verfügung stehen.</li>
 </ul>
 
-Wie für jede Gestaltung von neuen Benutzerschnittstellen bieten die Usability-Heuristik von Nielsen auch eine gute Grundlage für die Entwicklung und das Design einer mobilen Anwendung.
+Für die Gestaltung von neuen Benutzerschnittstellen bieten die Usability-Heuristik von Nielsen eine gute Grundlage. Sie unterstützten die Entwicklung und das Design einer mobilen Anwendung.
+
 
 #### KISS - Keep it Simple and Straightforward
 
@@ -195,7 +200,7 @@ Durch die Besonderheit des mobilen Geräts gegenüber herkömmlichen Computern m
 
 #### Umgebung
 
-Es sollte immer bedacht werden, dass eine mobile Anwendung gerade Unterwegs zum Einsatz kommt. iPhones werden meist mit einer Hand verwendet und es wird nur mit einem kurzen Blick auf den Bildschirm geschaut. Wie die <a href="#iphone-umgebung"><i>Abbildung 6</i></a> zeigt, ist eine Anwendung überladen und werden zu viele Informationen dargestellt kann ein Benutzer diese nicht aufnehmen.
+Es sollte immer bedacht werden, dass eine mobile Anwendung gerade Unterwegs zum Einsatz kommt. iPhones werden meist mit einer Hand verwendet und es wird nur mit einem kurzen Blick auf den Bildschirm geschaut. Wie die <a href="#iphone-umgebung"><i>Abbildung 6</i></a> zeigt, ist eine Anwendung überladen und es werden zu viele Informationen dargestellt. Dem Benutzer ist es nicht möglich all diese Informationen aufzunehmen.
 
 <div class="figure" id="iphone-umgebung">
 	<img src="http://up.frubar.net/1753/iphone-umgebung.png" alt="iPhone Umgebung" width="70%" />
@@ -208,19 +213,20 @@ Durch die unterschiedlichen Lichtverhältnisse in der Umgebung muss auf ein star
 
 Der Bildschirm bei einem iPhone oder einem anderen Smartphone ist deutlich kleiner gegenüber einem Computer. Es ist daher kein Platz für unnötige Informationen die den Benutzer auf dem aktuellen Bildschirm nur irritieren könnten.
 
-Durch den kleineren Bildschirm können weniger Informationen auf einem Ausschnitt platziert werden, dadurch muss mit einer guten Navigation gearbeitet werden. Diese sollte nicht zu Tief in „verwinkelt“ sondern für den Benutzer intuitiv nutzbar sein.
+Durch den kleineren Bildschirm können weniger Informationen auf einem Ausschnitt platziert werden, dadurch muss mit einer guten Navigation gearbeitet werden. Diese sollte nicht zu Tief „verwinkelt“ sondern für den Benutzer intuitiv nutzbar sein.
 
 #### Touchscreen
 
 Da ein Touchscreen meist mit den Fingern und nicht mit der Maus bedient wird, sind einige Designaspekte zu beachten. 
 
-Die Finger oder der Handrücken überdecken, wie <a href="#iphone-daumen"><i>Abbildung 7</i></a> zeigt, bei der Navigation zum Teil die Anwendung. Die Hauptnavigation innerhalb einer Anwendung sollte daher am unteren linken Rand des Bildschirms angezeigt werden.
+Die Finger oder der Handrücken überdecken, wie <a href="#iphone-daumen"><i>Abbildung 7</i></a> zeigt, bei der Navigation zum Teil die Anwendung. Die Hauptnavigation innerhalb einer Anwendung sollte daher am oberen Rand des Bildschirms angezeigt werden. Am unteren Rand sollten sich Funktionstasten für die Anwendung befinden.
 
 <div class="figure" id="iphone-daumen">
 	<img src="http://up.frubar.net/1754/iphone-daumen.png" alt="iPhone Daumen" width="30%" />
+	<img src="http://up.frubar.net/1836/iphone-daumen-rechts.png" alt="iPhone Daumen rechts" width="30%" />
 	<p>Der Daumen bedeckt einen Großteil des Bildschirms <cite><a href="#tapworthy11">tapworthy11</a></cite></p>
 </div>
 
-Mit der vollwertigen QWERTZ-Tastatur, gegenüber der T9-Tastatur, ist es zwar einfacher Eingaben vorzunehmen aber es ist dennoch mühsam. Für den Benutzer sollte man daher die Eingaben so gering wie möglich halten.
+Mit der vollwertigen QWERTZ-Tastatur, gegenüber der T9-Tastatur, ist es zwar einfacher Eingaben vorzunehmen aber es ist dennoch mühsam. Für den Benutzer sollte man daher die Text-Eingaben so gering wie möglich halten.
 
 

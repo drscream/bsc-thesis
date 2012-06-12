@@ -48,10 +48,31 @@ Da durch CloudStack auf die libvirt-Schnittstelle aufgesetzt wird, ist es sinnvo
 
 ## Anwendungsfälle
 
-TODO:
-"in die konzeption würde ich auch workflows und use cases mit reinnehmen. also welche aufgaben können im detail mit der app erledigt werden. wie läuft der workflow der use cases ab.  welche schritte müssen getan werden, wieviele klicks sind es um das ziel zu erreichen. minmal und maximal
+Um die Aufgabe der Anwendung besser definieren zu können folgt ein Aufstellung der Funktionen die geboten werden sollen. Die genauen Schritte für den Benutzer werden in der Konzeptionsphase und im Story-Board beschrieben.
 
-vielleicht wäre auch ein IST-SOll zustandvergleich gut."
+<ul>
+	<li><strong>Cloud Server</strong><br />
+		Beim Cloud Server handelt es sich um das Host-System der virtuellen Server. Der Cloud Server stellt dem virtuellen Server Rechnerressourcen zur Verfügung.
+		<ul>
+			<li>Hinzufügen (Anzeigename, Hostname, Port, Benutzername, Kennwort)</li>
+			<li>Bearbeiten</li>
+			<li>Löschen</li>
+		</ul>
+	</li>
+	<li><strong>Virtueller Server</strong><br />
+		Virtuelle Server sind Gast-Systeme auf einem Cloud Server. Der Virtuelle Server erhält Rechnerressourcen vom Cloud Server.
+		<ul>
+			<li>Hinzufügen (Anzeigename, Rechnerressourcen)</li>
+			<li>Bearbeiten</li>
+			<li>Löschen</li>
+			<li>Anzeige Rechnerressourcen</li>
+			<li>Bearbeiten der Rechnerressourcen</li>
+			<li>Starten</li>
+			<li>Stoppen</li>
+			<li>Neustarten</li>
+		</ul>		
+	</li>
+</ul>
 
 ## Alternative Anwendungen
 
@@ -172,7 +193,7 @@ Für die Navigation befindet sich ein „Punkt“ am unteren Bildschirmrand. Üb
 			<td valign="top"><ul>
 					<li>Man muss durch alle Ebenen durchblättern; der Sprung zu einer speziellen Ebene ist nicht möglich</li>
 					<li>Mehr als 20 Ebenen können nicht angezeigt bzw. erstellt werden</li>
-					<li>Kein Scrollen möglich; somit keine langen Inhalte darstellbar</li>
+					<li>Nur geringes Scrollen möglich; somit nur teilweise langen Inhalte darstellbar</li>
 				</ul>
 			</td>
 		</tr>
@@ -213,7 +234,7 @@ In der Tab-Navigation befinden sich meist Menüpunkte auf die der Anwender sehr 
 
 ### Baum-Struktur
 
-Die Baum-Struktur ist eines der häufig benutzten Navigationsmodelle. Gerade wenn viele Menüpunkte oder Ebenen benötigt werden kommt diese Struktur zum Einsatz. Eine sorgfältige Planung, welche Ebene nach welchem Menüpunkt kommt, ist zwingend erforderlich. Sonst kann es schnell sein, dass sich ein Benutzer nicht mehr in der Struktur zurecht findet.
+Die Baum-Struktur ist eines der häufig benutzten Navigationsmodelle. Gerade wenn viele Menüpunkte oder Ebenen benötigt werden kommt diese Struktur zum Einsatz. Eine sorgfältige Planung, welche Ebene nach welchem Menüpunkt kommt, ist zwingend erforderlich. Andernfalls kann es schnell sein, dass sich ein Benutzer nicht mehr in der Struktur zurecht findet.
 
 <div class="figure" id="nav-tree">
 	<img src="http://up.frubar.net/1794/nav-tree.png" alt="nav-tree" width="100%" />
@@ -247,7 +268,7 @@ Bei diesen Anwendungen ist meist die erste Ebene eine Übersichtsebene in Tabell
 
 Meist findet eine Kombination aus zwei Navigationsmodellen statt, wie die Abbildung 18 von Apple Mail zeigt. Durch dies können mehrere Vorteile der unterschiedlichen Modelle genutzt werden.
 
-Bei der Apple Mail Anwendung wird die „Tab-Navigation“ verkleinert, so das nur Symbole angezeigt werden. Dem Benutzer ist es dadurch möglich schnell auf seine wichtigsten Funktionen zuzugreifen ohne einen Großteil seines Bildschirms einzuschränken.
+Bei der Apple Mail Anwendung wird die „Tab-Navigation“ verkleinert, so das nur Symbole angezeigt werden. Hierbei handelt es sich um eine abgewandelte Form der Navigation und kann als Aktions-Buttons verstanden werden. Dem Benutzer ist es dadurch möglich schnell auf seine wichtigsten Funktionen zuzugreifen ohne einen Großteil seines Bildschirms einzuschränken.
 
 ## Darstellung des Inhalts
 
@@ -312,7 +333,7 @@ Dieser Abschnitt bezieht sich explizit auf die Umsetzung der mobilen Anwendung z
 
 ### Name
 
-Bei der Wahl des Namens ist zu beachten, dass nur begrenzt Platz auf dem Bildschirm und unterhalb des Logos ist. Da Apple zwischen dem Namen auf dem iPhone und dem im App Store unterscheidet, können zwei unterschiedliche Namen gewählt werden. So sollte der Name für das iPhone kurz und prägnant sein der Name für den App Store aber mehr Beschreiben.
+Bei der Wahl des Namens ist zu beachten, dass nur begrenzt Platz auf dem Bildschirm und unterhalb des Logos ist. Da Apple zwischen dem Namen auf dem iPhone und dem im App Store unterscheidet, können zwei unterschiedliche Namen gewählt werden. So sollte der Name für das iPhone kurz und prägnant sein, der Name für den App Store mehr Beschreiben.
 
 Namen die auf dem iPhone zu lang sind, werden automatisch in der Mitte gekürzt. Dadurch wird aus „Cloud infrastructure control via libvirt“,  „Cloud...bvirt“, was für den Benutzer nicht aussagekräftig ist. Von vielen Anwendungen wird daher ein allgemeiner Name auf dem iPhone verwendet, so wird aus „Dragon Dictation“ nur „Dictation“ oder aus „Al Jazeera English“, „AJE Live“.
 
@@ -322,7 +343,7 @@ Folgende Kurznamen standen während der Identitätsbildung zur Auswahl:
 	<li>**libvirt Control**<br />Verwaltung der verwendeten Technologie ist erkennbar.</li>
 	<li>**libvirt Cloud**<br />Verwaltung der verwendeten Technologie ist erkennbar. Aber nicht das es sich um eine Anwendung zur Verwaltung dieser handelt.</li>
 	<li>**InfraCloud**<br />Durch „Infra“ ist teilweise die Infrastruktur Cloud ersichtlich.</li>
-	<li>**virtCloud**<br />Die Worte „Cloud“ und „virt“ für Virtuell können fast gleich gesetzt werden. Daher ist die Beschreibung quasi doppelt.</li>
+	<li>**virtCloud**<br />Die Worte „Cloud“ und „virt“ für Virtuell können fast gleich gesetzt werden. Daher ist die Beschreibung redundant.</li>
 </ul>
 
 Nach Absprache und Analyse wurde der Name „Cloud Control“ als aussagekräftigster Name ausgewählt. Die verwendete Technologie kann in der Beschreibung oder im Namen für den App Store angezeigt werden. Als Name für den App Store wird daher „Cloud Control &ndash; manage your libvirt infrastructure“ verwendet.
@@ -393,7 +414,7 @@ Ziel des Tests ist es Unstimmigkeiten in der Navigation und Handhabung der Anwen
 
 Für den Zweck des Usability-Tests wurde mit drei Mitarbeitern (männlich, Alter 20-30) ein Thinking-Aloud Test<span class="fn"><a href="http://www.useit.com/alertbox/thinking-aloud-tests.html">Thinking Aloud Test</a></span> durchgeführt. Die Mitarbeiter haben Vorkenntnisse über Smartphones, mobile Anwendungen und kennen das Bedienkonzept des iPhones.
 
-Jeder Mitarbeiter wird einzeln befragt und erhält während der Testphase Aufgaben die er an Prototypen durchführen soll. Es wurden zwei Prototypen betrachtet:
+Jeder Mitarbeiter wird einzeln befragt und erhält während der Testphase Aufgaben die er an Prototypen durchführen soll. Es werden zwei Prototypen betrachtet:
 <ul>
 	<li>**Prototyp 1**: Mock-up auf Papier</ul>
 	<li>**Prototyp 2**: Anwendung auf dem iPhone</ul>

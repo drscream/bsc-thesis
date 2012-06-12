@@ -5,7 +5,7 @@ Der Auftraggeber und Träger dieses Projekts ist die IT Abteilung der Avira Oper
 
 Die Avira ist mit rund 100 Millionen Kunden und 500 Mitarbeitern ein weltweit führender Anbieter selbst entwickelter Sicherheitslösungen für den professionellen und privaten Einsatz. Das Unternehmen gehört mit mehr als 25-jähriger Erfahrung zu den Pionieren in diesem Bereich.
 
-Als führender deutscher Sicherheitsspezialist verfügt Avira über fundierte Erfahrung im Entwickeln und Supporten ihrer Lösungen. Neben Programmen direkt für den Einzelplatzbetrieb bietet sie, hauptsächlich professionelle, Lösungen für systemübergreifenden Schutz von Netzwerken auf verschiedenen Ebenen an. Hierzu zählen unter anderem Produkte für Workstations, File-, Mail- und Web-Server. Auch Gateway-Rechner können, wie Arbeitsplatzrechner, über eine zentrale Verwaltungskonsole betriebssystemübergreifend verwaltet werden. Zu den Verwaltungsprodukten der einzelnen Lösungen kommen noch Sicherheitsprogramme für PDAs, Smartphones und Embedded Devices hinzu. Ein signifikanter Sicherheitsbeitrag ist Avira AntiVir Personal, das millionenfach bei Privatanwendern im Einsatz ist.
+Als führender deutscher Sicherheitsspezialist verfügt Avira über fundierte Erfahrung im Entwickeln und Unterstützung ihrer Lösungen. Neben Programmen direkt für den Einzelplatzbetrieb bietet sie, hauptsächlich professionelle, Lösungen für systemübergreifenden Schutz von Netzwerken auf verschiedenen Ebenen an. Hierzu zählen unter anderem Produkte für Workstations, File-, Mail- und Web-Server. Auch Gateway-Rechner können, wie Arbeitsplatzrechner, über eine zentrale Verwaltungskonsole betriebssystemübergreifend verwaltet werden. Zu den Verwaltungsprodukten der einzelnen Lösungen kommen noch Sicherheitsprogramme für PDAs, Smartphones und Embedded Devices hinzu. Ein signifikanter Sicherheitsbeitrag ist Avira AntiVir Personal, das millionenfach bei Privatanwendern im Einsatz ist.
 
 Avira ist in Tettnang am Bodensee einer der größten regionalen Arbeitgeber. Sie unterhält mehrere Unternehmensstandorte in Deutschland und pflegt Partnerschaften in Europa, Asien und Amerika. Mehrere Dutzend Virus-Researcher in verteilten Virenlabors kümmern sich, rund um die Uhr, um die lokalen und globalen Bedrohungen der Virenfront. Bestätigt wird diese Arbeit etwa durch mehrfache Testauszeichnungen mit dem VB 100% des Virus Bulletin<span class="fn"><a href="http://www.virusbtn.com">Virus Bulletin</a></span> oder der wiederholten TÜV-Zertifizierung.
 
@@ -31,7 +31,7 @@ Jeder IT Mitarbeiter der Avira besitzt ein iPhone und soll, falls möglich, schn
 
 Erfahrungen der Mitarbeiter zeigen, dass nicht die Dienste selbst das Problem sind, sondern oftmals eine Störung am virtuellen Server vorliegt. So muss, unter anderem, bei hoher Last des Servers mehr Arbeitsspeicher oder mehrere CPUs hinzugeschaltet werden. Da ein Smartphone leichter zu transportieren ist als ein Notebook, bietet sich eine mobile Anwendung für die Steuerung der Cloud Systeme an.
 
-Zum aktuellen Zeitpunkt steht noch keine mobile Anwendung zur Verfügung das die Verwaltung der Server ermöglicht.
+Zum aktuellen Zeitpunkt steht noch keine mobile Anwendung zur Verfügung, welche die Verwaltung der Server ermöglicht.
 
 ## Zielsetzung
 
