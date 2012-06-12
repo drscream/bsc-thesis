@@ -357,7 +357,7 @@ Folgende Kurznamen standen während der Identitätsbildung zur Auswahl:
 	<li>**virtCloud**<br />Die Worte „Cloud“ und „virt“ für Virtuell können fast gleich gesetzt werden. Daher ist die Beschreibung redundant.</li>
 </ul>
 
-Nach Absprache und Analyse wurde der Name „Cloud Control“ als aussagekräftigster Name ausgewählt. Die verwendete Technologie kann in der Beschreibung oder im Namen für den App Store angezeigt werden. Als Name für den App Store wird daher „Cloud Control &ndash; manage your libvirt infrastructure“ verwendet.
+Nach Absprache und Analyse mit den Mitarbeitern der IT Abteilung wurde der Name „Cloud Control“ als aussagekräftigster Name ausgewählt. Die verwendete Technologie kann in der Beschreibung oder im Namen für den App Store angezeigt werden. Als Name für den App Store wird daher „Cloud Control &ndash; manage your libvirt infrastructure“ verwendet.
 
 ---
 

@@ -3,7 +3,7 @@
 
 Der Auftraggeber und Träger dieses Projekts ist die IT Abteilung der Avira Operations GmbH & Co. KG<span class="fn"><a href="http://www.avira.com">Avira Operations GmbH & Co. KG</a></span>. (im Folgenden Avira genannt). Die IT Abteilung versteht sich als serviceorientierter Dienstleister für Avira, der Kunde und die Verfügbarkeit der Dienste liegen somit im Mittelpunkt.
 
-Die Avira ist mit rund 100 Millionen Kunden und 500 Mitarbeitern ein weltweit führender Anbieter selbst entwickelter Sicherheitslösungen für den professionellen und privaten Einsatz. Das Unternehmen gehört mit mehr als 25-jähriger Erfahrung zu den Pionieren in diesem Bereich.
+Die Avira ist mit rund 100 Millionen Kunden und 500 Mitarbeitern ein weltweit führender Anbieter selbst entwickelter Sicherheitslösungen für den kommerziellen und privaten Einsatz. Das Unternehmen gehört mit mehr als 25-jähriger Erfahrung zu den Pionieren in diesem Bereich.
 
 Als führender deutscher Sicherheitsspezialist verfügt Avira über fundierte Erfahrung im Entwickeln und Unterstützung ihrer Lösungen. Neben Programmen direkt für den Einzelplatzbetrieb bietet sie, hauptsächlich professionelle, Lösungen für systemübergreifenden Schutz von Netzwerken auf verschiedenen Ebenen an. Hierzu zählen unter anderem Produkte für Workstations, File-, Mail- und Web-Server. Auch Gateway-Rechner können, wie Arbeitsplatzrechner, über eine zentrale Verwaltungskonsole betriebssystemübergreifend verwaltet werden. Zu den Verwaltungsprodukten der einzelnen Lösungen kommen noch Sicherheitsprogramme für PDAs, Smartphones und Embedded Devices hinzu. Ein signifikanter Sicherheitsbeitrag ist Avira AntiVir Personal, das millionenfach bei Privatanwendern im Einsatz ist.
 
