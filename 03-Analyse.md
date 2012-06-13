@@ -222,7 +222,7 @@ Für die Navigation befindet sich ein „Punkt“ am unteren Bildschirmrand. Üb
 
 Am unteren Rand des Bildschirms befindet sich eine Tab-Navigation, ähnlich die eines Browsers. Im Gegensatz zu den „Tabs“ im Browser sind diese fest in der Anwendung verankert. Sie bietet auch maximal Platz für fünf Symbole.
 
-<div class="figure" id="nav-flat">
+<div class="figure" id="nav-tab">
 	<img src="http://up.frubar.net/1791/nav-tap.png" alt="nav-tap" width="33%" style="padding-right: 1.5em;" />
 	<img src="http://up.frubar.net/1793/nav-tap-instagram.png" alt="nav-flat-first" width="33%" />
 	<p>Screenshot des App Stores und der Instagram „App“</p>
