@@ -218,6 +218,13 @@ pre {
 	counter-increment: listings;
 }
 
+.table {
+	counter-increment: tables;
+}
+.table > p::before {
+	content: "Tabelle " counter(tables) ": "
+}
+
 code {
 	font: 0.7em/1.28 'Monaco';
 	letter-spacing: 0.06em;

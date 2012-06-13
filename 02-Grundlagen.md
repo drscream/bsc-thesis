@@ -39,12 +39,12 @@ Die Cloud ist ein umschreibender Begriff für den Ansatz IT Infrastruktur, wie z
 Vereinfach kann man sich die Cloud wie folgt vorstellen: Man besitzt ein Online-Kleidergeschäft, mit zwei Mitarbeitern. Diese Mitarbeiter pflegen die Seite, verpacken und versenden die Ware. Während dem Jahr können die zwei Mitarbeiter alle Kunden jederzeit bedienen und es kommt zu keinen Engpässen. Über die Weihnachtszeit ist der Andrang aber so hoch, dass Kunden ihre Kleidung nicht rechtzeitig erhalten, da dass verpacken viel zu lange dauert. <br />
 Nun gibt es für den Besitzer drei Möglichkeiten. Er stellt einen weiteren Mitarbeiter ein, den er aber ein ganzes Jahr beschäftigen müsste und zum Teil nicht ausgelastet ist. Die zweite Möglichkeit wäre, dass der Besitzer auf den Mehrumsatz verzichtet. Oder der Besitzer wendet sich für diese Zeit an einen Dienstleister der das verpacken und versenden für Ihn übernimmt.
 
-Aus der Sicht der Informatik, hat der Besitzer einen Online-Shop, dieser läuft auf einem Server. Für die üblichen Benutzerzahlen im Jahr ist dieser Server völlig ausreichend, jedoch steigt die Zugriffszahlen über die Weihnachtszeit. Statt einen weiteren Server zu kaufen, der jährlich Geld kostet, mietet sich der Besitzer für eine geringe Zeitspanne weitere Rechnerressourcen in der Cloud.
-
 <div class="figure" id="cloud-computing-diagram">
 	<img src="http://up.frubar.net/1758/cloud_computing_diagram.jpg" alt="Cloud Computing Diagram" width="80%" />
 	<p>Elemente des Cloud-Computing</p>
 </div>
+
+Aus der Sicht der Informatik, hat der Besitzer einen Online-Shop, dieser läuft auf einem Server. Für die üblichen Benutzerzahlen im Jahr ist dieser Server völlig ausreichend, jedoch steigt die Zugriffszahlen über die Weihnachtszeit. Statt einen weiteren Server zu kaufen, der jährlich Geld kostet, mietet sich der Besitzer für eine geringe Zeitspanne weitere Rechnerressourcen in der Cloud.
 
 ### Technische Realisierungen
 
@@ -161,11 +161,11 @@ Aus den Handlungsschritten lassen sich zwei Handlungsphasen ableiten, die auftre
 	<li>Der **Gulf of Evaluation** stellt die Probleme zwischen Anzeige und Interpretation dar. Diese entsteht durch Fehlinterpretation, mangelhafte Darstellung oder Rückmeldung.</li>
 </ul>
 
-Die sieben Handlungsschritte nach Norman sind durchaus wichtig für die Entwicklung einer mobilen Anwendung. So ist zu beachten das der Benutzer stets eine Rückmeldung auf seine Aktion erhält. Ebenso soll ein, in sich stimmiges, Bedienkonzept existieren, da sonst die Unzufriedenheit des Benutzers erhöht wird. Im schlimmsten Fall würde der Benutzer die Anwendung nicht mehr verwenden oder neue Benutzer vom Kauf der Anwendung abhalten.
+Die sieben Handlungsschritte nach Norman sind durchaus wichtig für die Entwicklung einer mobilen Anwendung. So ist zu beachten das der Benutzer stets eine Rückmeldung auf seine Aktion erhält. Ebenso soll ein, in sich stimmiges, Bedienkonzept existieren, da sonst die Unzufriedenheit des Benutzers erhöht wird. Im schlimmsten Fall würde der Benutzer die Anwendung nicht mehr verwenden oder neue Benutzer vom Kauf der Anwendung abhalten. <cite><a href="#norman88">norman88</a></cite>
 
 #### Usability-Heuristik von Nielsen
 
-Der Software-Ergonom Jakob Nielsen verfasste 1990 unter dem Titel „Improving a Human-Computer Dialogue“ zehn Prinzipen, welche als Kategorien für die Usability-Probleme dienten. Heutzutage findet diese Heuristik Anwendung in der Gestaltung von neuen Benutzerschnittstellen. <cite><a href="#nie93">nie93</a></cite> <cite><a href="#niemo90">niemo90</a></cite> 
+Der Software-Ergonom Jakob Nielsen verfasste 1990 unter dem Titel „Improving a Human-Computer Dialogue“ zehn Prinzipen, welche als Kategorien für die Usability-Probleme dienten. Heutzutage findet diese Heuristik Anwendung in der Gestaltung von neuen Benutzerschnittstellen. 
 
 <ul>
 	<li><strong>Einfache und natürliche Dialoge</strong><br />Dialoge sollen nur die nötigsten Informationen beinhalten. Alle weiteren Informationen, die nicht relevant sind, verringern die Wichtigkeit der nötigen Informationen. Die Darstellung soll natürlich und logisch sein.</li>
@@ -180,7 +180,7 @@ Der Software-Ergonom Jakob Nielsen verfasste 1990 unter dem Titel „Improving a
 	<li><strong>Hilfe und Dokumentation</strong><br />Auch wenn das System ohne Hilfe und Dokumentation benutzbar ist, sollte eine Dokumentation und Hilfe immer zur Verfügung stehen.</li>
 </ul>
 
-Für die Gestaltung von neuen Benutzerschnittstellen bieten die Usability-Heuristiken von Nielsen eine gute Grundlage. Sie unterstützten die Entwicklung und das Design einer mobilen Anwendung.
+Für die Gestaltung von neuen Benutzerschnittstellen bieten die Usability-Heuristiken von Nielsen eine gute Grundlage. Sie unterstützten die Entwicklung und das Design einer mobilen Anwendung. <cite><a href="#nie93">nie93</a></cite> <cite><a href="#niemo90">niemo90</a></cite>
 
 
 #### KISS - Keep it Simple and Straightforward

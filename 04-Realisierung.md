@@ -87,17 +87,19 @@ Balsamiq Mockups bietet viele gestalterische Möglichkeiten eine iPhone Anwendun
 
 Die Entwicklung einer iPhone Anwendung erfolgt mit XCode und in der Programmiersprache Objective-C<span class="fn"><a href="http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html">Objective-C</a></span>. Bei XCode handelt es sich um die Entwicklungsumgebung von Apple und diese bietet auch Simulatoren für iPhone oder iPad an. Bei Objective-C handelt es sich um eine Erweiterung der Programmiersprache C um Sprachmittel zur objektorientierten Programmierung.
 
-Durch die komplexe Programmiersprache dauert es sehr lange einen Prototypen zu entwickelt. Der von XCode verwendete Designer, zur Gestaltung der Benutzeroberfläche, ist für einen Prototyp nicht ausreichend, da weiterhin Objective-C auch für kleine Anpassungen benötigt wird.
+Durch die komplexe Programmiersprache dauert es sehr lange einen Prototypen zu entwickeln. Der von XCode verwendete Designer, zur Gestaltung der Benutzeroberfläche, ist für einen Prototyp nicht ausreichend, da weiterhin Objective-C auch für kleine Anpassungen benötigt wird.
 
 Als Alternative zur Realisierung wird PhoneGap verwendet, einem OpenSource Framework zur Entwicklung von mobilen Anwendungen. Durch PhoneGap erfolgt die Entwicklung mit den Programmiersprachen bzw. Beschreibungssprachen HTML5, JavaScript und CSS3. Dem Framework liegen CSS- und JavaScript-Dateien für das iPhone Design bei. 
 
-Bei PhoneGap handelt es sich um ein Erweiterung für XCode. Die entwickelte Anwendung bleibt somit eine native iPhone „App“. 
+Bei PhoneGap handelt es sich um eine Erweiterung für XCode. Die entwickelte Anwendung bleibt somit eine native iPhone „App“. 
 
 <div class="figure" id="phonegap-versions">
 	<img src="http://up.frubar.net/1826/cc-phonegap-first.png" alt="-phonegap-first" width="35%" style="padding-right: 1.5em;"/>
 	<img src="http://up.frubar.net/1827/cc-phonegap-add-new.png" alt="cc-phonegap-add-new" width="35%"/>
 	<p>Erste Versionen entwickelt mit PhoneGap</p>
 </div>
+
+---
 
 Da PhoneGap JavaScript verwendet, ist es möglich direkt auf die Node.js API zuzugreifen. Die API liefert die Daten als JSON zurück, was direkt von JavaScript interpretiert werden kann. 
 

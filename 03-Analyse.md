@@ -11,11 +11,11 @@ Die ersten Abschnitte beziehen sich auf die Projektplanung, wie die Definition d
 
 ## Zielgruppe
 
-Die Definition der Zielgruppe und die Abfragen der Interessen der Anwender ist entscheidet für die Realisierung einer guten Anwendung.
+Die Definition der Zielgruppe und die Abfragen der Interessen der Anwender ist entscheidend für die Realisierung einer guten Anwendung.
 
 ### Brainstorming
 
-Um die Zielgruppe und deren Anforderungen besser spezifizieren zu können, wurde in einem Meeting aller Mitglieder der Abteilung, ein Brainstorming abgehalten. Durch dieses Verfahren war es einfacher möglich eine genaue Definition zu erstellen.
+Um die Zielgruppe und deren Anforderungen besser spezifizieren zu können, wurde in einem Meeting allen Mitglieder der Abteilung, ein Brainstorming abgehalten. Durch dieses Verfahren war es einfacher möglich eine genaue Ziel-Definition zu erstellen.
 
 Mit der in <a href="#zielgruppe-brainstorming"><i>Abbildung 8</i></a> erstellten Mindmap konnte eine Definition abgeleitet werden. Für eine bessere kreative Arbeit wurde das Brainstorming aber mit Papier und Stift erstellt. Das Original befindet sich in der Anlage.
 
@@ -30,6 +30,8 @@ Mit der in <a href="#zielgruppe-brainstorming"><i>Abbildung 8</i></a> erstellten
 Die Zielgruppe für das Projekt umfasst Mitarbeiter einer IT Abteilung. Diese Mitarbeiter sind erfahrene IT Administratoren für die Betriebssysteme Linux und Windows. Sie sind vertraut mit der Handhabung eines Smartphones, insbesondere iPhones.
 
 Den Benutzern ist die Verwendung von virtuellen Servern in einer Cloud-Landschaft bekannt. Die Technologie libvirt und Linux KVM im Zusammenhang mit Hardware-Virtualisierung ist ein Begriff.
+
+---
 
 ## Ist-Zustandsanalyse
 
@@ -60,7 +62,7 @@ Um die Aufgabe der Anwendung besser definieren zu können folgt ein Aufstellung 
 		</ul>
 	</li>
 	<li><strong>Virtueller Server</strong><br />
-		Virtuelle Server sind Gast-Systeme auf einem Cloud Server. Der Virtuelle Server erhält Rechnerressourcen vom Cloud Server.
+		Virtuelle Server sind Gast-Systeme auf einem Cloud Server. Der virtuelle Server erhält Rechnerressourcen vom Cloud Server.
 		<ul>
 			<li>Hinzufügen (Anzeigename, Rechnerressourcen)</li>
 			<li>Bearbeiten</li>
@@ -101,7 +103,7 @@ Die Anwendung „iSSH - SSH / VNC Console“ bietet IT Administratoren die Mögl
 	<p>iSSH Kategorisierung und Übersicht der Server</p>
 </div>
 
-Das sortieren von Servern in verschiedene Kategorien bzw. Ordner bietet eine hohe Übersichtlichkeit. Durch grüne oder rote Punkte wird Angezeigt ob ein Server erreichbar ist. Somit hat der Benutzer eine direkte Rückmeldung ob er sich zum Server verbinden kann.
+Das sortieren von Servern in verschiedene Kategorien bzw. Ordner bietet eine hohe Übersichtlichkeit. Durch grüne oder rote Punkte wird Angezeigt ob ein Server erreichbar ist. Somit hat der Benutzer eine direkte Rückmeldung, ob er sich zum Server verbinden kann.
 
 Einige Nachteile bieten die vielen Einstellungsmöglichkeiten auf der Übersichtsseite (<a href="#issh-overview"><i>Abbildung 10</i></a>, linkes Bild). Die „General Settings“, „Add Configuration“ und „Add Grouping“ wären an der Unterseite des Bildschirms oder in den iPhone Einstellungen besser aufgehoben.
 
@@ -127,19 +129,19 @@ Es gibt viele verschiedene Situationen in denen eine iPhone Anwendung Verwendung
 
 Ein Großteil der Anwendungen in dieser Kategorie sind zur Terminplanung, Aufgabenverwaltung oder Administration. Sie dienen der Produktivitätssteigerung und somit zum effektiven lösen von Problemen.
 
-Die Anwendungen „Kalender“ oder „Things“, die zur Verwaltung von Terminen und Aufgaben dienen, sind zum Anlegen von neuen Terminen oder Aufgaben optimiert. Hierfür befindet sich auf jedem Bildschirm ein Plus („+“), wie in der <a href="#microtasking"><i>Abbildung 12</i></a> zu sehen.
-
 <div class="figure" id="microtasking">
 	<img src="http://up.frubar.net/1780/microtasking-cal.png" alt="microtasking-cal" width="35%" style="padding-right: 1.5em;"/>
 	<img src="http://up.frubar.net/1781/microtasking-things.png" alt="microtasking-things" width="35%" />
 	<p>Screenshot des Kalender und Things „App“</p>
 </div>
 
+Die Anwendungen „Kalender“ oder „Things“, die zur Verwaltung von Terminen und Aufgaben dienen, sind zum Anlegen von neuen Terminen oder Aufgaben optimiert. Hierfür befindet sich auf jedem Bildschirm ein Plus („+“), wie in der <a href="#microtasking"><i>Abbildung 12</i></a> zu sehen.
+
 Die mobile Anwendung zur Verwaltung der Cloud Infrastruktur fällt in diese Kategorie.
 
 ### „Was ist in meiner Umgebung?“
 
-Hierbei handelt es sich Hauptsächlich um Anwendungen die auf Kartenmaterial, beziehungsweise auf Sensoren des iPhones, zugreifen. Im Vordergrund der Anwendungen steht die Navigation und das Mitteilungsbedürfnis des Benutzers. 
+Hierbei handelt es sich hauptsächlich um Anwendungen die auf Kartenmaterial, beziehungsweise auf Sensoren des iPhones, zugreifen. Im Vordergrund der Anwendungen steht die Navigation und das Mitteilungsbedürfnis des Benutzers. 
 
 <div class="figure" id="local">
 	<img src="http://up.frubar.net/1787/local-map.png" alt="local-map" width="35%" style="padding-right: 1.5em;"/>
@@ -149,7 +151,7 @@ Hierbei handelt es sich Hauptsächlich um Anwendungen die auf Kartenmaterial, be
 
 ### „Mir ist Langweilig“
 
-In diese Kategorie fallen sowohl Spiele als auch Tools wie das Musik „App“. Diese sind auch die beliebteste Kategorie<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/166976/umfrage/beliebteste-kategorien-im-app-store/">Statista, Top 15 Kategorien im App Store (2012)</a></span> im App Store. Die Beliebtheit wird nach den Anteil aller verfügbaren „Apps“ im App Store gemessen.
+In diese Kategorie fallen sowohl Spiele als auch Tools wie das „Musik App“. Diese sind auch die beliebteste Kategorie<span class="fn"><a href="http://de.statista.com/statistik/daten/studie/166976/umfrage/beliebteste-kategorien-im-app-store/">Statista, Top 15 Kategorien im App Store (2012)</a></span> im App Store. Die Beliebtheit wird nach dem Anteil aller verfügbaren „Apps“ im App Store gemessen.
 
 Wie auf dem Screenshot <a href="#bored"><i>Abbildung 14</i></a> zu erkennen ist, hat das Spiel „Angry Birds“ keine iPhone Navigationselemente. Spiele nehmen meist den gesamten Bildschirm ein und verwenden ihre eigenen Symbole für die Navigation. Sogar die Statusbar mit der Empfangsanzeige, Uhrzeit und der Batterieanzeige werden ausgeblendet.
 
@@ -177,18 +179,21 @@ Der Aufbau der Navigation hängt von der Aufgabe der Anwendung ab, wie der vorhe
 	<p>Navigationsmodelle (von links) - Ebenen, Tab-Navigation, Baum-Struktur</p>
 </div>
 
+---
+
 ### Ebenen
 
 Die einzelnen Ebenen lassen sich am besten mit Spielkarten, die sich auf einem Stapel befinden, vergleichen. Auf allen Ebenen ist der Inhalt meist im selben Stil aufbereitet, somit findet dieses Navigationsmodel meist bei Tools und kleinen Anwendungen Verwendung.
 
 <div class="figure" id="nav-flat">
-	<img src="http://up.frubar.net/1792/nav-flat-first.png" alt="nav-flat-first" width="35%" style="padding-right: 1.5em;"/>
-	<img src="http://up.frubar.net/1790/nav-flat.png" alt="nav-flat" width="35%" />
+	<img src="http://up.frubar.net/1792/nav-flat-first.png" alt="nav-flat-first" width="33%" style="padding-right: 1.5em;"/>
+	<img src="http://up.frubar.net/1790/nav-flat.png" alt="nav-flat" width="33%" />
 	<p>Screenshot der Wetter „App“</p>
 </div>
 
 Für die Navigation befindet sich ein „Punkt“ am unteren Bildschirmrand. Über diesen ist ersichtlich auf welcher Ebene man sich gerade befindet. Die Navigation erfolgt durch das verschieben der Ebenen von links nach rechts mit einem Finger.
 
+<div class="table" id="nav-flat-table">
 <table>
 	<thead>
 		<tr><th style="width: 50%;">Vorteile</th><th>Nachteile</th></tr>
@@ -210,19 +215,22 @@ Für die Navigation befindet sich ein „Punkt“ am unteren Bildschirmrand. Üb
 		</tr>
 	</tbody>
 </table>
+<p>Vorteile und Nachteile für das Navigationsmodell Ebenen</p>
+</div>
 
 ### Tab-Navigation
 
 Am unteren Rand des Bildschirms befindet sich eine Tab-Navigation, ähnlich die eines Browsers. Im Gegensatz zu den „Tabs“ im Browser sind diese fest in der Anwendung verankert. Sie bietet auch maximal Platz für fünf Symbole.
 
 <div class="figure" id="nav-flat">
-	<img src="http://up.frubar.net/1791/nav-tap.png" alt="nav-tap" width="35%" style="padding-right: 1.5em;" />
-	<img src="http://up.frubar.net/1793/nav-tap-instagram.png" alt="nav-flat-first" width="35%" />
+	<img src="http://up.frubar.net/1791/nav-tap.png" alt="nav-tap" width="33%" style="padding-right: 1.5em;" />
+	<img src="http://up.frubar.net/1793/nav-tap-instagram.png" alt="nav-flat-first" width="33%" />
 	<p>Screenshot des App Stores und der Instagram „App“</p>
 </div>
 
 In der Tab-Navigation befinden sich meist Menüpunkte auf die der Anwender sehr schnell oder häufig zugreifen muss. So bietet sie bei der Anwendung „App Store“ die Suchfunktion, Kategorien oder verfügbare Updates an.
 
+<div class="table" id="nav-tab-table">
 <table>
 	<thead>
 		<tr><th style="width: 50%;">Vorteile</th><th>Nachteile</th></tr>
@@ -242,6 +250,8 @@ In der Tab-Navigation befinden sich meist Menüpunkte auf die der Anwender sehr 
 		</tr>
 	</tbody>
 </table>
+<p>Vorteile und Nachteile für die Tab-Navigation</p>
+</div>
 
 ### Baum-Struktur
 
@@ -254,6 +264,7 @@ Die Baum-Struktur ist eines der häufig benutzten Navigationsmodelle. Gerade wen
 
 Bei diesen Anwendungen ist meist die erste Ebene eine Übersichtsebene in Tabellenform, wodurch dann zu weiteren Ebenen navigiert werden kann. Im obersten Teil des Bildschirms befindet sich die Navigation um zur vorherigen Ebene zurückzukehren. 
 
+<div class="table" id="nav-tree-table">
 <table>
 	<thead>
 		<tr><th style="width: 50%;">Vorteile</th><th>Nachteile</th></tr>
@@ -274,6 +285,8 @@ Bei diesen Anwendungen ist meist die erste Ebene eine Übersichtsebene in Tabell
 		</tr>
 	</tbody>
 </table>
+<p>Vorteile und Nachteile für das Baum-Struktur Navigationsmodell</p>
+</div>
 
 ### Kombination der Navigationsmodelle
 
@@ -307,6 +320,7 @@ Aus folgenden Gründen kommt die Darstellung in Tabellenform zum Einsatz:
 Durch bestimmte Symbole an der rechten Seite ist erkennbar ob es sich um ein Navigationselement handelt. Die Schriftfarbe blau zeigt an, ob sich der Inhalt des Elements ändern lässt oder ggf. dynamisch ändert.
 
 Drei der Standart Symbole sind wie folgt erklärt:
+<div class="table" id="table-symbols">
 <table>
 	<tr>
 		<td valign="middle" align="center"><img src="http://up.frubar.net/1803/view-table-icon_disclosure.png" /></td>
@@ -321,6 +335,8 @@ Drei der Standart Symbole sind wie folgt erklärt:
 		<td>Check-Box Symbol; durch Tippen auf das Element wird die Check-Box aktiviert oder deaktiviert.</td>
 	</tr>
 </table>
+<p>iPhone Standart Symbole</p>
+</div>
 
 Die Gruppierung der Elemente geschieht entweder durch ein Register (wie bei <a href="#content-table"><i>Abbildung 19</i></a>, links) oder durch farblich, zum Hintergrund abgehobene, Boxen (<a href="#content-table"><i>Abbildung 19</i></a>, mitte und rechts).
 
@@ -425,6 +441,8 @@ Ziel des Tests ist es Unstimmigkeiten in der Navigation und Handhabung der Anwen
 
 Für den Zweck des Usability-Tests wurde mit drei Mitarbeitern (männlich, Alter 20-30) ein Thinking-Aloud Test<span class="fn"><a href="http://www.useit.com/alertbox/thinking-aloud-tests.html">Thinking Aloud Test</a></span> durchgeführt. Die Mitarbeiter haben Vorkenntnisse über Smartphones, mobile Anwendungen und kennen das Bedienkonzept des iPhones.
 
+---
+
 Jeder Mitarbeiter wird einzeln befragt und erhält während der Testphase Aufgaben die er an Prototypen durchführen soll. Es werden zwei Prototypen betrachtet:
 <ul>
 	<li>**Prototyp 1**: Mock-up auf Papier</ul>
@@ -470,7 +488,7 @@ Die Navigation wurde von den Benutzern gut angenommen, sie fanden sich in der Ba
 
 Es stellte sich aber heraus, dass für das Löschen eines virtuellen Servers keine Funktion im Story-Board vorgesehen war. Somit war es dem Benutzer nicht möglich einen virtuellen Server zu löschen. Dies wurde mit einen Editieren-Button bei der Übersichtsseite der virtuellen Server gelöst.
 
-Des Weiteren fiel auf, dass virtuelle Server die Ausgeschalten sind nicht auf der Übersichtsseite erkennbar waren. Nach eine Änderung werden diese nun grau in der Liste angezeigt und an die unterster Stelle sortiert.
+Des Weiteren fiel auf, dass virtuelle Server die Ausgeschalten sind nicht auf der Übersichtsseite erkennbar waren. Nach einer Änderung werden diese nun grau in der Liste angezeigt und an die unterster Stelle sortiert.
 
 #### Status Abfrage
 
