@@ -83,7 +83,7 @@ Die Anbieter und Nutzer der „Private Cloud“ stammen aus der selben Organisat
 
 #### Public Cloud
 
-Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öffentlich erreichbar und für jeden zugänglich. Eine wichtige Rolle spielt hierbei die Datensicherheit. Jeder Benutzer muss selbst Entscheiden welche und wie viele Daten er in der Cloud speichert. Ein bekanntes Beispiel für die „Private Cloud“ sind die Amazon Web Services<span class="fn"><a href="http://aws.amazon.com">Amazon Web Services</a></span>.
+Die „Public Cloud“ ist nicht für eine Organisation beschränkt, sie ist öffentlich erreichbar und für jeden zugänglich. Eine wichtige Rolle spielt hierbei die Datensicherheit. Jeder Benutzer muss selbst Entscheiden welche und wie viele Daten er in der Cloud speichert. Ein bekanntes Beispiel für die „Public Cloud“ sind die Amazon Web Services<span class="fn"><a href="http://aws.amazon.com">Amazon Web Services</a></span>.
 
 #### Hybrid Cloud
 

@@ -40,7 +40,7 @@ Tettnang, den 14. Juni 2012
 
 Smartphones sind aus unserem Alltag nicht mehr wegzudenken. Ob beim Einkaufen, im Urlaub oder zu Hause auf dem Sofa, überall ist das Smartphone dabei. Durch Virtualisierung vereinfachte IT-Systeme, die heute als „Cloud“ bezeichnet werden, sollen unsere Daten oder Webinhalte ausfallsicher angeboten werden. Es gibt Administratoren die versuchen diesen Dienst für den Kunden immer erreichbar zu halten.
 
-Daher soll mit dieser Bachelor-Thesis versucht werden eine mobile Anwendung zur Verwaltung der Cloud Infrastruktur zu entwickelt. Im Vordergrund steht die Usability einer iPhone Anwendung. Während der Thesis wird ein Prototyp entwickelt und an den gängigen Usability-Regeln gemessen.
+Daher soll mit dieser Bachelor-Thesis versucht werden, eine mobile Anwendung zur Verwaltung der Cloud Infrastruktur zu entwickelt. Im Vordergrund steht die Usability einer iPhone Anwendung. Während der Thesis wird ein Prototyp entwickelt und an den gängigen Usability-Regeln gemessen.
 
 Das Kapitel der Grundlagen umfasst die Definition der verschiedenen „Cloud“-Arten bis zu den Usability-Regeln und die Relevanz für mobile Anwendungen. In der Analyse-Phase wird der IST-Zustand aufgenommen und alternative Anwendungen betrachtet. Darauf folgt die Konzeption anhand der iPhone Navigationsmodelle und Usability-Tests. Im letzten Kapitel, der Realisierung, wird die eingesetzte Technologie näher erläutert.
 

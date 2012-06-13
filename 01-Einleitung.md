@@ -17,11 +17,11 @@ Zu den nationalen und internationalen Kunden zählen namhafte, börsennotierte U
 
 Der Marktanteil für Smartphones mit Google Android oder Apple iOS<span class="fn"><a href="http://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/iPhoneOSTechOverview.pdf">iOS Technology Overview</a></span> steigt jedes Jahr um mehrere Prozent. So sind diese Betriebssysteme schon auf mehr als 50% der Geräte im Umlauf.<span class="fn"><a href="http://www.gartner.com/it/page.jsp?id=1622614">Marktanteile laut Gartner Inc. (April 2011)</a></span>
 
-Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwendung mobiler Anwendungen. Diese Anwendungen haben jedoch völlig andere Anforderungen als Programme für Desktop Computer oder Laptops. Herausstechendstes Merkmal ist der kleinere Bildschirm sowie die Bedienung mittels Touchscreen. Hierauf muss beim Aufbau der Benutzeroberfläche besonders geachtet werden.
+Durch den immer weiter steigenden Verkauf von Smartphones wächst auch die Verwendung mobiler Anwendungen. Diese Anwendungen haben jedoch völlig andere Anforderungen als Programme für Desktop Computer oder Laptops. Herausstechendstes Merkmal ist der kleinere Bildschirm sowie die Bedienung mittels Touchscreen, hierauf muss beim Aufbau der Benutzeroberfläche besonders geachtet werden.
 
 ## Problemstellung
 
-<q>Als Admin fahre ich mit meinem Sportwagen Richtung Süden. Dank meines iPhone bemerke ich, dass meine Internetseite auf Facebook angekündigt wird. Durch die vielen Zugriffe auf den Webserver wäre meine Seite nicht mehr erreichbar und ich würde Umsatz verlieren.</q>
+<q>Als Admin eines Online-Shops fahre ich mit meinem Sportwagen Richtung Süden. Dank meines iPhone bemerke ich, dass meine Internetseite auf Facebook angekündigt wird. Durch die vielen Zugriffe auf den Webserver wäre meine Seite nicht mehr erreichbar und ich würde Umsatz verlieren.</q>
 
 <div style="text-align: right; margin-right: 2em; margin-top: -2em;">
     User-Story eines IT Mitarbeiters
@@ -43,6 +43,10 @@ Als Schnittstelle zwischen iOS Anwendung und den virtuellen Servern soll libvirt
 
 In der Bachelor-Thesis wird keine vollwertige iOS Anwendung entwickelt. Durch ein Konzept und die Erstellung eines Prototyps soll ein gutes Gleichgewicht zwischen Benutzerfreundlichkeit und Anwendungsumfang erreicht werden.
 
+## Zielgruppe der Thesis
+
+Die Leserzielgruppe der Arbeit umfasst Entwickler von mobilen Anwendungen für iPhone Geräte sowie technisch versierte Systemadministratoren. Bei der Entwicklung der Anwendung werden Usability-Regeln und Design berücksichtigt, daher ist die Thesis auch für Usability-Forscher interessant.
+
 ## Struktur und Aufbau der Arbeit
 
 Die Bachelorarbeit ist in vier Teilbereiche gegliedert. Sie spiegelt dadurch den ungefähren Verlauf des Projekts wieder.
@@ -52,7 +56,6 @@ In der <a href="#einleitung"><i>Einleitung</i> wird der Projektträger vorgestel
 In den Kapiteln <a href="#analyse"><i>Analyse</i></a> und <a href="#konzeption"><i>Konzeption</i></a> erfolgt eine Darstellung der aktuellen Situation. Ein erster Prototyp wird erstellt und beschrieben um Usability-Tests anwenden zu können. Anschließend wird die Zielgruppe zum Prototypen befragt. In der <a href="#realisierung"><i>Realisierung</i></a> werden die technischen Aspekte zur Entwicklung der Anwendung angesprochen. Es werden Quelltexte zur grafischen Benutzeroberfläche und Schnittstellen näher erläutert.
 
 Den Abschluss der Thesis bildet das <a href="#fazit"><i>Fazit</i></a> über das gesamte Projekt und die Arbeit. Es folgt ein Ausblick auf den Verlauf des Projekts außerhalb der Bachelor-Thesis.
-
 
 ## Formale Hinweise
 
